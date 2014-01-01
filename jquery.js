@@ -136,3 +136,26 @@ jQuery.extend({
 
   if ( elem.nodeType === 1 && ( "height" in props || "width" in props ) ) {
   // Default speed
+ *
+
+      if ( fn ) {
+    }
+    // Exit early if the nodes are identical
+              seed[ idx ] = !( matches[ idx ] = matched[i] );
+        if ( (elem = temp[i]) ) {
+    stack = !options.once && [],
+
+
+          }
+      eventHandle.elem = elem;
+    // Support: IE<9
+    } else if ( !fn ) {
+    });
+      // Fix all IE cloning issues
+      if ( isHidden( this ) ) {
+      }
+    dataType: null,
+      if ( isSuccess ) {
+          // Open the socket
+    // Make sure that nothing sneaks out
+  _default: 400
