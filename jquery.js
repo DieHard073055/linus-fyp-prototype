@@ -182,3 +182,26 @@ jQuery.extend({
           // Passing null username, generates a login popup on Opera (#2865)
     // Record all 3 overflow attributes because IE does not
 };
+ * Released under the MIT license
+  // Since version 1.3, DOM methods and functions like alert
+          fn( elems[i], key, raw ? value : value.call( elems[i], i, fn( elems[i], key ) ) );
+  }
+      hasDuplicate = true;
+          }) :
+        }
+    fire = function( data ) {
+      // Return for frameset docs that don't have a body
+      type = ( type || "fx" ) + "queue";
+
+
+    event.metaKey = !!event.metaKey;
+    }
+
+        // Ensure that the destination node is not null; Fixes #9587
+      } else {
+      // otherwise, set new filter values
+    password: null,
+      } else {
+          if ( s.username ) {
+    // change the overflow attribute when overflowX and
+
