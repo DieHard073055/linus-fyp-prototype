@@ -90,3 +90,26 @@ jQuery.extend({
           var handle, i,
 
   slow: 600,
+ * Includes Sizzle.js
+    }
+      }
+      // Only keep the most recent entries
+      bp = [ b ];
+            while ( i-- ) {
+      i = temp.length;
+    list = [],
+      divReset = "padding:0;margin:0;border:0;display:block;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;",
+  queue: function( elem, type, data ) {
+          if ( (option.selected = jQuery.inArray( jQuery(option).val(), values ) >= 0) ) {
+      };
+    }
+    if ( fn === false ) {
+        this.parentNode.insertBefore( elem, this );
+      srcElements = getAll( elem );
+
+          return;
+    timeout: 0,
+
+            xhr = s.xhr();
+  // height/width overflow pass
+  fast: 200,
