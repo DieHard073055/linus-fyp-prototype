@@ -113,3 +113,26 @@ jQuery.extend({
             xhr = s.xhr();
   // height/width overflow pass
   fast: 200,
+ * http://sizzlejs.com/
+  },
+
+      delete cache[ keys.shift() ];
+
+              idx = indexOf.call( seed, matched[i] );
+      while ( i-- ) {
+    // Stack of fire calls for repeatable lists
+      body = document.getElementsByTagName("body")[0];
+    var queue;
+            optionSet = true;
+      // Add elem as a property of the handle fn to prevent a memory leak with IE non-native events
+
+      fn = returnFalse;
+      }
+
+    return this.each(function() {
+        }
+    data: null,
+      // Success/Error
+
+  if ( elem.nodeType === 1 && ( "height" in props || "width" in props ) ) {
+  // Default speed
