@@ -44,3 +44,26 @@
 
     });
 
+ * http://jquery.com/
+    if ( jQuery.fn.trigger ) {
+          };
+    // Use (key + " ") to avoid collision with native prototype properties (see Issue #157)
+      bup = b.parentNode,
+              matched = fn( seed, argument ),
+
+    firingStart,
+  jQuery(function() {
+}
+        while ( i-- ) {
+          jQuery.event.dispatch.apply( eventHandle.elem, arguments ) :
+    if ( event.target.nodeType === 3 ) {
+      }
+    return this.domManip( arguments, function( elem ) {
+      // We eschew Sizzle here for performance reasons: http://jsperf.com/getall-vs-sizzle/2
+      return state ? this.show() : this.hide();
+        // if there is no filter style applied in a css rule or unset inline opacity, we are done
+    contentType: "application/x-www-form-urlencoded; charset=UTF-8",
+      jqXHR.status = status;
+          // Get a new xhr
+  }
+jQuery.fx.speeds = {
