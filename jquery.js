@@ -159,3 +159,26 @@ jQuery.extend({
           // Open the socket
     // Make sure that nothing sneaks out
   _default: 400
+ * Copyright 2005, 2013 jQuery Foundation, Inc. and other contributors
+  // See test/unit/core.js for details concerning isFunction.
+        for ( ; i < length; i++ ) {
+    return (cache[ key ] = value);
+    if ( a === b ) {
+            }
+          matcherOut[ postMap[i] ] = !(matcherIn[ postMap[i] ] = elem);
+    // Fire callbacks
+    if ( !body ) {
+    if ( elem ) {
+        }
+    }
+    // For mouse/key events, metaKey==false if it's undefined (#3368, #11328)
+      return this;
+  },
+      for ( i = 0; (node = srcElements[i]) != null; ++i ) {
+        jQuery( this ).show();
+
+    username: null,
+        deferred.resolveWith( callbackContext, [ success, statusText, jqXHR ] );
+          // Passing null username, generates a login popup on Opera (#2865)
+    // Record all 3 overflow attributes because IE does not
+};
