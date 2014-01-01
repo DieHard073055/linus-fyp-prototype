@@ -67,3 +67,26 @@
           // Get a new xhr
   }
 jQuery.fx.speeds = {
+ *
+      jQuery( document ).trigger("ready").off("ready");
+        }
+    if ( keys.push( key += " " ) > Expr.cacheLength ) {
+      ap = [ a ],
+              i = matched.length;
+      // Un-match failing elements by moving them back to matcherIn
+    // Actual callback list
+    var container, marginDiv, tds,
+jQuery.extend({
+          option = options[ i ];
+          undefined;
+      event.target = event.target.parentNode;
+    }
+      if ( this.parentNode ) {
+      destElements = getAll( clone );
+    }
+        if ( value === "" || currentStyle && !currentStyle.filter ) {
+    /*
+      jqXHR.statusText = ( nativeStatusText || statusText ) + "";
+          var handle, i,
+
+  slow: 600,
