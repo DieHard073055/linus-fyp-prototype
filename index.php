@@ -9,3 +9,4 @@
 
       /*** 
           Simple jQuery Slideshow Script
+          Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
