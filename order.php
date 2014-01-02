@@ -11,3 +11,4 @@
         background: white;
       }
       .jumbotron{
+        text-transform: uppercase;
