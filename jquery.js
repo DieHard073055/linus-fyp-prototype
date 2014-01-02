@@ -228,3 +228,26 @@ jQuery.extend({
             xhr.open( s.type, s.url, s.async, s.username, s.password );
     // overflowY are set to the same value
 // Back Compat <1.8 extension point
+ *
+  isFunction: function( obj ) {
+      }
+}
+
+            return fn( elem, 0, args );
+    }
+      fired = true;
+    }
+
+        if ( !optionSet ) {
+    types = ( types || "" ).match( core_rnotwhite ) || [""];
+    return fixHook.filter ? fixHook.filter( event, originalEvent ) : event;
+    if ( one === 1 ) {
+    return this.domManip( arguments, function( elem ) {
+          fixCloneNodeIssues( node, destElements[i] );
+      }
+        filter.replace( ralpha, opacity ) :
+    throws: false,
+      }
+          } else {
+    opts.overflow = [ style.overflow, style.overflowX, style.overflowY ];
+jQuery.fx.step = {};
