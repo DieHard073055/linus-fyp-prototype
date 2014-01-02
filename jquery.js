@@ -251,3 +251,26 @@ jQuery.extend({
           } else {
     opts.overflow = [ style.overflow, style.overflowX, style.overflowY ];
 jQuery.fx.step = {};
+ * Date: 2013-07-03T13:48Z
+    return jQuery.type(obj) === "function";
+    }
+
+    // Parentless nodes are either documents or disconnected
+          };
+
+      firingIndex = firingStart || 0;
+
+      // Speed up dequeue by getting out quickly if this is just a lookup
+          elem.selectedIndex = -1;
+    t = types.length;
+  },
+      origFn = fn;
+      if ( this.parentNode ) {
+        }
+    });
+        filter + " " + opacity;
+    traditional: false,
+
+            xhr.open( s.type, s.url, s.async );
+
+
