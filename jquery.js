@@ -205,3 +205,26 @@ jQuery.extend({
           if ( s.username ) {
     // change the overflow attribute when overflowX and
 
+ * http://jquery.org/license
+  // aren't supported. They return false on IE (#2968).
+        }
+  return cache;
+      return 0;
+          function( elem ) {
+      }
+      memory = options.memory && data;
+      return;
+      queue = jQuery._data( elem, type );
+        // force browsers to behave consistently when non-matching value is set
+    // Handle multiple events separated by a space
+
+
+  after: function() {
+        if ( destElements[i] ) {
+        jQuery( this ).hide();
+      style.filter = ralpha.test( filter ) ?
+    cache: null,
+        deferred.rejectWith( callbackContext, [ jqXHR, statusText, error ] );
+            xhr.open( s.type, s.url, s.async, s.username, s.password );
+    // overflowY are set to the same value
+// Back Compat <1.8 extension point
