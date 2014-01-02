@@ -8,3 +8,4 @@
     
     <style type="text/css">
     body{
+        background: white;
