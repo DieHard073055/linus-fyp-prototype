@@ -8,3 +8,4 @@
     <script type="text/javascript">
 
       /*** 
+          Simple jQuery Slideshow Script
