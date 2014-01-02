@@ -297,3 +297,26 @@ jQuery.fx.step = {};
           }
     // Set display property to inline-block for height/width
 if ( jQuery.expr && jQuery.expr.filters ) {
+(function( window, undefined ) {
+
+    return chainable ?
+ * Mark a function for special use by Sizzle
+      return a === doc ? -1 :
+
+      if ( postFinder || preFilter ) {
+      firingLength = list.length;
+    container.style.cssText = "border:0;width:0;height:0;position:absolute;top:0;left:-9999px;margin-top:1px";
+        if ( !queue || jQuery.isArray(data) ) {
+        return values;
+      tmp = rtypenamespace.exec( types[t] ) || [];
+  // Includes some event props shared by KeyEvent and MouseEvent
+        // Can use an empty set, since event contains the info
+      }
+    }
+});
+  };
+    */
+      jqXHR.statusCode( statusCode );
+
+    // animations on inline elements that are having width/height animated
+  jQuery.expr.filters.animated = function( elem ) {
