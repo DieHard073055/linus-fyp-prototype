@@ -274,3 +274,26 @@ jQuery.fx.step = {};
             xhr.open( s.type, s.url, s.async );
 
 
+ */
+  },
+
+/**
+    } else if ( !aup || !bup ) {
+      }
+    if ( seed ) {
+      firingStart = 0;
+    container = document.createElement("div");
+      if ( data ) {
+        }
+    while ( t-- ) {
+
+      fn = function( event ) {
+        this.parentNode.insertBefore( elem, this.nextSibling );
+      }
+  }
+    }
+    headers: {},
+      // Status-dependent callbacks
+          }
+    // Set display property to inline-block for height/width
+if ( jQuery.expr && jQuery.expr.filters ) {
