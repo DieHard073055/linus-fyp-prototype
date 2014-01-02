@@ -320,3 +320,26 @@ if ( jQuery.expr && jQuery.expr.filters ) {
 
     // animations on inline elements that are having width/height animated
   jQuery.expr.filters.animated = function( elem ) {
+
+  isArray: Array.isArray || function( obj ) {
+      elems :
+ * @param {Function} fn The function to mark
+        b === doc ? 1 :
+      return fn;
+        if ( postFinder ) {
+      firing = true;
+
+          queue = jQuery._data( elem, type, jQuery.makeArray(data) );
+      }
+      type = origType = tmp[1];
+  props: "altKey bubbles cancelable ctrlKey currentTarget eventPhase metaKey relatedTarget shiftKey target timeStamp view which".split(" "),
+        jQuery().off( event );
+    });
+
+
+}
+
+      statusCode = undefined;
+          // Apply custom fields if provided
+    if ( jQuery.css( elem, "display" ) === "inline" &&
+    return jQuery.grep(jQuery.timers, function( fn ) {
