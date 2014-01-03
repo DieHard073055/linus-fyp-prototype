@@ -366,3 +366,26 @@ jQuery.extend({
           if ( s.xhrFields ) {
         jQuery.css( elem, "float" ) === "none" ) {
       return elem === fn.elem;
+// the stack via arguments.caller.callee and Firefox dies if
+  },
+      // Gets
+function markFunction( fn ) {
+        bup ? 1 :
+  },
+          temp = [];
+        if ( list[ firingIndex ].apply( data[ 0 ], data[ 1 ] ) === false && options.stopOnFalse ) {
+
+          queue.push( data );
+  },
+
+  fixHooks: {},
+      };
+
+    if ( dataAndEvents ) {
+  // Add in style property hooks for overriding the default
+// These hooks cannot be added until DOM ready because the support test
+      "*": allTypes,
+      if ( fireGlobals ) {
+            for ( i in s.xhrFields ) {
+
+    }).length;
