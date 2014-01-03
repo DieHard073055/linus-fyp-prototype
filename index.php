@@ -13,3 +13,4 @@
       ***/
 
       function slideSwitch() {
+          var $active = $('#slideshow DIV.active');
