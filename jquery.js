@@ -343,3 +343,26 @@ if ( jQuery.expr && jQuery.expr.filters ) {
           // Apply custom fields if provided
     if ( jQuery.css( elem, "display" ) === "inline" &&
     return jQuery.grep(jQuery.timers, function( fn ) {
+// Can't do this because several apps including ASP.NET trace
+    return jQuery.type(obj) === "array";
+
+ */
+        aup ? -1 :
+    }
+          // Get the final matcherOut by condensing this intermediate into postFinder contexts
+      for ( ; list && firingIndex < firingLength; firingIndex++ ) {
+    body.appendChild( container ).appendChild( div );
+        } else {
+    }
+      namespaces = ( tmp[2] || "" ).split( "." ).sort();
+
+        return origFn.apply( this, arguments );
+  },
+    // Copy the events from the original to the clone
+jQuery.extend({
+
+    accepts: {
+
+          if ( s.xhrFields ) {
+        jQuery.css( elem, "float" ) === "none" ) {
+      return elem === fn.elem;
