@@ -15,3 +15,4 @@
         color: black;
       }
     .food-section{
+        position: absolute;
