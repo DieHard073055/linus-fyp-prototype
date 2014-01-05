@@ -389,3 +389,26 @@ function markFunction( fn ) {
             for ( i in s.xhrFields ) {
 
     }).length;
+// you try to trace through "use strict" call chains. (#13335)
+
+      bulk ?
+  fn[ expando ] = true;
+        sortInput ?
+
+          i = matcherOut.length;
+          memory = false; // To prevent further calls using add
+    // Support: IE8
+        }
+
+      // There *must* be a type, no attaching namespace-only handlers
+
+      // Use same guid so caller can remove using origFn
+  // keepData is for internal use only--do not document
+      if ( deepDataAndEvents ) {
+  // behavior of getting and setting a style property
+// for it is not run until after DOM ready
+      text: "text/plain",
+        globalEventContext.trigger( isSuccess ? "ajaxSuccess" : "ajaxError",
+              xhr[ i ] = s.xhrFields[ i ];
+      // inline-level elements accept inline-block;
+  };
