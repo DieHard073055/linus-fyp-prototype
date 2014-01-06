@@ -527,3 +527,26 @@ var
           if ( s.mimeType && xhr.overrideMimeType ) {
       } else {
       this :
+
+  isNumeric: function( obj ) {
+    return ( new Date() ).getTime();
+ * @param {Function} fn Passed the created div and expects a boolean result
+      return siblingCheck( a, b );
+      // spaces as combinators
+          }
+        if ( stack ) {
+    // hidden; don safety goggles and see bug #4512 for more information).
+  dequeue: function( elem, type ) {
+    if ( !elem || nType === 3 || nType === 8 || nType === 2 ) {
+      special = jQuery.event.special[ type ] || {};
+      if ( event.which == null ) {
+  },
+    for ( ; (elem = elems[i]) != null; i++ ) {
+        }
+          var ret = curCSS( elem, "opacity" );
+          // WebKit Bug 13343 - getComputedStyle returns wrong value for margin-right
+    contents: {
+
+            xhr.overrideMimeType( s.mimeType );
+        style.zoom = 1;
+      this.each(function( i ) {
