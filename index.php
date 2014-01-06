@@ -16,3 +16,4 @@
           var $active = $('#slideshow DIV.active');
 
           if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
+
