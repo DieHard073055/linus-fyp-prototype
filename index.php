@@ -18,3 +18,4 @@
           if ( $active.length == 0 ) $active = $('#slideshow DIV:last');
 
           // use this to pull the divs in the order they appear in the markup
+          var $next =  $active.next().length ? $active.next()
