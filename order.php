@@ -23,3 +23,4 @@
       }
       .food-section h1{ /*food ready*/
         text-transform: uppercase;
+        color: black;
