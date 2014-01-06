@@ -21,3 +21,4 @@
         top: 0px;
         background-color: white;
       }
+      .food-section h1{ /*food ready*/
