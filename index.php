@@ -23,3 +23,4 @@
 
           // uncomment below to pull the divs randomly
           // var $sibs  = $active.siblings();
+          // var rndNum = Math.floor(Math.random() * $sibs.length );
