@@ -16,3 +16,4 @@
       }
     .food-section{
         position: absolute;
+        width: auto;
