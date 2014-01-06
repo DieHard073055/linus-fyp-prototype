@@ -19,3 +19,4 @@
         width: auto;
         height: auto;
         top: 0px;
+        background-color: white;
