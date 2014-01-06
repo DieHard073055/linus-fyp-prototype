@@ -20,3 +20,4 @@
         height: auto;
         top: 0px;
         background-color: white;
+      }
