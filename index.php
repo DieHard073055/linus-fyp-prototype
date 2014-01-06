@@ -21,3 +21,4 @@
           var $next =  $active.next().length ? $active.next()
               : $('#slideshow DIV:first');
 
+          // uncomment below to pull the divs randomly
