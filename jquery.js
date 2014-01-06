@@ -435,3 +435,26 @@ jQuery(function() {
             }
       // block-level elements need to be inline with layout
 }
+//"use strict";
+    /* jshint eqeqeq: false */
+        length ? fn( elems[0], key ) : emptyGet;
+}
+        0;
+    // Potentially complex pseudos
+            if ( (elem = matcherOut[i]) ) {
+        }
+    // to display:none and there are still other visible table cells in a
+      return queue || [];
+    var hooks, ret,
+        continue;
+    props: "char charCode key keyCode".split(" "),
+    }
+    var elem,
+        destElements = destElements || getAll( clone );
+    opacity: {
+  if ( !jQuery.support.reliableMarginRight ) {
+      xml: "application/xml, text/xml",
+      }
+          }
+      if ( !jQuery.support.inlineBlockNeedsLayout || css_defaultDisplay( elem.nodeName ) === "inline" ) {
+jQuery.fn.offset = function( options ) {
