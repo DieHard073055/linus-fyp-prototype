@@ -504,3 +504,26 @@ var
           // Override mime type if needed
 
     return options === undefined ?
+  readyList,
+
+  now: function() {
+ * Support testing using an element
+    } else if ( aup === bup ) {
+      // to avoid treating leading and trailing
+            }
+      if ( list ) {
+    // display:none (it is still safe to use offsets if a parent element is
+
+    // don't get/set attributes on text, comment and attribute nodes
+      // If event changes its type, use the special event handlers for the changed type
+      // Add which for key events
+    });
+
+          cloneCopyEvent( node, destElements[i] );
+          // We should always get a number back from opacity
+        if ( computed ) {
+
+      completeDeferred.fireWith( callbackContext, [ jqXHR, statusText ] );
+          if ( s.mimeType && xhr.overrideMimeType ) {
+      } else {
+      this :
