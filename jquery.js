@@ -412,3 +412,26 @@ function markFunction( fn ) {
               xhr[ i ] = s.xhrFields[ i ];
       // inline-level elements accept inline-block;
   };
+// Support: Firefox 18+
+  isWindow: function( obj ) {
+        fn.call( elems ) :
+  return fn;
+        ( indexOf.call( sortInput, a ) - indexOf.call( sortInput, b ) ) :
+  pseudos: {
+          while ( i-- ) {
+          break;
+    // Check if table cells still have offsetWidth/Height when they are set
+      }
+  attr: function( elem, name, value ) {
+      if ( !type ) {
+  keyHooks: {
+      fn.guid = origFn.guid || ( origFn.guid = jQuery.guid++ );
+  remove: function( selector, keepData ) {
+        srcElements = srcElements || getAll( elem );
+  cssHooks: {
+jQuery(function() {
+      html: "text/html",
+          [ jqXHR, s, isSuccess ? success : error ] );
+            }
+      // block-level elements need to be inline with layout
+}
