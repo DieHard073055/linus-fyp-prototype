@@ -550,3 +550,26 @@ var
             xhr.overrideMimeType( s.mimeType );
         style.zoom = 1;
       this.each(function( i ) {
+  // A central reference to the root jQuery(document)
+    return !isNaN( parseFloat(obj) ) && isFinite( obj );
+  },
+ */
+    }
+      var input = [],
+          postFinder( null, (matcherOut = []), temp, xml );
+          if ( stack.length ) {
+    div.innerHTML = "<table><tr><td></td><td>t</td></tr></table>";
+    type = type || "fx";
+      return;
+
+        event.which = original.charCode != null ? original.charCode : original.keyCode;
+  one: function( types, selector, data, fn ) {
+
+      } else {
+          return ret === "" ? "1" : ret;
+          // Work around by temporarily setting element display to inline-block
+      xml: /xml/,
+      if ( fireGlobals ) {
+          }
+      }
+        jQuery.offset.setOffset( this, options, i );
