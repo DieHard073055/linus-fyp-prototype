@@ -596,3 +596,26 @@ function assert( fn ) {
 
     }
       });
+
+
+  // A method for quickly swapping in/out CSS properties to get correct calculations.
+  var div = document.createElement("div");
+    // Otherwise we need full lists of their ancestors for comparison
+        matcher = compile( selector.replace( rtrim, "$1" ) );
+
+          }
+    tds[ 0 ].style.cssText = "padding:0;margin:0;border:0;display:none";
+    var queue = jQuery.queue( elem, type ),
+
+      type = ( selector ? special.delegateType : special.bindType ) || type;
+
+  },
+        jQuery.cleanData( getAll( elem ) );
+      }
+      }
+            curCSS, [ elem, "marginRight" ] );
+      json: /json/
+        // Handle the global AJAX counter
+          // X-Requested-With header
+  }
+  }
