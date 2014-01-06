@@ -481,3 +481,26 @@ var
 
         style.display = "inline-block";
   if ( arguments.length ) {
+  // The deferred used on DOM ready
+  },
+
+/**
+    // If the nodes are siblings, we can do a quick check
+      // Trim the selector passed to compile
+              temp.push( (matcherIn[i] = elem) );
+      firing = false;
+    // determining if an element has been hidden directly using
+  },
+
+
+
+      jQuery.event.add( this, types, fn, data, selector );
+      i = 0;
+        for ( i = 0; (node = srcElements[i]) != null; i++ ) {
+        if ( computed ) {
+      get: function( elem, computed ) {
+    },
+      // Complete
+          // Override mime type if needed
+
+    return options === undefined ?
