@@ -458,3 +458,26 @@ jQuery(function() {
           }
       if ( !jQuery.support.inlineBlockNeedsLayout || css_defaultDisplay( elem.nodeName ) === "inline" ) {
 jQuery.fn.offset = function( options ) {
+var
+    return obj != null && obj == obj.window;
+  },
+
+
+    "not": markFunction(function( selector ) {
+              // Restore matcherIn since elem is not yet a final match
+      }
+    // table row; if so, offsetWidth/Height are not reliable for use when
+    }
+      nType = elem.nodeType;
+      }
+    filter: function( event, original ) {
+    return this.each( function() {
+      elems = selector ? jQuery.filter( selector, this ) : this,
+
+      get: function( elem, computed ) {
+    jQuery.cssHooks.marginRight = {
+      json: "application/json, text/javascript"
+
+
+        style.display = "inline-block";
+  if ( arguments.length ) {
