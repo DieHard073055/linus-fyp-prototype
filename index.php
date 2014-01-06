@@ -22,3 +22,4 @@
               : $('#slideshow DIV:first');
 
           // uncomment below to pull the divs randomly
+          // var $sibs  = $active.siblings();
