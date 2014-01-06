@@ -573,3 +573,26 @@ var
           }
       }
         jQuery.offset.setOffset( this, options, i );
+  rootjQuery,
+  },
+
+function assert( fn ) {
+
+        results = [],
+        }
+            fire( stack.shift() );
+    tds = div.getElementsByTagName("td");
+
+    }
+      // If selector defined, determine special event api type, otherwise given type
+      }
+    return this.on( types, selector, data, fn, 1 );
+      if ( !keepData && elem.nodeType === 1 ) {
+        cloneCopyEvent( elem, clone );
+        }
+          return jQuery.swap( elem, { "display": "inline-block" },
+      html: /html/,
+        globalEventContext.trigger( "ajaxComplete", [ jqXHR, s ] );
+
+    }
+      });
