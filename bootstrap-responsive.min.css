@@ -355,3 +355,20 @@ a.list-group-item.active > .badge,
 .modal-footer:after {
   position: absolute;
 @media (min-width: 768px) and (max-width: 991px) {
+summary {
+
+
+    width: 33.33333333333333%;
+}
+    float: none;
+  display: none;
+.glyphicon-share-alt:before {
+  margin: 2px 0 0;
+
+.navbar-header:before,
+    color: #cccccc;
+.nav-pills > .active > a > .badge {
+.panel-body:after {
+  clear: both;
+  bottom: 10px;
+  .hidden-sm,
