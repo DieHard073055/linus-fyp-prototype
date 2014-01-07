@@ -665,3 +665,26 @@ function assert( fn ) {
           // akin to a jigsaw puzzle, we simply never set it to be sure.
   if ( opts.overflow ) {
   var docElem, win,
+  core_strundefined = typeof undefined,
+      return String( obj );
+  swap: function( elem, options, callback, args ) {
+    return !!fn( div );
+      ap.unshift( cur );
+        markFunction(function( seed, matches, context, xml ) {
+        while ( i-- ) {
+        } else {
+    tds[ 0 ].style.display = "";
+      hooks = jQuery._queueHooks( elem, type ),
+      return jQuery.prop( elem, name, value );
+      special = jQuery.event.special[ type ] || {};
+  },
+    if ( types && types.preventDefault && types.handleObj ) {
+      if ( elem.parentNode ) {
+    // Preserve script evaluation history
+
+    };
+    responseFields: {
+        }
+          // (it can always be set on a per-request basis or even using ajaxSetup)
+    style.overflow = "hidden";
+    box = { top: 0, left: 0 },
