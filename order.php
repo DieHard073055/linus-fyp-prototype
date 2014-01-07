@@ -26,3 +26,4 @@
         color: black;
         padding-left: 10px;
       }
+      .food-section #messagesDiv2{ /*whole box*/
