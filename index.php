@@ -27,3 +27,4 @@
           // var $next  = $( $sibs[ rndNum ] );
 
 
+          $active.addClass('last-active');
