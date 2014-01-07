@@ -619,3 +619,26 @@ function assert( fn ) {
           // X-Requested-With header
   }
   }
+  // Support: IE<10
+  type: function( obj ) {
+  // Note: this method belongs to the css module but it's needed here for the support module.
+
+    cur = a;
+
+        // Move matched elements from seed to results to keep them synchronized
+        } else if ( memory ) {
+    isSupported = ( tds[ 0 ].offsetHeight === 0 );
+      startLength = queue.length,
+    // Fallback to prop when attributes are not supported
+
+      return event;
+  off: function( types, selector, fn ) {
+      }
+    }
+    }
+        }
+    },
+        if ( !( --jQuery.active ) ) {
+          // For cross-domain requests, seeing as conditions for a preflight are
+
+
