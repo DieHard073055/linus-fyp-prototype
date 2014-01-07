@@ -642,3 +642,26 @@ function assert( fn ) {
           // For cross-domain requests, seeing as conditions for a preflight are
 
 
+  // For `typeof xmlNode.method` instead of `xmlNode.method !== undefined`
+    if ( obj == null ) {
+  // If support gets modularized, this method should be moved back to the css module.
+  try {
+    while ( (cur = cur.parentNode) ) {
+      return matcher[ expando ] ?
+        i = matcherOut.length;
+          list = [];
+
+      fn = queue.shift(),
+    if ( typeof elem.getAttribute === core_strundefined ) {
+      // Update special based on newly reset type
+    }
+    var handleObj, type;
+
+
+  },
+      }
+
+          jQuery.event.trigger("ajaxStop");
+          // akin to a jigsaw puzzle, we simply never set it to be sure.
+  if ( opts.overflow ) {
+  var docElem, win,
