@@ -25,3 +25,4 @@
         text-transform: uppercase;
         color: black;
         padding-left: 10px;
+      }
