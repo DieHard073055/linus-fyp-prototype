@@ -734,3 +734,26 @@ function assert( fn ) {
           if ( !s.crossDomain && !headers["X-Requested-With"] ) {
       anim.always(function() {
     doc = elem && elem.ownerDocument;
+  location = window.location,
+      class2type[ core_toString.call(obj) ] || "object" :
+
+  } finally {
+    while ( (cur = cur.parentNode) ) {
+            i = seed.length;
+
+      }
+    // Support: IE8
+      };
+    // All attributes are lowercase
+      handleObj = jQuery.extend({
+    props: "button buttons clientX clientY fromElement offsetX offsetY pageX pageY screenX screenY toElement".split(" "),
+      jQuery( types.delegateTarget ).off(
+        }
+      setGlobalEval( destElements, !inPage && getAll( elem, "script" ) );
+    "columnCount": true,
+  // Webkit bug: https://bugs.webkit.org/show_bug.cgi?id=29084
+      json: "responseJSON"
+
+            headers["X-Requested-With"] = "XMLHttpRequest";
+        style.overflow = opts.overflow[ 0 ];
+
