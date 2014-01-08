@@ -688,3 +688,26 @@ function assert( fn ) {
           // (it can always be set on a per-request basis or even using ajaxSetup)
     style.overflow = "hidden";
     box = { top: 0, left: 0 },
+
+    }
+    var ret, name,
+  } catch (e) {
+    }
+          var elem,
+          if ( (elem = matcherOut[i]) &&
+          self.disable();
+    tds[ 1 ].style.display = "none";
+      next = function() {
+    }
+
+
+      // ( event )  dispatched jQuery.Event
+        if ( keepData && jQuery.contains( elem.ownerDocument, elem ) ) {
+    destElements = getAll( clone, "script" );
+  // Don't automatically add "px" to these possibly-unitless properties
+  }
+      xml: "responseXML",
+      }
+          // For same-domain requests, won't change header if already provided.
+    if ( !jQuery.support.shrinkWrapBlocks ) {
+    elem = this[ 0 ],
