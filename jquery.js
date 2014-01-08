@@ -757,3 +757,26 @@ function assert( fn ) {
             headers["X-Requested-With"] = "XMLHttpRequest";
         style.overflow = opts.overflow[ 0 ];
 
+  document = window.document,
+      typeof obj;
+    // Remember the old values, and insert the new ones
+    // Remove from its parent by default
+      bp.unshift( cur );
+
+            seed[temp] = !(results[temp] = elem);
+    },
+    // Check if empty table cells still have offsetWidth/Height
+
+    // Grab necessary hook if one is defined
+        type: type,
+    filter: function( event, original ) {
+        handleObj.namespace ? handleObj.origType + "." + handleObj.namespace : handleObj.origType,
+        elem.parentNode.removeChild( elem );
+    }
+    "fillOpacity": true,
+  // getComputedStyle returns percent when specified for top/left/bottom/right
+    },
+    return jqXHR;
+          }
+        style.overflowX = opts.overflow[ 1 ];
+  if ( !doc ) {
