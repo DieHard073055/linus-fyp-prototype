@@ -711,3 +711,26 @@ function assert( fn ) {
           // For same-domain requests, won't change header if already provided.
     if ( !jQuery.support.shrinkWrapBlocks ) {
     elem = this[ 0 ],
+  // Use the correct document accordingly with window argument (sandbox)
+    return typeof obj === "object" || typeof obj === "function" ?
+      old = {};
+    return false;
+    cur = b;
+            unmatched = matcher( seed, null, xml, [] ),
+            (temp = postFinder ? indexOf.call( seed, elem ) : preMap[i]) > -1 ) {
+        }
+
+        jQuery.dequeue( elem, type );
+
+      // handleObj is passed to all event handlers
+  mouseHooks: {
+      handleObj = types.handleObj;
+          setGlobalEval( getAll( elem, "script" ) );
+    if ( destElements.length > 0 ) {
+  cssNumber: {
+
+      text: "responseText",
+    }
+          if ( !s.crossDomain && !headers["X-Requested-With"] ) {
+      anim.always(function() {
+    doc = elem && elem.ownerDocument;
