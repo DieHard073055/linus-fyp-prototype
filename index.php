@@ -28,3 +28,4 @@
 
 
           $active.addClass('last-active');
+
