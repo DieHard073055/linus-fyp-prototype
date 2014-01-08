@@ -29,3 +29,4 @@
 
           $active.addClass('last-active');
 
+          $next.css({opacity: 0.0})
