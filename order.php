@@ -34,3 +34,4 @@
       }
       .food-section h4{
           text-transform: uppercase;          
+          padding: 15px;
