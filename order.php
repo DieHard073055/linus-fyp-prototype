@@ -33,3 +33,4 @@
           margin-left: 10px;
       }
       .food-section h4{
+          text-transform: uppercase;          
