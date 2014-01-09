@@ -33,3 +33,4 @@
               .addClass('active')
               .animate({opacity: 1.0}, 1000, function() {
                   $active.removeClass('active last-active');
+              });
