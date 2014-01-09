@@ -627,3 +627,20 @@ select.input-group-sm > .input-group-btn > .btn {
   margin-left: 5px;
   text-indent: -999px;
 }
+template {
+
+  width: 100%;
+  }
+
+  margin-right: -15px;
+  font-family: 'Glyphicons Halflings';
+.glyphicon-gift:before {
+
+}
+.navbar-header:after {
+}
+  background-color: #eeeeee;
+
+}
+  cursor: pointer;
+
