@@ -826,3 +826,26 @@ function assert( fn ) {
           // Need an extra try/catch for cross domain requests in Firefox 3
       });
   }
+  // Map over jQuery in case of overwrite
+  isPlainObject: function( obj ) {
+      elem.style[ name ] = options[ name ];
+    }
+    // Walk down the tree looking for a discrepancy
+            if ( (elem = unmatched[i]) ) {
+      }
+      // Add a callback or a collection of callbacks to the list
+    // Check box-sizing and margin behavior.
+      fn = queue.shift();
+      hooks = jQuery.attrHooks[ name ] ||
+        handler: handler,
+        fromElement = original.fromElement;
+      );
+
+
+    "opacity": true,
+    jQuery.each( [ "top", "left" ], function( i, prop ) {
+    // Keys separate source (or catchall "*") and destination types with a single space
+  getJSON: function( url, data, callback ) {
+          try {
+    }
+
