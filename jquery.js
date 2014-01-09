@@ -849,3 +849,26 @@ function assert( fn ) {
           try {
     }
 
+  _jQuery = window.jQuery,
+    var key;
+    }
+    // release memory in IE
+    while ( ap[i] === bp[i] ) {
+              seed[i] = !(matches[i] = elem);
+
+      add: function() {
+    div.innerHTML = "";
+      startLength--;
+        ( jQuery.expr.match.bool.test( name ) ? boolHook : nodeHook );
+        guid: handler.guid,
+
+      return this;
+    return this;
+    // Return the cloned set
+    "order": true,
+      jQuery.cssHooks[ prop ] = {
+    converters: {
+    return jQuery.get( url, data, callback, "json" );
+            for ( i in headers ) {
+  }
+  docElem = doc.documentElement;
