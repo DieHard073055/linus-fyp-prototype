@@ -803,3 +803,26 @@ function assert( fn ) {
 
         style.overflowY = opts.overflow[ 2 ];
     return;
+
+
+      old[ name ] = elem.style[ name ];
+      div.parentNode.removeChild( div );
+
+          while ( i-- ) {
+        }
+    self = {
+
+    if ( fn === "inprogress" ) {
+      name = name.toLowerCase();
+        data: data,
+        button = original.button,
+        handleObj.handler
+    }
+    destElements = srcElements = node = null;
+    "lineHeight": true,
+  if ( !jQuery.support.pixelPosition && jQuery.fn.position ) {
+    // Data converters
+
+          // Need an extra try/catch for cross domain requests in Firefox 3
+      });
+  }
