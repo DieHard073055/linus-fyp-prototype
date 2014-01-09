@@ -35,3 +35,4 @@
                   $active.removeClass('active last-active');
               });
       }
+
