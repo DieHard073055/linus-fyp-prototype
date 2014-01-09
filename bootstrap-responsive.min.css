@@ -593,3 +593,20 @@ select.input-group-sm > .input-group-btn > .btn {
 .modal-footer .btn + .btn {
   height: 10px;
     display: none !important;
+
+  text-align: center;
+
+  .col-md-pull-11 {
+  background-color: #f2dede;
+
+
+}
+  left: auto;
+  height: 30px;
+}
+  background-color: #222222;
+  line-height: 2.1428571435;
+  border-top-left-radius: 0;
+  margin-bottom: 0;
+  margin: 1px;
+  }
