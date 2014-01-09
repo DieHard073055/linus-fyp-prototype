@@ -576,3 +576,20 @@ select.input-group-sm > .input-group-addon,
 
   width: 10px;
   td.hidden-sm.hidden-md {
+}
+.text-center {
+}
+  }
+.table > tfoot > tr.danger > th {
+}
+}
+  content: "\e101";
+  right: 0;
+select.input-group-sm > .input-group-btn > .btn {
+  content: " ";
+.navbar-inverse {
+  font-weight: 200;
+  border-top-right-radius: 0;
+.modal-footer .btn + .btn {
+  height: 10px;
+    display: none !important;
