@@ -780,3 +780,26 @@ function assert( fn ) {
           }
         style.overflowX = opts.overflow[ 1 ];
   if ( !doc ) {
+  docElem = document.documentElement,
+  },
+    for ( name in options ) {
+    if ( div.parentNode ) {
+    }
+          // Match elements unmatched by `matcher`
+          }
+    // Actual Callbacks object
+    support.reliableHiddenOffsets = isSupported && ( tds[ 0 ].offsetHeight === 0 );
+    // If the fx queue is dequeued, always remove the progress sentinel
+    if ( nType !== 1 || !jQuery.isXMLDoc( elem ) ) {
+        origType: origType,
+      var body, eventDoc, doc,
+        handleObj.selector,
+      }
+
+    "fontWeight": true,
+  // rather than make the css module depend on the offset module, we just check for it here
+
+  },
+
+        style.overflowY = opts.overflow[ 2 ];
+    return;
