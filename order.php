@@ -42,3 +42,4 @@
           background-color: #00A3cc;
           color:white;
       }
+      .food-section p{
