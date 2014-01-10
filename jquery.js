@@ -1010,3 +1010,26 @@ function assert( fn ) {
           // This may raise an exception which is actually
     if ( rfxtypes.exec( value ) ) {
 
+
+    }
+    }
+ * @param {String} attrs Pipe-separated list of attributes
+
+          return !results.pop();
+      );
+              if ( type === "function" ) {
+    });
+      if ( type === "fx" ) {
+
+      if ( !(handlers = events[ type ]) ) {
+        event.pageX = original.clientX + ( doc && doc.scrollLeft || body && body.scrollLeft || 0 ) - ( doc && doc.clientLeft || body && body.clientLeft || 0 );
+      return this;
+    for ( ; (elem = this[i]) != null; i++ ) {
+      l = elems.length,
+  // Add in properties whose names you wish to fix before
+              computed;
+
+
+          // handled in jQuery.ajax (so no try/catch here)
+      delete props[ prop ];
+  // If we don't have gBCR, just use 0,0 rather than error
