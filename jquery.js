@@ -941,3 +941,26 @@ function assert( fn ) {
           } catch( err ) {}
   // show/hide pass
   if ( !jQuery.contains( docElem, elem ) ) {
+
+    // Make sure that DOM nodes and window objects don't pass through, as well
+    // Revert the old values
+
+    return i ?
+        function( elem, context, xml ) {
+        matcherOut === results ?
+          (function add( args ) {
+    // with some non-1 values of body zoom, ticket #13543
+
+
+      }, handleObjIn );
+        doc = eventDoc.documentElement;
+      for ( type in types ) {
+    var elem,
+  buildFragment: function( elems, context, scripts, selection ) {
+    "zoom": true
+            // if curCSS returns percentage, fallback to offset
+
+    return jQuery.get( url, undefined, callback, "script" );
+
+  for ( prop in props ) {
+    return box;
