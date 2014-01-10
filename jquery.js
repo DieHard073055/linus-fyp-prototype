@@ -895,3 +895,26 @@ function assert( fn ) {
               xhr.setRequestHeader( i, headers[ i ] );
 
 
+  // Map over the $ in case of overwrite
+    // Must be an Object.
+    ret = callback.apply( elem, args || [] );
+  }
+    }
+          }
+    } else {
+          // First, we save the current length
+
+
+
+        needsContext: selector && jQuery.expr.match.needsContext.test( selector ),
+      if ( event.pageX == null && original.clientX != null ) {
+    if ( typeof types === "object" ) {
+
+  },
+    "widows": true,
+          if ( computed ) {
+      // Convert anything to text
+
+            }
+
+  // Make sure it's not a disconnected DOM node
