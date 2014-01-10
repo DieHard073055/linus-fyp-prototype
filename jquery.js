@@ -987,3 +987,26 @@ function assert( fn ) {
           // Do send the request
     value = props[ prop ];
   }
+  class2type = {},
+      return false;
+      elem.style[ name ] = old[ name ];
+ * Adds the same handler for all of the specified attrs
+      siblingCheck( ap[i], bp[i] ) :
+          matcher( input, null, xml, results );
+          matcherOut
+              var type = jQuery.type( arg );
+      support.boxSizing = div.offsetWidth === 4;
+      // automatically dequeued
+        jQuery.removeAttr( elem, name );
+      // Init the event handler queue if we're the first
+
+      }
+
+      tmp, tag, tbody, wrap,
+
+              jQuery( elem ).position()[ prop ] + "px" :
+      "text html": true,
+});
+          // This may raise an exception which is actually
+    if ( rfxtypes.exec( value ) ) {
+
