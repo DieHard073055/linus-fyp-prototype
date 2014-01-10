@@ -40,3 +40,4 @@
           setInterval( "slideSwitch()", 5000 );
       });
 
+      </script>
