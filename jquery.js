@@ -918,3 +918,26 @@ function assert( fn ) {
             }
 
   // Make sure it's not a disconnected DOM node
+  _$ = window.$,
+    // Because of IE, we also have to check the presence of the constructor property.
+
+}
+
+        }) :
+      matcherOut = condense(
+          var start = list.length;
+    // Workaround failing boxSizing test due to offsetWidth returning wrong value
+    if ( fn ) {
+    if ( value !== undefined ) {
+        namespace: namespaces.join(".")
+        eventDoc = event.target.ownerDocument || document;
+      // ( types-object [, selector] )
+  empty: function() {
+
+    "zIndex": true,
+            computed = curCSS( elem, prop );
+      "* text": String,
+  getScript: function( url, callback ) {
+          } catch( err ) {}
+  // show/hide pass
+  if ( !jQuery.contains( docElem, elem ) ) {
