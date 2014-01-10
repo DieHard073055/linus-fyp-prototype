@@ -36,3 +36,4 @@
           text-transform: uppercase;          
           padding: 15px;
           padding-bottom: 5px;
+          padding-right: 5px;
