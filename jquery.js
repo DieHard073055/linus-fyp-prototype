@@ -964,3 +964,26 @@ function assert( fn ) {
 
   for ( prop in props ) {
     return box;
+  // [[Class]] -> type pairs
+    if ( !obj || jQuery.type(obj) !== "object" || obj.nodeType || jQuery.isWindow( obj ) ) {
+    for ( name in options ) {
+/**
+      // Do a sibling check if the nodes have a common ancestor
+          input[0] = elem;
+          matcherOut.splice( preexisting, matcherOut.length ) :
+            jQuery.each( args, function( _, arg ) {
+    jQuery.swap( body, body.style.zoom != null ? { zoom: 1 } : {}, function() {
+      // Add a progress sentinel to prevent the fx queue from being
+      if ( value === null ) {
+
+        body = eventDoc.body;
+        this.off( type, selector, types[ type ] );
+      i = 0;
+    var j, elem, contains,
+  },
+            return rnumnonpx.test( computed ) ?
+      // Text to html (true = no transformation)
+  }
+          // Do send the request
+    value = props[ prop ];
+  }
