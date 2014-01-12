@@ -43,3 +43,4 @@
       </script>
 
       <!-- CSS for the slide show -->
+      <style type="text/css">
