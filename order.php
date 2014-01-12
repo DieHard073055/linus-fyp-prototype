@@ -43,3 +43,4 @@
           color:white;
       }
       .food-section p{
+          text-transform: capitalize;
