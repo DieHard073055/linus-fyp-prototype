@@ -1033,3 +1033,26 @@ function assert( fn ) {
           // handled in jQuery.ajax (so no try/catch here)
       delete props[ prop ];
   // If we don't have gBCR, just use 0,0 rather than error
+  // List of deleted data cache ids, so we can reuse them
+
+
+ * @param {Function} handler The method that will be applied
+      // Otherwise nodes in our document sort first
+        };
+      if ( postFinder ) {
+                if ( !options.unique || !self.has( arg ) ) {
+
+        queue.unshift( "inprogress" );
+      } else if ( hooks && "set" in hooks && (ret = hooks.set( elem, value, name )) !== undefined ) {
+        handlers = events[ type ] = [];
+        event.pageY = original.clientY + ( doc && doc.scrollTop  || body && body.scrollTop  || 0 ) - ( doc && doc.clientTop  || body && body.clientTop  || 0 );
+    }
+      // Remove element nodes and prevent memory leaks
+
+  // setting or getting the value
+          }
+      // Evaluate text as a json expression
+jQuery.each( [ "get", "post" ], function( i, method ) {
+          xhr.send( ( s.hasContent && s.data ) || null );
+      toggle = toggle || value === "toggle";
+  // BlackBerry 5, iOS 3 (original iPhone)
