@@ -814,3 +814,20 @@ body {
 @media screen and (min-width: 768px) {
   margin: 0;
 .hidden-md {
+  margin: 0;
+.h5,
+.col-xs-9 {
+    right: 58.333333333333336%;
+.table > thead > tr > th.warning,
+  clear: both;
+  font-style: normal;
+
+  clear: both;
+  display: table-cell;
+  max-height: 340px;
+
+
+  margin-bottom: 0;
+  .modal-dialog {
+  background-color: #ffffff;
+  display: block !important;
