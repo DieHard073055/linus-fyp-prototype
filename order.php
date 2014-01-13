@@ -48,3 +48,4 @@
           padding-left: 30px;
           padding-top: 0;
           margin-top: 0;
+      }
