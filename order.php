@@ -46,3 +46,4 @@
           text-transform: capitalize;
           font-weight: bold;
           padding-left: 30px;
+          padding-top: 0;
