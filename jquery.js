@@ -1171,3 +1171,26 @@ jQuery.ready.promise = function( obj ) {
 
     }
   return {
+  core_concat = core_deletedIds.concat,
+        return false;
+  if ( !readyList ) {
+  while ( i-- ) {
+  return doc;
+      };
+  });
+              }
+      // Check if div with explicit width and no margin-right incorrectly
+    }
+      }
+          if ( elem.addEventListener ) {
+      }
+    if ( fn === false ) {
+      while ( elem.firstChild ) {
+
+  // Get and set the style property on a DOM Node
+});
+
+      data = undefined;
+            // Firefox throws exceptions when accessing properties
+  }
+    top: box.top  + ( win.pageYOffset || docElem.scrollTop )  - ( docElem.clientTop  || 0 ),
