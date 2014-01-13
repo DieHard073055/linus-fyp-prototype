@@ -882,3 +882,20 @@ a {
     padding-bottom: 30px;
 .carousel-caption {
 tr.hidden-md {
+  background: transparent;
+  line-height: 1.1;
+.col-xs-8 {
+  }
+.table > tbody > tr.warning > td,
+.form-horizontal .form-group:after {
+}
+
+  white-space: nowrap;
+.input-group-btn:not(:first-child):not(:last-child),
+  border-top: 1px solid transparent;
+
+
+.panel > .panel-body + .table-responsive {
+  }
+  position: absolute;
+  display: table-row !important;
