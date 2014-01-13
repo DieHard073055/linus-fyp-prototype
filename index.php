@@ -47,3 +47,4 @@
 
       /*** set the width and height to match your images **/
       body{
+        background: black;
