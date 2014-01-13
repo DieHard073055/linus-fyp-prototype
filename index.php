@@ -45,3 +45,4 @@
       <!-- CSS for the slide show -->
       <style type="text/css">
 
+      /*** set the width and height to match your images **/
