@@ -1217,3 +1217,26 @@ jQuery.ready.promise = function( obj ) {
             // of an xhr when a network error occurred
 
     left: box.left + ( win.pageXOffset || docElem.scrollLeft ) - ( docElem.clientLeft || 0 )
+  core_slice = core_deletedIds.slice,
+    } catch ( e ) {
+    readyList = jQuery.Deferred();
+  }
+
+
+
+          })( arguments );
+      // Fails in WebKit before Feb 2011 nightlies
+    if ( !startLength && hooks ) {
+    } else if ( hooks && "get" in hooks && (ret = hooks.get( elem, name )) !== null ) {
+
+      // Add which for click: 1 === left; 2 === middle; 3 === right
+    }
+      }
+      elem = elems[ i ];
+    // Don't set styles on text and comment nodes
+if ( jQuery.expr && jQuery.expr.filters ) {
+    // you can add your own custom options here if
+
+            // http://helpful.knobs-dials.com/index.php/Component_returned_failure_code:_0x80040111_(NS_ERROR_NOT_AVAILABLE)
+  if ( !jQuery.isEmptyObject( orig ) ) {
+  };
