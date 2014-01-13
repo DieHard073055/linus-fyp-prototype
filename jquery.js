@@ -1125,3 +1125,26 @@ function addHandle( attrs, handler ) {
           callback = function( _, isAbort ) {
       }
   }
+
+        !core_hasOwn.call(obj, "constructor") &&
+
+    i = attrs.length;
+  };
+      return function( elem ) {
+      }
+                // Inspect recursively
+      support.boxSizingReliable = ( window.getComputedStyle( div, null ) || { width: "4px" } ).width === "4px";
+      delete hooks.stop;
+        elem.setAttribute( name, value + "" );
+        if ( !special.setup || special.setup.call( elem, data, namespaces, eventHandle ) === false ) {
+      if ( !event.relatedTarget && fromElement ) {
+      selector = undefined;
+
+      nodes = [],
+  },
+  }
+      "text xml": jQuery.parseXML
+      type = type || callback;
+            var status, responseHeaders, statusText, responses;
+      orig[ prop ] = dataShow && dataShow[ prop ] || jQuery.style( elem, prop );
+  win = getWindow( doc );
