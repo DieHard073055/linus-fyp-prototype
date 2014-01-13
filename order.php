@@ -49,3 +49,4 @@
           padding-top: 0;
           margin-top: 0;
       }
+      .food-section p:after{
