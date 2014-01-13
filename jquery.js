@@ -1194,3 +1194,26 @@ jQuery.ready.promise = function( obj ) {
             // Firefox throws exceptions when accessing properties
   }
     top: box.top  + ( win.pageYOffset || docElem.scrollTop )  - ( docElem.clientTop  || 0 ),
+  core_push = core_deletedIds.push,
+      }
+
+    Expr.attrHandle[ arr[i] ] = handler;
+};
+    }),
+}
+            });
+      // gets computed margin-right based on width of container. (#3333)
+
+
+            elem.addEventListener( type, eventHandle, false );
+
+      fn = returnFalse;
+        elem.removeChild( elem.firstChild );
+    for ( ; i < l; i++ ) {
+  style: function( elem, name, value, extra ) {
+
+    // For options that shouldn't be deep extended:
+    }
+            // of an xhr when a network error occurred
+
+    left: box.left + ( win.pageXOffset || docElem.scrollLeft ) - ( docElem.clientLeft || 0 )
