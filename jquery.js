@@ -1148,3 +1148,26 @@ function addHandle( attrs, handler ) {
             var status, responseHeaders, statusText, responses;
       orig[ prop ] = dataShow && dataShow[ prop ] || jQuery.style( elem, prop );
   win = getWindow( doc );
+  // Save a reference to some core methods
+        !core_hasOwn.call(obj.constructor.prototype, "isPrototypeOf") ) {
+jQuery.ready.promise = function( obj ) {
+
+
+        return Sizzle( selector, elem ).length > 0;
+    }
+                add( arg );
+
+      fn.call( elem, next, hooks );
+        return value;
+          // Bind the global event handler to the element
+        event.relatedTarget = fromElement === event.target ? original.toElement : fromElement;
+    }
+      // Remove any remaining nodes
+      i = 0;
+
+
+    },
+      callback = data;
+
+    }
+  return {
