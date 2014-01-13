@@ -1102,3 +1102,26 @@ function addHandle( attrs, handler ) {
           // Listener
         continue;
     box = elem.getBoundingClientRect();
+  core_version = "1.10.2",
+      if ( obj.constructor &&
+});
+  var arr = attrs.split("|"),
+      0;
+    "has": markFunction(function( selector ) {
+        push.apply( results, matcherOut );
+              } else if ( arg && arg.length && type !== "string" ) {
+      support.pixelPosition = ( window.getComputedStyle( div, null ) || {} ).top !== "1%";
+      // clear up the last queue stop function
+      } else {
+        // Only use addEventListener/attachEvent if the special events handler returns false
+      // Add relatedTarget, if necessary
+      fn = selector;
+      }
+
+    "float": jQuery.support.cssFloat ? "cssFloat" : "styleFloat"
+    });
+      // Parse text as xml
+    if ( jQuery.isFunction( data ) ) {
+          callback = function( _, isAbort ) {
+      }
+  }
