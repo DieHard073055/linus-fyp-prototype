@@ -831,3 +831,20 @@ body {
   .modal-dialog {
   background-color: #ffffff;
   display: block !important;
+}
+.h6 {
+  width: 75%;
+  }
+.table > tbody > tr > th.warning,
+}
+  font-weight: normal;
+.glyphicon-eye-open:before {
+  font-weight: normal;
+}
+  padding-right: 15px;
+.navbar-inverse .navbar-text {
+.container .jumbotron {
+}
+    width: 600px;
+}
+}
