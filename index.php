@@ -50,3 +50,4 @@
         background: black;
       }
       .jumbotron{
+        text-transform: uppercase;
