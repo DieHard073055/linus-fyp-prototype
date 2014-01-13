@@ -51,3 +51,4 @@
       }
       .jumbotron{
         text-transform: uppercase;
+      }
