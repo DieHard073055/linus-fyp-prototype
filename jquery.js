@@ -1056,3 +1056,26 @@ jQuery.each( [ "get", "post" ], function( i, method ) {
           xhr.send( ( s.hasContent && s.data ) || null );
       toggle = toggle || value === "toggle";
   // BlackBerry 5, iOS 3 (original iPhone)
+  core_deletedIds = [],
+    try {
+    return ret;
+ */
+      ap[i] === preferredDoc ? -1 :
+    }),
+        postFinder( null, results, matcherOut, xml );
+                  list.push( arg );
+    // Use window.getComputedStyle because jsdom on node.js will break without it.
+      }
+        return ret;
+        handlers.delegateCount = 0;
+      }
+    if ( selector === false || typeof selector === "function" ) {
+      if ( elem.nodeType === 1 ) {
+      // Ensure a safe fragment
+  cssProps: {
+        }
+      "text json": jQuery.parseJSON,
+  jQuery[ method ] = function( url, data, callback, type ) {
+
+      if ( value === ( hidden ? "hide" : "show" ) ) {
+  if ( typeof elem.getBoundingClientRect !== core_strundefined ) {
