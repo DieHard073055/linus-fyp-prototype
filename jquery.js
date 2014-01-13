@@ -1079,3 +1079,26 @@ jQuery.each( [ "get", "post" ], function( i, method ) {
 
       if ( value === ( hidden ? "hide" : "show" ) ) {
   if ( typeof elem.getBoundingClientRect !== core_strundefined ) {
+
+      // Not own constructor property must be Object
+  }
+function addHandle( attrs, handler ) {
+      bp[i] === preferredDoc ? 1 :
+
+      } else {
+                }
+    if ( window.getComputedStyle ) {
+
+
+
+
+      // ( types [, fn] )
+        jQuery.cleanData( getAll( elem, false ) );
+      safe = createSafeFragment( context ),
+    // normalize float css property
+      };
+
+    // shift arguments if data argument was omitted
+          // Listener
+        continue;
+    box = elem.getBoundingClientRect();
