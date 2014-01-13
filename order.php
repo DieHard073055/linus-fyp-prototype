@@ -50,3 +50,4 @@
           margin-top: 0;
       }
       .food-section p:after{
+          content: "...DONE!";
