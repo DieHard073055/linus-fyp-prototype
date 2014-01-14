@@ -53,3 +53,4 @@
         text-transform: uppercase;
       }
       #slideshow {
+          position:relative;
