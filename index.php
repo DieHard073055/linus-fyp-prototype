@@ -55,3 +55,4 @@
       #slideshow {
           position:relative;
           
+      }
