@@ -52,3 +52,4 @@
       .jumbotron{
         text-transform: uppercase;
       }
+      #slideshow {
