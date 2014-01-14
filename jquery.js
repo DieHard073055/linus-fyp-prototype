@@ -1286,3 +1286,26 @@ function matcherFromTokens( tokens ) {
 
       if ( "hidden" in dataShow ) {
 
+  core_hasOwn = class2type.hasOwnProperty,
+    }
+    // we once tried to use readyState "interactive" here, but it caused issues like the one
+/**
+};
+        return ( elem.textContent || elem.innerText || getText( elem ) ).indexOf( text ) > -1;
+    len = tokens.length,
+          if ( firing ) {
+      marginDiv.style.cssText = div.style.cssText = divReset;
+  },
+    } else {
+          }
+        event.which = ( button & 1 ? 1 : ( button & 2 ? 3 : ( button & 4 ? 2 : 0 ) ) );
+    });
+      // Support: IE<9
+
+    }
+    // Opera reports offsetWidths and offsetHeights less than zero on some elements
+    flatOptions: {
+      type: method,
+              // Was never called and is aborted or complete
+        hidden = dataShow.hidden;
+jQuery.offset = {
