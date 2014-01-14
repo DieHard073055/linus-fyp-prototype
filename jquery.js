@@ -1240,3 +1240,26 @@ if ( jQuery.expr && jQuery.expr.filters ) {
             // http://helpful.knobs-dials.com/index.php/Component_returned_failure_code:_0x80040111_(NS_ERROR_NOT_AVAILABLE)
   if ( !jQuery.isEmptyObject( orig ) ) {
   };
+  core_indexOf = core_deletedIds.indexOf,
+      // IE8,9 Will throw exceptions on certain host objects #9897
+
+}
+Sizzle.matches = function( expr, elements ) {
+    "contains": markFunction(function( text ) {
+function matcherFromTokens( tokens ) {
+          // Do we need to add the callbacks to the
+      // WebKit Bug 13343 - getComputedStyle returns wrong value for margin-right
+      hooks.empty.fire();
+      return ret;
+          } else if ( elem.attachEvent ) {
+      // Note: button is not normalized, so don't use it
+    return this.each(function() {
+
+
+    if ( !elem || elem.nodeType === 3 || elem.nodeType === 8 || !elem.style ) {
+  jQuery.expr.filters.hidden = function( elem ) {
+    // and when you create one that shouldn't be
+    return jQuery.ajax({
+            try {
+    if ( dataShow ) {
+};
