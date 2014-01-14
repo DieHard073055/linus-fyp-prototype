@@ -54,3 +54,4 @@
           color: green;
       }
       .food-section blockquote{
+        margin-bottom: 10px;
