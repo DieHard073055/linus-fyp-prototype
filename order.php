@@ -53,3 +53,4 @@
           content: "...DONE!";
           color: green;
       }
+      .food-section blockquote{
