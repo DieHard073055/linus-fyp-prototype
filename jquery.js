@@ -1309,3 +1309,26 @@ function matcherFromTokens( tokens ) {
               // Was never called and is aborted or complete
         hidden = dataShow.hidden;
 jQuery.offset = {
+  core_trim = core_version.trim,
+
+    // discovered by ChrisS here: http://bugs.jquery.com/ticket/12282#comment:15
+ * Checks document order of two siblings
+
+      };
+    leadingRelative = Expr.relative[ tokens[0].type ],
+            firingLength = list.length;
+      marginDiv.style.marginRight = marginDiv.style.width = "0";
+
+      ret = jQuery.find.attr( elem, name );
+        }
+      }
+  },
+      if ( elem.options && jQuery.nodeName( elem, "select" ) ) {
+        // Add nodes directly
+
+    return elem.offsetWidth <= 0 && elem.offsetHeight <= 0 ||
+      url: true,
+      dataType: type,
+              if ( callback && ( isAbort || xhr.readyState === 4 ) ) {
+      }
+
