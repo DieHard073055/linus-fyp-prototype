@@ -1263,3 +1263,26 @@ function matcherFromTokens( tokens ) {
             try {
     if ( dataShow ) {
 };
+  core_toString = class2type.toString,
+      return false;
+    // Catch cases where $(document).ready() is called after the browser event has already occurred.
+
+  return Sizzle( expr, null, null, elements );
+      return function( elem ) {
+  var checkContext, matcher, j,
+          // current firing batch?
+      marginDiv = div.appendChild( document.createElement("div") );
+    }
+
+            elem.attachEvent( "on" + type, eventHandle );
+      if ( !event.which && button !== undefined ) {
+      jQuery.event.remove( this, types, fn, selector );
+      // If this is a select, ensure that it displays empty (#12336)
+      if ( elem || elem === 0 ) {
+      return;
+    // Support: Opera <= 12.12
+    // deep extended (see ajaxExtend)
+      url: url,
+
+      if ( "hidden" in dataShow ) {
+
