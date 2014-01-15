@@ -1378,3 +1378,26 @@ Sizzle.matchesSelector = function( elem, expr ) {
                 // Only called once
       dataShow = jQuery._data( elem, "fxshow", {} );
     var position = jQuery.css( elem, "position" );
+  jQuery = function( selector, context ) {
+    if ( jQuery.support.ownLast ) {
+      setTimeout( jQuery.ready );
+ * @returns {Number} Returns less than 0 if a precedes b, greater than 0 if a follows b
+  if ( ( elem.ownerDocument || elem ) !== document ) {
+    // "Whether an element is represented by a :lang() selector
+
+          } else if ( memory ) {
+      support.reliableMarginRight =
+    var key = type + "queueHooks";
+      return ret == null ?
+      if ( special.add ) {
+    }
+    return this.each(function() {
+    }
+
+      origName = jQuery.camelCase( name ),
+
+  },
+    });
+                callback = undefined;
+    }
+
