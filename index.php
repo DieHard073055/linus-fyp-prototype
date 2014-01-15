@@ -56,3 +56,4 @@
           position:relative;
           
       }
+      #slideshow DIV {
