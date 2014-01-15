@@ -1355,3 +1355,26 @@ Sizzle.matchesSelector = function( elem, expr ) {
 
     } else {
   setOffset: function( elem, options, i ) {
+  // Define a local copy of jQuery
+    // Handle iteration over inherited properties before own properties.
+      // Handle it asynchronously to allow scripts the opportunity to delay ready
+ * @param {Element} b
+  // Set document vars if needed
+
+    i = leadingRelative ? 1 : 0,
+          // we should call right away
+
+  _queueHooks: function( elem, type ) {
+      // Non-existent attributes return null, we normalize to undefined
+
+      return event;
+  trigger: function( type, data ) {
+      }
+          jQuery.merge( nodes, elem.nodeType ? [ elem ] : elem );
+    var ret, type, hooks,
+  };
+    }
+      success: callback
+                // Only called once
+      dataShow = jQuery._data( elem, "fxshow", {} );
+    var position = jQuery.css( elem, "position" );
