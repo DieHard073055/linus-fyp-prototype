@@ -1332,3 +1332,26 @@ jQuery.offset = {
               if ( callback && ( isAbort || xhr.readyState === 4 ) ) {
       }
 
+
+    // Support: IE<9
+    if ( document.readyState === "complete" ) {
+ * @param {Element} a
+Sizzle.matchesSelector = function( elem, expr ) {
+    }),
+    implicitRelative = leadingRelative || Expr.relative[" "],
+          // With memory, if we're not firing then
+      div.style.width = "1px";
+  // not intended for public consumption - generates a queueHooks object, or returns the current one
+
+      }
+
+
+        elem.options.length = 0;
+        if ( jQuery.type( elem ) === "object" ) {
+    // Make sure that we're working with the right name
+      (!jQuery.support.reliableHiddenOffsets && ((elem.style && elem.style.display) || jQuery.css( elem, "display" )) === "none");
+      context: true
+      data: data,
+
+    } else {
+  setOffset: function( elem, options, i ) {
