@@ -1401,3 +1401,26 @@ Sizzle.matchesSelector = function( elem, expr ) {
                 callback = undefined;
     }
 
+    // The jQuery object is actually just the init constructor 'enhanced'
+      for ( key in obj ) {
+
+ */
+    setDocument( elem );
+    // is based solely on the element's language value
+    // The foundational matcher ensures that elements are reachable from top-level context(s)
+            firingStart = start;
+        !parseFloat( ( window.getComputedStyle( marginDiv, null ) || {} ).marginRight );
+    return jQuery._data( elem, key ) || jQuery._data( elem, key, {
+        undefined :
+        special.add.call( elem, handleObj );
+  },
+      jQuery.event.trigger( type, data, this );
+
+        // Convert non-html into a text node
+      style = elem.style;
+  jQuery.expr.filters.visible = function( elem ) {
+
+  };
+
+
+    // set position first, in-case top/left are set even on static elem
