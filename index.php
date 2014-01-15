@@ -58,3 +58,4 @@
       }
       #slideshow DIV {
           position:absolute;
+          z-index:8;
