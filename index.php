@@ -57,3 +57,4 @@
           
       }
       #slideshow DIV {
+          position:absolute;
