@@ -1424,3 +1424,26 @@ Sizzle.matchesSelector = function( elem, expr ) {
 
 
     // set position first, in-case top/left are set even on static elem
+    return new jQuery.fn.init( selector, context, rootjQuery );
+        return core_hasOwn.call( obj, key );
+    // Standards-based browsers support DOMContentLoaded
+function siblingCheck( a, b ) {
+  }
+    // being equal to the identifier C,
+    matchContext = addCombinator( function( elem ) {
+            fire( memory );
+    }
+      empty: jQuery.Callbacks("once memory").add(function() {
+        ret;
+
+
+    });
+    return this;
+        } else if ( !rhtml.test( elem ) ) {
+
+    return !jQuery.expr.filters.hidden( elem );
+  // Creates a full fledged settings object into target
+});
+                // Do not keep as active anymore
+    // store state if its toggle - enables .stop().toggle() to "reverse"
+    if ( position === "static" ) {
