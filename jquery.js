@@ -1470,3 +1470,26 @@ function siblingCheck( a, b ) {
                 if ( handle ) {
     if ( toggle ) {
       elem.style.position = "relative";
+
+    }
+      // Use the handy event callback
+    diff = cur && a.nodeType === 1 && b.nodeType === 1 &&
+  // Make sure that attribute selectors are quoted
+    // The matching of C against the element's language value is performed case-insensitively.
+    }, implicitRelative, true ),
+        }
+    if ( typeof div.style.zoom !== core_strundefined ) {
+        jQuery._removeData( elem, key );
+  },
+          handleObj.handler.guid = handler.guid;
+    load: {
+  triggerHandler: function( type, data ) {
+
+
+
+}
+  // If target is omitted, writes into ajaxSettings.
+/* Handles responses to an ajax request:
+                  xhr.onreadystatechange = jQuery.noop;
+      dataShow.hidden = !hidden;
+    }
