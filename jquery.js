@@ -1493,3 +1493,26 @@ function siblingCheck( a, b ) {
                   xhr.onreadystatechange = jQuery.noop;
       dataShow.hidden = !hidden;
     }
+  // Used for matching numbers
+
+      document.addEventListener( "DOMContentLoaded", completed, false );
+      ( ~b.sourceIndex || MAX_NEGATIVE ) -
+  expr = expr.replace( rattributeQuotes, "='$1']" );
+    // The identifier C does not have to be a valid language name."
+    matchAnyContext = addCombinator( function( elem ) {
+        return this;
+      // Support: IE<8
+      })
+
+        }
+      // Prevent triggered image.load events from bubbling to window.load
+    var elem = this[0];
+  clone: function( dataAndEvents, deepDataAndEvents ) {
+        // Convert html into DOM nodes
+    // gets hook for the prefixed version
+
+  ajaxSetup: function( target, settings ) {
+ * - finds the right dataType (mediates between content-type and expected dataType)
+                  if ( xhrOnUnloadAbort ) {
+    }
+
