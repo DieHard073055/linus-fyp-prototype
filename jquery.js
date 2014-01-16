@@ -1516,3 +1516,26 @@ function siblingCheck( a, b ) {
                   if ( xhrOnUnloadAbort ) {
     }
 
+  core_pnum = /[+-]?(?:\d*\.|)\d+(?:[eE][+-]?\d+|)/.source,
+    // Own properties are enumerated firstly, so to speed up,
+
+      ( ~a.sourceIndex || MAX_NEGATIVE );
+
+    // http://www.w3.org/TR/selectors/#lang-pseudo
+      return indexOf.call( checkContext, elem ) > -1;
+      },
+      // Check if natively block-level elements act like inline-block
+    });
+  removeAttr: function( elem, value ) {
+      }
+      noBubble: true
+    if ( elem ) {
+    dataAndEvents = dataAndEvents == null ? false : dataAndEvents;
+        } else {
+    // followed by the unprefixed version
+// These hooks are used by animate to expand properties
+    return settings ?
+ * - returns the corresponding response
+                    delete xhrCallbacks[ handle ];
+    if ( hidden ) {
+    var curElem = jQuery( elem ),
