@@ -64,3 +64,4 @@
           background-color: white;
           height:auto;
           width: auto;
+          left:0;
