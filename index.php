@@ -60,3 +60,4 @@
           position:absolute;
           z-index:8;
           opacity:0.0;
+          height: 400px;
