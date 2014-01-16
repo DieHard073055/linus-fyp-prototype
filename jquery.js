@@ -1447,3 +1447,26 @@ function siblingCheck( a, b ) {
                 // Do not keep as active anymore
     // store state if its toggle - enables .stop().toggle() to "reverse"
     if ( position === "static" ) {
+  },
+      }
+    } else if ( document.addEventListener ) {
+  var cur = b && a,
+
+    // or beginning with the identifier C immediately followed by "-".
+      return elem === checkContext;
+          }
+
+        jQuery._removeData( elem, type + "queue" );
+    }
+        if ( !handleObj.handler.guid ) {
+  special: {
+  },
+  },
+          nodes.push( context.createTextNode( elem ) );
+    name = jQuery.cssProps[ origName ] || ( jQuery.cssProps[ origName ] = vendorPropName( style, origName ) );
+  };
+  // with both ajaxSettings and settings fields.
+
+                if ( handle ) {
+    if ( toggle ) {
+      elem.style.position = "relative";
