@@ -63,3 +63,4 @@
           height: 400px;
           background-color: white;
           height:auto;
+          width: auto;
