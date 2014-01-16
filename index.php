@@ -62,3 +62,4 @@
           opacity:0.0;
           height: 400px;
           background-color: white;
+          height:auto;
