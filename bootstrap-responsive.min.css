@@ -1222,3 +1222,20 @@ h4 .small,
   opacity: 0.9;
   .carousel-control .icon-prev,
   tr.hidden-md.hidden-sm,
+
+h5 .small,
+.col-xs-3 {
+    left: 100%;
+    overflow-y: hidden;
+  display: inline-block;
+}
+
+.dropdown-menu > .disabled > a:hover,
+  border: 1px solid #cccccc;
+
+.navbar-inverse .navbar-nav > .disabled > a:focus {
+  padding: 4px;
+.panel > .table-responsive > .table-bordered > tfoot > tr > td:first-child {
+  filter: alpha(opacity=90);
+  .carousel-control .icon-next {
+  th.hidden-md.hidden-sm,
