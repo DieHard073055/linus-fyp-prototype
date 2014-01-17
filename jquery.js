@@ -1585,3 +1585,26 @@ function ajaxHandleResponses( s, jqXHR, responses ) {
                 }
     } else {
       curCSSTop = jQuery.css( elem, "top" ),
+  core_rnotwhite = /\S+/g,
+
+
+  if ( diff ) {
+    ( !rbuggyQSA     || !rbuggyQSA.test( expr ) ) ) {
+      if ( !ridentifier.test(lang || "") ) {
+      return ( !leadingRelative && ( xml || context !== outermostContext ) ) || (
+        if ( list ) {
+      div.innerHTML = "";
+
+      attrNames = value && value.match( core_rnotwhite );
+      if ( selector ) {
+      // Fire native event if possible so blur/focus sequence is correct
+  }
+    return this.map( function () {
+          // Deserialize a standard representation
+    // Check if we're setting a value
+  padding: "",
+      ajaxExtend( ajaxExtend( target, jQuery.ajaxSettings ), settings ) :
+  var firstDataType, ct, finalDataType, type,
+
+      anim.done(function() {
+      curCSSLeft = jQuery.css( elem, "left" ),
