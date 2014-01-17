@@ -1188,3 +1188,20 @@ h2 .small,
 
   .carousel-control .glyphicons-chevron-left,
 @media (min-width: 768px) and (max-width: 991px) {
+  border-bottom: 1px dotted;
+h3 .small,
+}
+  }
+    margin-bottom: 15px;
+
+.glyphicon-minus:before {
+  content: "\e110";
+
+  text-align: center;
+  content: " ";
+.navbar-inverse .navbar-nav > .disabled > a,
+  height: auto;
+.panel > .table-responsive > .table-bordered > tbody > tr > td:first-child,
+.tooltip.in {
+  .carousel-control .glyphicons-chevron-right,
+  .hidden-md.hidden-sm,
