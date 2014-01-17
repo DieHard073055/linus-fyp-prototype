@@ -1539,3 +1539,26 @@ function siblingCheck( a, b ) {
                     delete xhrCallbacks[ handle ];
     if ( hidden ) {
     var curElem = jQuery( elem ),
+
+    // if last one is own, then all properties are own.
+      // A fallback to window.onload, that will always work
+
+  if ( support.matchesSelector && documentIsHTML &&
+    "lang": markFunction( function( lang ) {
+    }, implicitRelative, true ),
+      // Remove a callback from the list
+      // elements when setting their display to 'inline' and giving
+  }
+    var name, propName,
+
+    },
+      return jQuery.event.trigger( type, data, elem, true );
+    deepDataAndEvents = deepDataAndEvents == null ? dataAndEvents : deepDataAndEvents;
+          tmp = tmp || safe.appendChild( context.createElement("div") );
+    hooks = jQuery.cssHooks[ name ] || jQuery.cssHooks[ origName ];
+jQuery.each({
+
+ */
+                  }
+      jQuery( elem ).show();
+      curOffset = curElem.offset(),
