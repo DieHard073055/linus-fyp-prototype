@@ -70,3 +70,4 @@
       #slideshow DIV IMG {
           height: 400px;
           width: auto;
+          display: block;
