@@ -1654,3 +1654,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                 if ( isAbort ) {
       });
       props = {}, curPosition = {}, curTop, curLeft;
+  rtrim = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,
+
+      // Ensure firing before onload, maybe late but safe also for iframes
+
+      var ret = matches.call( elem, expr );
+      lang = lang.replace( runescape, funescape ).toLowerCase();
+          matchAnyContext( elem, context, xml ) );
+            while( ( index = jQuery.inArray( arg, list, index ) ) > -1 ) {
+
+    var setter = 2;
+      while ( (name = attrNames[i++]) ) {
+        handlers.push( handleObj );
+          try {
+  rparentsprev = /^(?:parents|prev(?:Until|All))/,
+  },
+
+
+  jQuery.cssHooks[ prefix + suffix ] = {
+      ajaxExtend( jQuery.ajaxSettings, target );
+
+                  // Abort it manually if needed
+    }
+
