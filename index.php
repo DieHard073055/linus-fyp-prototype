@@ -67,3 +67,4 @@
           left:0;
           right:50%;
       }
+      #slideshow DIV IMG {
