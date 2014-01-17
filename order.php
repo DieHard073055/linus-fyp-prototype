@@ -69,3 +69,4 @@
     <div class="food-section">
       <h1 class="jumbotron">Spring Food Court - Sample Page</h1>
       <h1>Food Ready</h1>
+      <input type='text' id='nameInput2' placeholder='Name'>
