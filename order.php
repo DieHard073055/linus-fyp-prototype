@@ -71,3 +71,4 @@
       <h1>Food Ready</h1>
       <input type='text' id='nameInput2' placeholder='Name'>
       <input type='text' id='messageInput2' placeholder='Message'>
+      <button class='btn btn-primary' id='sendmessage".$i."' onclick='sendMessage()'>Food Ready</button>
