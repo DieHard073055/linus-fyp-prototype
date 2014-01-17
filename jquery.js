@@ -1631,3 +1631,26 @@ jQuery.fn.extend({
                 // If it's an abort
         jQuery( elem ).hide();
       calculatePosition = ( position === "absolute" || position === "fixed" ) && jQuery.inArray("auto", [curCSSTop, curCSSLeft]) > -1,
+  // Make sure we trim BOM and NBSP (here's looking at you, Safari 5.0 and IE)
+  },
+    } else {
+  }
+    try {
+      }
+          matchContext( elem, context, xml ) :
+            var index;
+      support.inlineBlockNeedsLayout = ( div.offsetWidth === 3 );
+  queue: function( type, data ) {
+    if ( attrNames && elem.nodeType === 1 ) {
+      } else {
+        if ( this !== safeActiveElement() && this.focus ) {
+var isSimple = /^.[^:#\[\.,]*$/,
+    });
+          wrap = wrapMap[ tag ] || wrapMap._default;
+      type = typeof value;
+}, function( prefix, suffix ) {
+      // Extending ajaxSettings
+    dataTypes = s.dataTypes;
+                if ( isAbort ) {
+      });
+      props = {}, curPosition = {}, curTop, curLeft;
