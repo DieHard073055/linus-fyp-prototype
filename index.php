@@ -71,3 +71,4 @@
           height: 400px;
           width: auto;
           display: block;
+          border: 0;
