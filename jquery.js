@@ -1608,3 +1608,26 @@ function ajaxHandleResponses( s, jqXHR, responses ) {
 
       anim.done(function() {
       curCSSLeft = jQuery.css( elem, "left" ),
+
+    return key === undefined || core_hasOwn.call( obj, key );
+    // If IE event model is used
+    return diff;
+
+        Sizzle.error( "unsupported lang: " + lang );
+        (checkContext = context).nodeType ?
+          jQuery.each( arguments, function( _, arg ) {
+      div.style.cssText = divReset + "width:1px;padding:1px;display:inline;zoom:1";
+jQuery.fn.extend({
+
+        handlers.splice( handlers.delegateCount++, 0, handleObj );
+      trigger: function() {
+});
+      return jQuery.clone( this, dataAndEvents, deepDataAndEvents );
+          tag = ( rtagName.exec( elem ) || ["", ""] )[1].toLowerCase();
+    if ( value !== undefined ) {
+  border: "Width"
+
+    contents = s.contents,
+                // If it's an abort
+        jQuery( elem ).hide();
+      calculatePosition = ( position === "absolute" || position === "fixed" ) && jQuery.inArray("auto", [curCSSTop, curCSSLeft]) > -1,
