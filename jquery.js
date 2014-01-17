@@ -1677,3 +1677,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   // Abort it manually if needed
     }
 
+
+  isEmptyObject: function( obj ) {
+      document.attachEvent( "onreadystatechange", completed );
+  // Check if b follows a
+
+      return function( elem ) {
+    } ];
+              list.splice( index, 1 );
+      // Support: IE6
+
+        propName = jQuery.propFix[ name ] || name;
+      }
+            this.focus();
+  rneedsContext = jQuery.expr.match.needsContext,
+
+          tmp.innerHTML = wrap[1] + elem.replace( rxhtmlTag, "<$1></$2>" ) + wrap[2];
+      // convert relative number strings (+= or -=) to relative numbers. #7345
+    expand: function( value ) {
+  },
+  // Remove auto dataType and get content-type in the process
+                  if ( xhr.readyState !== 4 ) {
+    anim.done(function() {
+    // need to be able to calculate position if either top or left is auto and position is either absolute or fixed
