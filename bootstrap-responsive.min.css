@@ -1171,3 +1171,20 @@ h1 .small,
 }
 @media screen and (min-width: 768px) {
 
+abbr[title] {
+h2 .small,
+  width: 33.33333333333333%;
+    right: 0;
+    width: 100%;
+}
+
+.glyphicon-random:before {
+}
+  color: #555555;
+  display: table;
+
+  display: block;
+.panel > .table-bordered > tbody > tr > td:first-child,
+
+  .carousel-control .glyphicons-chevron-left,
+@media (min-width: 768px) and (max-width: 991px) {
