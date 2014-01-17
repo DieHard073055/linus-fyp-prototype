@@ -1137,3 +1137,20 @@ h1 {
   filter: alpha(opacity=0);
 }
   }
+}
+.h6 small,
+
+  }
+@media (max-width: 767px) {
+    text-align: right;
+  content: "\20ac";
+}
+  background-color: #428bca;
+  font-weight: normal;
+.navbar-collapse:before,
+  background-color: #080808;
+.thumbnail {
+.panel > .table-bordered > thead > tr > td:first-child,
+  visibility: visible;
+
+}
