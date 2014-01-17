@@ -68,3 +68,4 @@
       <!--This div contains the list of names -->
     <div class="food-section">
       <h1 class="jumbotron">Spring Food Court - Sample Page</h1>
+      <h1>Food Ready</h1>
