@@ -66,3 +66,4 @@
           width: auto;
           left:0;
           right:50%;
+      }
