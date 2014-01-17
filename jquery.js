@@ -1562,3 +1562,26 @@ jQuery.each({
                   }
       jQuery( elem ).show();
       curOffset = curElem.offset(),
+  // Used for splitting on whitespace
+    for ( key in obj ) {}
+      window.addEventListener( "load", completed, false );
+  // Use IE sourceIndex if available on both nodes
+    ( !rbuggyMatches || !rbuggyMatches.test( expr ) ) &&
+      // lang value must be a valid identifier
+    matchers = [ function( elem, context, xml ) {
+      remove: function() {
+      // them layout
+});
+      i = 0,
+      // Add to the element's handler list, delegates in front
+    focus: {
+    }
+
+
+
+  margin: "",
+      // Building a settings object
+function ajaxHandleResponses( s, jqXHR, responses ) {
+                }
+    } else {
+      curCSSTop = jQuery.css( elem, "top" ),
