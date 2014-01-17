@@ -68,3 +68,4 @@
           right:50%;
       }
       #slideshow DIV IMG {
+          height: 400px;
