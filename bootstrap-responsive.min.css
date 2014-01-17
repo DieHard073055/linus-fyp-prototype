@@ -1205,3 +1205,20 @@ h3 .small,
 .tooltip.in {
   .carousel-control .glyphicons-chevron-right,
   .hidden-md.hidden-sm,
+}
+h4 .small,
+
+  .col-md-push-12 {
+    overflow-x: scroll;
+.btn {
+  content: "\2212";
+}
+.dropdown-menu > .disabled > a,
+  background-color: #eeeeee;
+}
+.navbar-inverse .navbar-nav > .disabled > a:hover,
+  max-width: 100%;
+.panel > .table-bordered > tfoot > tr > td:first-child,
+  opacity: 0.9;
+  .carousel-control .icon-prev,
+  tr.hidden-md.hidden-sm,
