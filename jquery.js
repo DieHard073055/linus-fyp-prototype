@@ -1700,3 +1700,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   if ( xhr.readyState !== 4 ) {
     anim.done(function() {
     // need to be able to calculate position if either top or left is auto and position is either absolute or fixed
+  // A simple way to check for HTML strings
+    var name;
+
+  if ( cur ) {
+      // IE 9's matchesSelector returns false on disconnected nodes
+        var elemLang;
+
+              // Handle firing indexes
+      // Check if elements with layout shrink-wrap their children
+    if ( typeof type !== "string" ) {
+
+
+            return false;
+  // methods guaranteed to produce a unique set when starting from a unique set
+  html: function( value ) {
+
+      if ( type === "string" && (ret = rrelNum.exec( value )) ) {
+      var i = 0,
+
+  while( dataTypes[ 0 ] === "*" ) {
+                    xhr.abort();
+      var prop;
+    if ( calculatePosition ) {
