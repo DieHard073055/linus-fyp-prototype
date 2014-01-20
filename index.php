@@ -79,3 +79,4 @@
           opacity:1.0;
           text-align: center;
       }
+      #slideshow DIV.last-active {
