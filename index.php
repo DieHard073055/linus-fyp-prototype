@@ -77,3 +77,4 @@
       #slideshow DIV.active {
           z-index:10;
           opacity:1.0;
+          text-align: center;
