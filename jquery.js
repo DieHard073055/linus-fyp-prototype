@@ -1746,3 +1746,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   }
       jQuery._removeData( elem, "fxshow" );
       curPosition = curElem.position();
+  // Strict HTML recognition (#11290: must start with <)
+      return false;
+      window.attachEvent( "onload", completed );
+      if ( cur === b ) {
+          // As well, disconnected nodes are said to be in a document
+          if ( (elemLang = documentIsHTML ?
+    if ( (matcher = Expr.relative[ tokens[i].type ]) ) {
+                if ( index <= firingLength ) {
+      div.innerHTML = "<div></div>";
+      type = "fx";
+        if ( jQuery.expr.match.bool.test( name ) ) {
+      jQuery.event.global[ type ] = true;
+            // Support: IE<9
+    children: true,
+      var elem = this[0] || {},
+          j = wrap[0];
+        // Fixes bug #9237
+
+  ajaxTransport: addToPrefiltersOrTransports( transports ),
+    if ( ct === undefined ) {
+                } else {
+      for ( prop in orig ) {
+      curTop = curPosition.top;
