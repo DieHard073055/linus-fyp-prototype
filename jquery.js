@@ -1723,3 +1723,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                     xhr.abort();
       var prop;
     if ( calculatePosition ) {
+  // Prioritize #id over <tag> to avoid XSS via location.hash (#9521)
+    for ( name in obj ) {
+      // A fallback to window.onload, that will always work
+    while ( (cur = cur.nextSibling) ) {
+      if ( ret || support.disconnectedMatch ||
+        do {
+  for ( ; i < len; i++ ) {
+              if ( firing ) {
+      div.style.display = "block";
+      data = type;
+        // Boolean attributes get special treatment (#10870)
+      // Keep track of which events have ever been used, for event optimization
+          } catch ( e ) {
+  guaranteedUnique = {
+    return jQuery.access( this, function( value ) {
+          // Descend through wrappers to the right content
+        value = ( ret[1] + 1 ) * ret[2] + parseFloat( jQuery.css( elem, name ) );
+        expanded = {},
+  ajaxPrefilter: addToPrefiltersOrTransports( prefilters ),
+    dataTypes.shift();
+                  }
+      jQuery._removeData( elem, "fxshow" );
+      curPosition = curElem.position();
