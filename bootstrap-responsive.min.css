@@ -1358,3 +1358,20 @@ dfn {
 
   .carousel-caption {
   .hidden-md,
+}
+  font-weight: normal;
+.col-xs-1 {
+  .col-md-push-9 {
+  .table-responsive > .table > thead > tr > th,
+  vertical-align: middle;
+}
+
+  cursor: not-allowed;
+}
+
+
+}
+.panel > .table-bordered > tfoot > tr > th:last-child,
+.tooltip.right {
+    right: 20%;
+  tr.hidden-md,
