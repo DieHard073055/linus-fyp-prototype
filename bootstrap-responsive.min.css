@@ -1273,3 +1273,20 @@ strong {
 
     height: 30px;
     display: none !important;
+  font-weight: bold;
+.h2 .small,
+
+    left: 91.66666666666666%;
+    -webkit-overflow-scrolling: touch;
+  font-size: 14px;
+  content: "\2601";
+}
+}
+
+}
+}
+  background-color: #ffffff;
+
+.tooltip.top {
+    margin-top: -15px;
+  }
