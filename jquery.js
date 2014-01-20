@@ -1907,3 +1907,26 @@ jQuery.fn.extend({
                   // on any attempt to access responseText (#11426)
 
 
+  rvalidchars = /^[\],:{}\s]*$/,
+  },
+        top = window.frameElement == null && document.documentElement;
+}
+
+        } while ( (elem = elem.parentNode) && elem.nodeType === 1 );
+        // Find the next relative operator (if any) for proper handling
+            }
+        // Support: IE<8
+
+            elem[ jQuery.camelCase( "default-" + name ) ] =
+  // Detach an event or set of events from an element
+    },
+  find: function( selector ) {
+          undefined;
+            nodes.push( context.createTextNode( rleadingWhitespace.exec( elem )[0] ) );
+      }
+      }
+      options = url;
+    for ( type in contents ) {
+                  if ( typeof xhr.responseText === "string" ) {
+      if ( !( prop in dataShow ) ) {
+    if ( jQuery.isFunction( options ) ) {
