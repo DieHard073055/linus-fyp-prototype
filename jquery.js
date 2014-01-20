@@ -1792,3 +1792,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   responses = {};
         jQuery.style( elem, prop, orig[ prop ] );
       curLeft = curPosition.left;
+
+    return true;
+      // If IE and not a frame
+      }
+          elem.document && elem.document.nodeType !== 11 ) {
+            elem.getAttribute("xml:lang") || elem.getAttribute("lang")) ) {
+    } else {
+                }
+      support.shrinkWrapBlocks = ( div.offsetWidth !== 3 );
+    }
+          if ( getSetInput && getSetAttribute || !ruseDefault.test( name ) ) {
+
+            // let .trigger() run the handlers
+    next: true,
+        l = this.length;
+            tmp = tmp.lastChild;
+      }
+        parts = typeof value === "string" ? value.split(" ") : [ value ];
+  // Main method
+    }
+                  status = xhr.status;
+      }
+    } else {
