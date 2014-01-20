@@ -80,3 +80,4 @@
           text-align: center;
       }
       #slideshow DIV.last-active {
+          z-index:9;
