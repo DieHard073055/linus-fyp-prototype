@@ -76,3 +76,4 @@
       <div id='messagesDiv2'></div> 
     </div>
 
+<script>
