@@ -1769,3 +1769,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                 } else {
       for ( prop in orig ) {
       curTop = curPosition.top;
+  rquickExpr = /^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]*))$/,
+    }
+
+        return -1;
+          // fragment in IE 9
+            elem.lang :
+      matchers = [ addCombinator(elementMatcher( matchers ), matcher) ];
+                  firingLength--;
+      div.firstChild.style.width = "5px";
+      setter--;
+          // Set corresponding property to false
+    }
+            // If we error on focus to hidden element (#1486, #12518),
+    contents: true,
+        i = 0,
+          while ( j-- ) {
+        type = "number";
+        // assumes a single number if not a string
+
+      ct = s.mimeType || jqXHR.getResponseHeader("Content-Type");
+                  responses = {};
+        jQuery.style( elem, prop, orig[ prop ] );
+      curLeft = curPosition.left;
