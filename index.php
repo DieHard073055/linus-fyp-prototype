@@ -74,3 +74,4 @@
           border: 0;
           margin-bottom: 10px;
       }
+      #slideshow DIV.active {
