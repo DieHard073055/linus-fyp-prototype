@@ -1838,3 +1838,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   responseHeaders = xhr.getAllResponseHeaders();
     });
       curTop = parseFloat( curCSSTop ) || 0;
+  rsingleTag = /^<(\w+)\s*\/?>(?:<\/\1>|)$/,
+
+      var top = false;
+  }
+      }
+            elemLang = elemLang.toLowerCase();
+
+                  firingIndex--;
+      if ( support.inlineBlockNeedsLayout ) {
+    if ( arguments.length < setter ) {
+          // Support: IE<9
+    elem = null;
+        }
+  };
+      if ( value === undefined ) {
+
+      // Make sure that NaN and null values aren't set. See: #7116
+      for ( ; i < 4; i++ ) {
+
+
+
+    for ( prop in orig ) {
+      curLeft = parseFloat( curCSSLeft ) || 0;
