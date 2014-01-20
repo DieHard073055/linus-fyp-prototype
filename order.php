@@ -74,3 +74,4 @@
       <button class='btn btn-primary' id='sendmessage".$i."' onclick='sendMessage()'>Food Ready</button>
 
       <div id='messagesDiv2'></div> 
+    </div>
