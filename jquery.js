@@ -1884,3 +1884,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   // When requesting binary data, IE6-9 will throw an exception
       tween = createTween( hidden ? dataShow[ prop ] : 0, prop, anim );
     }
+  // JSON RegExp
+    throw new Error( msg );
+      try {
+  return a ? 1 : -1;
+  }
+          }
+      if ( matcher[ expando ] ) {
+              }
+        // Prevent IE from shrinking the body in IE 7 mode #12869
+    }
+          } else {
+
+      delegateType: "focusin"
+jQuery.fn.extend({
+          elem.innerHTML.replace( rinlinejQuery, "" ) :
+          if ( !jQuery.support.leadingWhitespace && rleadingWhitespace.test( elem ) ) {
+        return;
+          parts[ i ] || parts[ i - 2 ] || parts[ 0 ];
+    if ( typeof url === "object" ) {
+  if ( ct ) {
+                  // on any attempt to access responseText (#11426)
+
+
