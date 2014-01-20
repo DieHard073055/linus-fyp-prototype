@@ -75,3 +75,4 @@
           margin-bottom: 10px;
       }
       #slideshow DIV.active {
+          z-index:10;
