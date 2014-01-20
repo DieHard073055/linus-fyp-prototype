@@ -81,3 +81,4 @@
         $('#messageInput2').keypress(function (e) {
           if (e.keyCode == 13) {
             var name2 = $('#nameInput2').val();
+            var text2 = $('#messageInput2').val();
