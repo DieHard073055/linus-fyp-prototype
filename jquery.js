@@ -1861,3 +1861,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
 
     for ( prop in orig ) {
       curLeft = parseFloat( curCSSLeft ) || 0;
+
+  error: function( msg ) {
+
+
+    } catch(e) {}
+            return elemLang === lang || elemLang.indexOf( lang + "-" ) === 0;
+      // Return special upon seeing a positional matcher
+                }
+        // Prevent IE 6 from affecting layout for positioned elements #11048
+      return jQuery.queue( this[0], type );
+          // Also clear defaultChecked/defaultSelected (if appropriate)
+  },
+      },
+
+        return elem.nodeType === 1 ?
+          // Manually add leading whitespace removed by IE
+      if ( value == null || type === "number" && isNaN( value ) ) {
+        expanded[ prefix + cssExpand[ i ] + suffix ] =
+    // If url is an object, simulate pre-1.5 signature
+  // Check if we're dealing with a known content-type
+                  // When requesting binary data, IE6-9 will throw an exception
+      tween = createTween( hidden ? dataShow[ prop ] : 0, prop, anim );
+    }
