@@ -1815,3 +1815,26 @@ var isSimple = /^.[^:#\[\.,]*$/,
                   status = xhr.status;
       }
     } else {
+  // Match a standalone tag
+  },
+      // continually check to see if the document is ready
+    }
+        return ret;
+
+      matcher = Expr.filter[ tokens[i].type ].apply( null, tokens[i].matches );
+                if ( index <= firingIndex ) {
+
+
+            elem[ propName ] = false;
+    // Nullify elem to prevent memory leaks in IE
+          }
+    prev: true
+
+          }
+
+
+  ajax: function( url, options ) {
+  }
+                  responseHeaders = xhr.getAllResponseHeaders();
+    });
+      curTop = parseFloat( curCSSTop ) || 0;
