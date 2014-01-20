@@ -76,3 +76,4 @@
       }
       #slideshow DIV.active {
           z-index:10;
+          opacity:1.0;
