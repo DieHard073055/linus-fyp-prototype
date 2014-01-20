@@ -1409,3 +1409,20 @@ hr {
   margin-left: 3px;
     padding-bottom: 30px;
   td.hidden-md {
+  height: 0;
+}
+
+  .col-md-push-8 {
+  .table-responsive > .table > thead > tr > td,
+  border: 1px solid transparent;
+  content: "\270f";
+}
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  padding: 10px 16px;
+    width: auto;
+  background-color: #333333;
+  display: block;
+.panel > .table-responsive > .table-bordered > thead > tr > td:last-child,
+}
+  }
+    display: none !important;
