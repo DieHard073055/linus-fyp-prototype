@@ -2068,3 +2068,26 @@ function createInputPseudo( type ) {
                   try {
       }
     }
+  rdashAlpha = /-([\da-z])/gi,
+      return null;
+            try {
+  return function( elem ) {
+    setDocument( context );
+      var hash = window.location && window.location.hash;
+        return setMatcher(
+      has: function( fn ) {
+    // Null elements to avoid leaks in IE
+        jQuery._queueHooks( this, type );
+        }
+
+      },
+      return this.pushStack( jQuery( selector ).filter(function() {
+        !wrapMap[ ( rtagName.exec( value ) || ["", ""] )[1].toLowerCase() ] ) {
+            elem = tag === "table" && !rtbody.test( elem ) ?
+      // Fixes #8908, it can be done more correctly by specifing setters in cssHooks,
+    jQuery.cssHooks[ prefix + suffix ].set = setPositiveNumber;
+    var // Cross-domain detection vars
+
+                    statusText = xhr.statusText;
+    }
+    if ( options.left != null ) {
