@@ -89,3 +89,4 @@
         $("#sendmessage2").click(function() {
           var name2 = $('#nameInput2').val();
             var text2 = $('#messageInput2').val();
+            myDataRef2.push({name: name2, text: text2});
