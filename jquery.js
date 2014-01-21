@@ -2137,3 +2137,26 @@ function createInputPseudo( type ) {
                     // We normalize with Webkit giving an empty statusText
 }
     }
+  fcamelCase = function( all, letter ) {
+      keepScripts = context;
+              top.doScroll("left");
+  };
+};
+
+            // If the preceding token was a descendant combinator, insert an implicit any-element `*`
+      // Remove all callbacks from the list
+
+          jQuery.dequeue( this, type );
+      }
+    }
+    click: {
+            return true;
+
+              // String was a bare <thead> or <tfoot>
+        style[ name ] = "inherit";
+var r20 = /%20/g,
+      i,
+    finalDataType = dataTypes[ 0 ];
+                    statusText = "";
+
+
