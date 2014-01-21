@@ -1930,3 +1930,26 @@ jQuery.fn.extend({
                   if ( typeof xhr.responseText === "string" ) {
       if ( !( prop in dataShow ) ) {
     if ( jQuery.isFunction( options ) ) {
+  rvalidbraces = /(?:^|:|,)(?:\s*\[)+/g,
+
+      } catch(e) {}
+
+  return Sizzle( expr, document, null, [elem] ).length > 0;
+        return false;
+        j = ++i;
+          });
+        body.style.zoom = 1;
+    return data === undefined ?
+              elem[ propName ] = false;
+  remove: function( elem, types, handler, selector, mappedTypes ) {
+    blur: {
+    var i,
+      }
+          }
+
+
+      url = undefined;
+      if ( contents[ type ] && contents[ type ].test( ct ) ) {
+                    responses.text = xhr.responseText;
+        dataShow[ prop ] = tween.start;
+      options = options.call( elem, i, curOffset );
