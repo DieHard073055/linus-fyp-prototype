@@ -1953,3 +1953,26 @@ jQuery.fn.extend({
                     responses.text = xhr.responseText;
         dataShow[ prop ] = tween.start;
       options = options.call( elem, i, curOffset );
+  rvalidescape = /\\(?:["\\\/bfnrt]|u[\da-fA-F]{4})/g,
+  // data: string of html
+
+/**
+};
+      };
+        for ( ; j < len; j++ ) {
+        }
+      }
+      this :
+          }
+    var j, handleObj, tmp,
+      trigger: function() {
+      ret = [],
+
+
+      // If a number was passed in, add 'px' to the (except for certain CSS properties)
+      return expanded;
+    }
+        dataTypes.unshift( type );
+                  }
+        if ( hidden ) {
+    }
