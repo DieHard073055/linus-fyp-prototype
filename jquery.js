@@ -2022,3 +2022,26 @@ Sizzle.contains = function( context, elem ) {
                   // Firefox throws an exception when accessing
           tween.start = prop === "width" || prop === "height" ? 1 : 0;
     if ( options.top != null ) {
+  // Matches dashed string for camelizing
+  parseHTML: function( data, context, keepScripts ) {
+          if ( !jQuery.isReady ) {
+ */
+  // Set document vars if needed
+    // Miscellaneous
+          }
+      // Check if a given callback is in the list.
+    body.removeChild( container );
+
+        } else {
+      namespaces, origType,
+          return false;
+
+        ( jQuery.support.htmlSerialize || !rnoshimcache.test( value )  ) &&
+
+      }
+
+    options = options || {};
+    }
+                  // statusText for faulty cross-domain requests
+        }
+      props.top = ( options.top - curOffset.top ) + curTop;
