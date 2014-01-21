@@ -86,3 +86,4 @@
             $('#messageInput2').val('');
           }
         });
+        $("#sendmessage2").click(function() {
