@@ -2114,3 +2114,26 @@ function createInputPseudo( type ) {
                   } catch( e ) {
   }
       props.left = ( options.left - curOffset.left ) + curLeft;
+  // Used by jQuery.camelCase as callback to replace()
+    if ( typeof context === "boolean" ) {
+              // http://javascript.nwbox.com/IEContentLoaded/
+    return name === "input" && elem.type === type;
+  return contains( context, elem );
+    },
+          i > 1 && toSelector(
+      },
+  });
+        if ( type === "fx" && queue[0] !== "inprogress" ) {
+        elem.removeAttribute( getSetAttribute ? name : propName );
+      return;
+    },
+          if ( jQuery.contains( self[ i ], this ) ) {
+        value = value.replace( rxhtmlTag, "<$1></$2>" );
+
+      if ( !jQuery.support.clearCloneStyle && value === "" && name.indexOf("background") === 0 ) {
+});
+      // Loop variable
+  if ( dataTypes[ 0 ] in responses ) {
+                    // We normalize with Webkit giving an empty statusText
+}
+    }
