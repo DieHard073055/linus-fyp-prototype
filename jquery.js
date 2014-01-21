@@ -1976,3 +1976,26 @@ jQuery.fn.extend({
                   }
         if ( hidden ) {
     }
+  rvalidtokens = /"[^"\\\r\n]*"|true|false|null|-?(?:\d+\.|)\d+(?:[eE][+-]?\d+|)/g,
+  // context (optional): If specified, the fragment will be created in this context, defaults to document
+      if ( top && top.doScroll ) {
+ * Returns a function to use in pseudos for input types
+
+    }),
+          if ( Expr.relative[ tokens[j].type ] ) {
+        return this;
+    }
+      this.each(function() {
+
+      origCount, t, events,
+        if ( this === safeActiveElement() && this.blur ) {
+      self = this,
+      // See if we can take a shortcut and just use innerHTML
+          // Remove IE's autoinserted <tbody> from table fragments
+      if ( type === "number" && !jQuery.cssNumber[ origName ] ) {
+    }
+
+        break;
+
+          tween.end = tween.start;
+
