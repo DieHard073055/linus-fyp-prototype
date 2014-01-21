@@ -85,3 +85,4 @@
       
       /*pic names*/
       #slideshow p{
+        font-size: 48px;
