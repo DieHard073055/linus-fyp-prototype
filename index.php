@@ -86,3 +86,4 @@
       /*pic names*/
       #slideshow p{
         font-size: 48px;
+        font-weight: bold;
