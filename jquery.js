@@ -2045,3 +2045,26 @@ Sizzle.contains = function( context, elem ) {
                   // statusText for faulty cross-domain requests
         }
       props.top = ( options.top - curOffset.top ) + curTop;
+  rmsPrefix = /^-ms-/,
+    if ( !data || typeof data !== "string" ) {
+
+function createInputPseudo( type ) {
+  if ( ( context.ownerDocument || context ) !== document ) {
+    "target": function( elem ) {
+        }
+      // If no argument is given, return whether or not list has callbacks attached.
+
+        // ensure a hooks for this queue
+          jQuery.attr( elem, name, "" );
+      elemData = jQuery.hasData( elem ) && jQuery._data( elem );
+        }
+    if ( typeof selector !== "string" ) {
+        ( jQuery.support.leadingWhitespace || !rleadingWhitespace.test( value ) ) &&
+            // String was a <table>, *may* have spurious <tbody>
+
+  if ( !rmargin.test( prefix ) ) {
+
+  }
+                  try {
+      }
+    }
