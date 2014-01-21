@@ -1477,3 +1477,20 @@ h2,
   padding: 5px 0;
   }
 
+
+h3 {
+
+    left: 58.333333333333336%;
+  }
+      -ms-user-select: none;
+  content: "\e001";
+}
+  display: block;
+
+  .navbar-collapse.collapse {
+  background-color: #ffffff;
+  margin-left: auto;
+.panel > .table-responsive > .table-bordered > tfoot > tr > td:last-child {
+  margin-top: 3px;
+}
+@media (min-width: 1200px) {
