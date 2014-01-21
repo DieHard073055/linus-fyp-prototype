@@ -1999,3 +1999,26 @@ jQuery.fn.extend({
 
           tween.end = tween.start;
 
+
+  // keepScripts (optional): If true, will include scripts passed in the html string
+        (function doScrollCheck() {
+ * @param {String} type
+Sizzle.contains = function( context, elem ) {
+
+            break;
+      },
+
+        var queue = jQuery.queue( this, type, data );
+        // See #9699 for explanation of this approach (setting first, then removal)
+      special, handlers, type,
+          this.blur();
+      len = self.length;
+      if ( typeof value === "string" && !rnoInnerhtml.test( value ) &&
+          if ( !jQuery.support.tbody ) {
+        value += "px";
+  };
+    // Force options to be an object
+      }
+                  // Firefox throws an exception when accessing
+          tween.start = prop === "width" || prop === "height" ? 1 : 0;
+    if ( options.top != null ) {
