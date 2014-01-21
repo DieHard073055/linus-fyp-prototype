@@ -87,3 +87,4 @@
           }
         });
         $("#sendmessage2").click(function() {
+          var name2 = $('#nameInput2').val();
