@@ -88,3 +88,4 @@
         font-size: 48px;
         font-weight: bold;
         text-align: center;
+        color: #303030;'
