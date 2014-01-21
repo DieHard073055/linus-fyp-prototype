@@ -90,3 +90,4 @@
         text-align: center;
         color: #303030;'
         opacity: 0.5;
+        background-color: white;
