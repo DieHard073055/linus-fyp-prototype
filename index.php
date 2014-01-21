@@ -91,3 +91,4 @@
         color: #303030;'
         opacity: 0.5;
         background-color: white;
+        text-transform: capitalize;
