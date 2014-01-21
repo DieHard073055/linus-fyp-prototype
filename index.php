@@ -89,3 +89,4 @@
         font-weight: bold;
         text-align: center;
         color: #303030;'
+        opacity: 0.5;
