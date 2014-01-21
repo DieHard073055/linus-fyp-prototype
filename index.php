@@ -84,3 +84,4 @@
       }
       
       /*pic names*/
+      #slideshow p{
