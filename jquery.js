@@ -2091,3 +2091,26 @@ function createInputPseudo( type ) {
                     statusText = xhr.statusText;
     }
     if ( options.left != null ) {
+
+    }
+              // Use the trick by Diego Perini
+    var name = elem.nodeName.toLowerCase();
+  }
+      return hash && hash.slice( 1 ) === elem.id;
+          i > 1 && elementMatcher( matchers ),
+        return fn ? jQuery.inArray( fn, list ) > -1 : !!( list && list.length );
+    container = div = tds = marginDiv = null;
+
+
+    if ( !elemData || !(events = elemData.events) ) {
+      delegateType: "focusout"
+        for ( i = 0; i < len; i++ ) {
+
+              tmp.firstChild :
+      // but it would mean to define eight (for every problematic property) identical functions
+  }
+      parts,
+  // Check to see if we have a response for the expected dataType
+                  } catch( e ) {
+  }
+      props.left = ( options.left - curOffset.left ) + curLeft;
