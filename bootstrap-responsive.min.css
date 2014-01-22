@@ -1647,3 +1647,20 @@ h2 .small,
   max-width: 200px;
   clear: both;
 .hidden-lg {
+  font-family: monospace, serif;
+h3 .small {
+  right: 75%;
+  }
+    border-left: 0;
+
+
+.glyphicon-folder-close:before {
+  font-size: 12px;
+.input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle) {
+    margin-left: -15px;
+.navbar-inverse .navbar-nav > .open > a:focus {
+  padding: 9px;
+.panel > .table-bordered > thead > tr:last-child > td,
+  padding: 3px 8px;
+}
+  display: block !important;
