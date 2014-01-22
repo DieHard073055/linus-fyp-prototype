@@ -2275,3 +2275,26 @@ jQuery.Tween = Tween;
                   // If the request is local and we have data: assume a success
 
     }
+
+      scripts = !keepScripts && [];
+            detach();
+ */
+  }
+      return elem === document.activeElement && (!document.hasFocus || document.hasFocus()) && !!(elem.type || elem.href || ~elem.tabIndex);
+          j < len && toSelector( tokens )
+      // Have the list do nothing anymore
+
+      jQuery.dequeue( this, type );
+      set: function( elem, value ) {
+      tmp = rtypenamespace.exec( types[t] ) || [];
+        }
+    for ( i = 0; i < len; i++ ) {
+              jQuery.cleanData( getAll( elem, false ) );
+            while ( j-- ) {
+        // Wrapped to prevent IE from throwing errors when 'invalid' values are provided
+jQuery.fn.extend({
+      timeoutTimer,
+        break;
+                  // (success with no data won't get notified, that's the best we
+Tween.prototype = {
+  }
