@@ -2344,3 +2344,26 @@ var rbrace = /(?:\{[\s\S]*\}|\[[\s\S]*\])$/,
                   if ( !status && s.isLocal && !s.crossDomain ) {
   init: function( elem, options, prop, end, easing, unit ) {
 
+      detach();
+    if ( parsed ) {
+            jQuery.ready();
+    var name = elem.nodeName.toLowerCase();
+    // Don't get fooled by Object.prototype properties (jQuery #13807)
+    // Boolean properties
+      matchers.push( matcher );
+        return this;
+
+  // Based off of the plugin by Clint Helfers, with permission.
+          // Reset value to default in case type is set after value during creation
+
+      // For cross-browser consistency, don't fire native .click() on links
+
+          }
+              }
+          style[ name ] = value;
+  },
+      fireGlobals,
+        firstDataType = type;
+                    status = responses.text ? 200 : 404;
+    this.elem = elem;
+
