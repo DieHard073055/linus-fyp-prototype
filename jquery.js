@@ -2206,3 +2206,26 @@ Sizzle.attr = function( elem, name ) {
 
   return new Tween.prototype.init( elem, options, prop, end, easing );
       options.using.call( elem, props );
+
+    context = context || document;
+            }
+/**
+  // Set document vars if needed
+    },
+          matcher,
+        firingLength = 0;
+
+  },
+
+    types = ( types || "" ).match( core_rnotwhite ) || [""];
+        if ( jQuery.nodeName( this, "input" ) && this.type === "checkbox" && this.click ) {
+      }) );
+            // Remove element nodes and prevent memory leaks
+                0;
+      // If a hook was provided, use that value, otherwise just set the specified value
+  rsubmitterTypes = /^(?:submit|button|image|reset|file)$/i,
+      // Response headers as string
+    for ( type in responses ) {
+                  // Filter status for non standard behaviors
+}
+    } else {
