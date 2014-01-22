@@ -99,3 +99,4 @@
       }
 
       .food-section{
+        position: absolute;
