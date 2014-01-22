@@ -1681,3 +1681,20 @@ h3 .small {
   color: #ffffff;
 
 }
+}
+}
+
+    left: 25%;
+  .table-responsive > .table-bordered > thead > tr > th:last-child,
+.btn:focus {
+  content: "\e005";
+}
+  color: #999999;
+  border-bottom-right-radius: 0;
+  .navbar-collapse .navbar-nav.navbar-right:last-child {
+  background-color: #080808;
+}
+.panel > .table-bordered > tbody > tr:last-child > td,
+  text-align: center;
+.center-block {
+
