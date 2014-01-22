@@ -95,3 +95,4 @@
       }
 
       #slideshow div img p{
+          
