@@ -1664,3 +1664,20 @@ h3 .small {
   padding: 3px 8px;
 }
   display: block !important;
+  font-size: 1em;
+  font-size: 65%;
+}
+  .col-md-push-3 {
+  }
+.btn:hover,
+.glyphicon-heart:before {
+  content: "\e117";
+  line-height: 1.428571429;
+  border-top-right-radius: 0;
+  }
+  color: #ffffff;
+  color: #333333;
+.panel > .table-responsive > .table-bordered > thead > tr:last-child > td,
+  color: #ffffff;
+
+}
