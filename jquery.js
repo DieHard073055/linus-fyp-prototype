@@ -2252,3 +2252,26 @@ Sizzle.attr = function( elem, name ) {
 
 jQuery.Tween = Tween;
       curElem.css( props );
+  completed = function( event ) {
+    var parsed = rsingleTag.exec( data ),
+            // detach all dom ready events
+ * @param {String} type
+    setDocument( elem );
+    "focus": function( elem ) {
+          j < len && matcherFromTokens( (tokens = tokens.slice( j )) ),
+      },
+})({});
+    return this.each(function() {
+    type: {
+    while ( t-- ) {
+          return false;
+
+            if ( elem.nodeType === 1 ) {
+            j = elem && elem.childNodes.length;
+
+
+      // timeout handle
+        finalDataType = type;
+                  // If the request is local and we have data: assume a success
+
+    }
