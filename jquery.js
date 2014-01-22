@@ -2160,3 +2160,26 @@ var r20 = /%20/g,
                     statusText = "";
 
 
+    return letter.toUpperCase();
+      context = false;
+            } catch(e) {
+}
+
+    "root": function( elem ) {
+            tokens.slice( 0, i - 1 ).concat({ value: tokens[ i - 2 ].type === " " ? "*" : "" })
+      empty: function() {
+  // Null elements to avoid leaks in IE
+        }
+    }
+
+      // For checkbox, fire native event so checked state will be right
+          }
+        try {
+              wrap[1] === "<table>" && !rtbody.test( elem ) ?
+      }
+  rbracket = /\[\]$/,
+      // URL without anti-cache param
+  } else {
+                  }
+function Tween( elem, options, prop, end, easing ) {
+    if ( "using" in options ) {
