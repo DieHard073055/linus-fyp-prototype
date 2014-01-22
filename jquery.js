@@ -2298,3 +2298,26 @@ jQuery.fn.extend({
                   // (success with no data won't get notified, that's the best we
 Tween.prototype = {
   }
+    // readyState === "complete" is good enough for us to call the dom ready in oldIE
+
+
+function createButtonPseudo( type ) {
+
+    },
+        );
+      disable: function() {
+var rbrace = /(?:\{[\s\S]*\}|\[[\s\S]*\])$/,
+    });
+        if ( !jQuery.support.radioValue && value === "radio" && jQuery.nodeName(elem, "input") ) {
+      type = origType = tmp[1];
+      },
+      jQuery.find( selector, self[ i ], ret );
+              elem.innerHTML = value;
+              if ( jQuery.nodeName( (tbody = elem.childNodes[j]), "tbody" ) && !tbody.childNodes.length ) {
+        // Fixes bug #5509
+  serialize: function() {
+
+      }
+                  // can do given current implementations)
+  constructor: Tween,
+};
