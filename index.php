@@ -94,3 +94,4 @@
         text-transform: capitalize;
       }
 
+      #slideshow div img p{
