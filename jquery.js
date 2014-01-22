@@ -2183,3 +2183,26 @@ var r20 = /%20/g,
                   }
 function Tween( elem, options, prop, end, easing ) {
     if ( "using" in options ) {
+  },
+    }
+              return setTimeout( doScrollCheck, 50 );
+
+Sizzle.attr = function( elem, name ) {
+      return elem === docElem;
+          ).replace( rtrim, "$1" ),
+        list = [];
+  all = select = fragment = opt = a = input = null;
+      });
+  },
+    // Once for each type.namespace in types; type may be omitted
+      trigger: function() {
+        }
+          for (; i < l; i++ ) {
+                tmp :
+
+  rCRLF = /\r?\n/g,
+      cacheURL,
+    // Try convertible dataTypes
+
+  return new Tween.prototype.init( elem, options, prop, end, easing );
+      options.using.call( elem, props );
