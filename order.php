@@ -95,3 +95,4 @@
         myDataRef2.on('child_added', function(snapshot) {
           var message2 = snapshot.val();
           displayChatMessage2(message2.name, message2.text);
+        });
