@@ -2229,3 +2229,26 @@ Sizzle.attr = function( elem, name ) {
                   // Filter status for non standard behaviors
 }
     } else {
+  // The ready event handler
+
+
+ * Returns a function to use in pseudos for buttons
+  if ( ( elem.ownerDocument || elem ) !== document ) {
+
+          i < j && matcherFromTokens( tokens.slice( i, j ) ),
+        return this;
+  return support;
+  dequeue: function( type ) {
+  attrHooks: {
+    t = types.length;
+          this.click();
+    }
+            elem = this[i] || {};
+
+      if ( !hooks || !("set" in hooks) || (value = hooks.set( elem, value, extra )) !== undefined ) {
+  rsubmittable = /^(?:input|select|textarea|keygen)/i;
+      responseHeadersString,
+      if ( !dataTypes[ 0 ] || s.converters[ type + " " + dataTypes[0] ] ) {
+
+jQuery.Tween = Tween;
+      curElem.css( props );
