@@ -2321,3 +2321,26 @@ var rbrace = /(?:\{[\s\S]*\}|\[[\s\S]*\])$/,
                   // can do given current implementations)
   constructor: Tween,
 };
+    if ( document.addEventListener || event.type === "load" || document.readyState === "complete" ) {
+    // Single tag
+            // and execute any waiting functions
+  return function( elem ) {
+  var fn = Expr.attrHandle[ name.toLowerCase() ],
+
+      }
+        list = stack = memory = undefined;
+  rmultiDash = /([A-Z])/g;
+  },
+          // Setting the type on a radio button after the value resets the value in IE6-9
+      namespaces = ( tmp[2] || "" ).split( "." ).sort();
+
+    }
+            }
+                elem.removeChild( tbody );
+        try {
+    return jQuery.param( this.serializeArray() );
+      // To know if global events are to be dispatched
+      if ( !firstDataType ) {
+                  if ( !status && s.isLocal && !s.crossDomain ) {
+  init: function( elem, options, prop, end, easing, unit ) {
+
