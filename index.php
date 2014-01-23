@@ -101,3 +101,4 @@
       .food-section{
         position: absolute;
         width: auto;
+        height: auto;
