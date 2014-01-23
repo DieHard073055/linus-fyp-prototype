@@ -1749,3 +1749,20 @@ h5,
   border-radius: 4px;
   margin-left: auto;
 }
+}
+h6 {
+
+  }
+  .table-responsive > .table-bordered > tbody > tr > td:last-child,
+
+  content: "\e006";
+}
+  position: fixed;
+  border-right: 0;
+    margin-right: 0;
+  border-top-color: #ffffff;
+  margin-bottom: 20px;
+  border-bottom: 0;
+}
+}
+
