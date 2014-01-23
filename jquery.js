@@ -2367,3 +2367,26 @@ var rbrace = /(?:\{[\s\S]*\}|\[[\s\S]*\])$/,
                     status = responses.text ? 200 : 404;
     this.elem = elem;
 
+      jQuery.ready();
+      return [ context.createElement( parsed[1] ) ];
+          }
+    return (name === "input" || name === "button") && elem.type === type;
+    val = fn && hasOwn.call( Expr.attrHandle, name.toLowerCase() ) ?
+    "enabled": function( elem ) {
+    }
+      },
+function internalData( elem, name, data, pvt /* Internal Use Only */ ){
+  // http://blindsignals.com/index.php/2009/07/jquery-delay/
+          var val = elem.value;
+      // Unbind all events (on this namespace, if provided) for the element
+      _default: function( event ) {
+    // Needed because $( selector, context ) becomes $( context ).find( selector )
+
+            }
+        } catch(e) {}
+  serializeArray: function() {
+
+      }
+                  // IE - #1450: sometimes returns 1223 when it should be 204
+    this.prop = prop;
+jQuery.fn.extend({
