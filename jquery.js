@@ -2436,3 +2436,26 @@ jQuery.fn.extend({
                     status = 204;
     this.options = options;
   position: function() {
+  // Clean-up method for dom ready events
+    parsed = jQuery.buildFragment( [ data ], context, scripts );
+    }
+
+
+
+  return elementMatcher( matchers );
+        return !list;
+  }
+    type = type || "fx";
+            elem.value = val;
+          jQuery.event.remove( elem, type + types[ t ], handler, selector, true );
+    },
+    return ret;
+        // If using innerHTML throws an exception, use the fallback method
+          jQuery.merge( nodes, tmp.childNodes );
+    } else {
+      var elements = jQuery.prop( this, "elements" );
+      responseHeaders,
+    finalDataType = finalDataType || firstDataType;
+                  }
+    this.start = this.now = this.cur();
+    if ( !this[ 0 ] ) {
