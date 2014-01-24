@@ -2413,3 +2413,26 @@ jQuery.fn.extend({
                   } else if ( status === 1223 ) {
     this.easing = easing || "swing";
 
+  },
+
+      }
+}
+      undefined;
+    },
+
+      disabled: function() {
+    return;
+    time = jQuery.fx ? jQuery.fx.speeds[ time ] || time : time;
+          if ( val ) {
+        for ( type in events ) {
+      }
+    ret.selector = this.selector ? this.selector + " " + selector : selector;
+
+
+
+      // Can add propHook for "elements" to filter or add form elements
+      // Response headers
+    // Or just use first one
+                    status = 204;
+    this.options = options;
+  position: function() {
