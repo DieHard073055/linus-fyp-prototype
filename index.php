@@ -103,3 +103,4 @@
         width: auto;
         height: auto;
         right:0;
+        left:50%;
