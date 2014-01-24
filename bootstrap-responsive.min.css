@@ -1800,3 +1800,20 @@ q {
 .tooltip-arrow {
 .pull-right {
 td.hidden-lg {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+}
+  }
+  }
+  background-image: none;
+.glyphicon-star-empty:before {
+  content: "\e119";
+  bottom: 0;
+.input-group .form-control:last-child,
+
+
+}
+.panel-heading {
+  position: absolute;
+  float: right !important;
+  display: table-cell !important;
