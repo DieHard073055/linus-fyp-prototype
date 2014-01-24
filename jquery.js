@@ -2390,3 +2390,26 @@ function internalData( elem, name, data, pvt /* Internal Use Only */ ){
                   // IE - #1450: sometimes returns 1223 when it should be 204
     this.prop = prop;
 jQuery.fn.extend({
+    }
+    }
+        })();
+  };
+      fn( elem, name, !documentIsHTML ) :
+      return elem.disabled === false;
+  }
+      // Is it disabled?
+  if ( !jQuery.acceptData( elem ) ) {
+  delay: function( time, type ) {
+          elem.setAttribute( "type", value );
+      if ( !type ) {
+        return jQuery.nodeName( event.target, "a" );
+    ret = this.pushStack( len > 1 ? jQuery.unique( ret ) : ret );
+          elem = 0;
+          }
+      }
+    return this.map(function(){
+      transport,
+    }
+                  } else if ( status === 1223 ) {
+    this.easing = easing || "swing";
+
