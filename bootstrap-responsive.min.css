@@ -1817,3 +1817,20 @@ td.hidden-lg {
   position: absolute;
   float: right !important;
   display: table-cell !important;
+}
+
+
+  .col-md-push-0 {
+  .table-responsive > .table-bordered > tbody > tr:last-child > th,
+  outline: 0;
+  content: "\e007";
+}
+  left: 0;
+.input-group-addon:last-child,
+.container > .navbar-header,
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+
+  padding: 10px 15px;
+  width: 0;
+}
+}
