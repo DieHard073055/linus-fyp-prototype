@@ -2459,3 +2459,26 @@ jQuery.fn.extend({
                   }
     this.start = this.now = this.cur();
     if ( !this[ 0 ] ) {
+  detach = function() {
+    if ( scripts ) {
+  }
+/**
+  return val === undefined ?
+    "disabled": function( elem ) {
+}
+      },
+
+
+          }
+        }
+
+  },
+        } catch(e) {}
+
+      // If a hook was provided get the non-computed value from there
+      return elements ? jQuery.makeArray( elements ) : this;
+      // Create the final options object
+  }
+                }
+    this.end = end;
+      return;
