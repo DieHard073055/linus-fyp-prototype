@@ -106,3 +106,4 @@
         left:50%;
         top: 0px;
         background-color: black;
+      }
