@@ -2482,3 +2482,26 @@ jQuery.fn.extend({
                 }
     this.end = end;
       return;
+    if ( document.addEventListener ) {
+      jQuery( scripts ).remove();
+  return readyList.promise( obj );
+ * Returns a function to use in pseudos for positionals
+    support.attributes || !documentIsHTML ?
+      return elem.disabled === true;
+
+      // Lock the list in its current state
+  var ret, thisCache,
+    return this.queue( type, function( next, hooks ) {
+          return value;
+        continue;
+    beforeunload: {
+
+      }
+          // Fix #12392 for WebKit and IE > 9
+      if ( hooks && "get" in hooks && (ret = hooks.get( elem, false, extra )) !== undefined ) {
+    })
+      s = jQuery.ajaxSetup( {}, options ),
+
+              }
+    this.unit = unit || ( jQuery.cssNumber[ prop ] ? "" : "px" );
+    }
