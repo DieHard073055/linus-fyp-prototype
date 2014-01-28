@@ -107,3 +107,4 @@
         top: 0px;
         background-color: black;
       }
+      .food-section h1{ /*food ready*/
