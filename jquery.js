@@ -2505,3 +2505,26 @@ jQuery.fn.extend({
               }
     this.unit = unit || ( jQuery.cssNumber[ prop ] ? "" : "px" );
     }
+      document.removeEventListener( "DOMContentLoaded", completed, false );
+    }
+};
+ * @param {Function} fn
+      elem.getAttribute( name ) :
+    },
+function matcherFromGroupMatchers( elementMatchers, setMatchers ) {
+      lock: function() {
+    internalKey = jQuery.expando,
+      var timeout = setTimeout( next, time );
+        }
+      }
+      postDispatch: function( event ) {
+  has: function( target ) {
+
+          tmp.textContent = "";
+        return ret;
+    .filter(function(){
+      // Callbacks context
+  // If we found a dataType
+            } catch( firefoxAccessException ) {
+  },
+
