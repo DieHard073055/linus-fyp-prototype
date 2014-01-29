@@ -108,3 +108,4 @@
         background-color: black;
       }
       .food-section h1{ /*food ready*/
+        text-transform: uppercase;
