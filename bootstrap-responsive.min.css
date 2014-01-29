@@ -1868,3 +1868,20 @@ h5 small,
   border-color: transparent;
 .pull-left {
 @media (max-width: 767px) {
+  font-size: 80%;
+h6 small,
+}
+  .col-md-offset-12 {
+  .table-responsive > .table-bordered > tfoot > tr:last-child > td {
+}
+.glyphicon-user:before {
+  content: "\e120";
+
+.input-group-btn:first-child > .btn:not(:first-child) {
+  margin-left: -15px;
+}
+  color: inherit;
+  border-top-left-radius: 3px;
+  border-style: solid;
+  float: left !important;
+  .hidden-lg.hidden-xs,
