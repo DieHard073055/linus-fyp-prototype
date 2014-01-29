@@ -2528,3 +2528,26 @@ function matcherFromGroupMatchers( elementMatchers, setMatchers ) {
             } catch( firefoxAccessException ) {
   },
 
+      window.removeEventListener( "load", completed, false );
+    return jQuery.merge( [], parsed.childNodes );
+
+ */
+      (val = elem.getAttributeNode(name)) && val.specified ?
+
+  // A counter to specify which element is currently being matched
+        stack = undefined;
+
+      hooks.stop = function() {
+      }
+
+
+    var i,
+      if ( elem ) {
+
+      }
+      var type = this.type;
+      callbackContext = s.context || s,
+  // We add the dataType to the list if needed
+              if ( !isAbort ) {
+  cur: function() {
+    var offsetParent, offset,
