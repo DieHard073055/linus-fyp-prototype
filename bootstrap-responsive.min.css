@@ -1885,3 +1885,20 @@ h6 small,
   border-style: solid;
   float: left !important;
   .hidden-lg.hidden-xs,
+}
+h4 .small,
+
+    margin-left: 100%;
+    border-bottom: 0;
+
+  content: "\e008";
+}
+.pull-right > .dropdown-menu {
+  border-bottom-left-radius: 0;
+}
+
+}
+}
+}
+}
+  tr.hidden-lg.hidden-xs,
