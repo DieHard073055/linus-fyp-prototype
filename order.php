@@ -110,3 +110,4 @@
 //         var myDataRef2 = new Firebase('https://diehard073055.firebaseio.com/chat2/');
 //         $('#messageInput2').keypress(function (e) {
 //           if (e.keyCode == 13) {
+//             var name2 = $('#nameInput2').val();
