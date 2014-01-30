@@ -2551,3 +2551,26 @@ function matcherFromGroupMatchers( elementMatchers, setMatchers ) {
               if ( !isAbort ) {
   cur: function() {
     var offsetParent, offset,
+
+  },
+// Populate the class2type map
+function createPositionalPseudo( fn ) {
+        val.value :
+    "checked": function( elem ) {
+  var matcherCachedRuns = 0,
+        if ( !memory ) {
+    // We have to handle DOM nodes and JS objects differently because IE6-7
+        clearTimeout( timeout );
+    }
+      special = jQuery.event.special[ type ] || {};
+        // Even when returnValue equals to undefined Firefox will still show alert
+      targets = jQuery( target, this ),
+        this.empty().append( value );
+          // Fix #12392 for oldIE
+
+      // Use .is(":disabled") so that fieldset[disabled] works
+      // Context for global events is callbackContext if it is a DOM node or jQuery collection
+  // and return the corresponding response
+                complete( -1, firefoxAccessException );
+    var hooks = Tween.propHooks[ this.prop ];
+      parentOffset = { top: 0, left: 0 },
