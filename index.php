@@ -110,3 +110,4 @@
       .food-section h1{ /*food ready*/
         text-transform: uppercase;
         color: white;
+        padding-left: 10px;
