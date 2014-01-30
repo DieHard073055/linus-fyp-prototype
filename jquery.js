@@ -2574,3 +2574,26 @@ function createPositionalPseudo( fn ) {
                 complete( -1, firefoxAccessException );
     var hooks = Tween.propHooks[ this.prop ];
       parentOffset = { top: 0, left: 0 },
+    } else {
+
+jQuery.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
+  return markFunction(function( argument ) {
+        null :
+      // In CSS3, :checked should return both checked and selected elements
+    bySet = setMatchers.length > 0,
+          self.disable();
+    // can't GC object references properly across the DOM-JS boundary
+      };
+  },
+      type = ( selector ? special.delegateType : special.bindType ) || type;
+        if ( event.result !== undefined ) {
+      len = targets.length;
+      }
+          while ( tmp.firstChild ) {
+      // Otherwise just get the value from the style object
+      return this.name && !jQuery( this ).is( ":disabled" ) &&
+      globalEventContext = s.context && ( callbackContext.nodeType || callbackContext.jquery ) ?
+  if ( finalDataType ) {
+              }
+
+      elem = this[ 0 ];
