@@ -2597,3 +2597,26 @@ jQuery.each("Boolean Number String Function Array Date RegExp Object Error".spli
               }
 
       elem = this[ 0 ];
+      document.detachEvent( "onreadystatechange", completed );
+  parseJSON: function( data ) {
+  class2type[ "[object " + name + "]" ] = name.toLowerCase();
+    argument = +argument;
+    val;
+      // http://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
+    byElement = elementMatchers.length > 0,
+        }
+    isNode = elem.nodeType,
+    });
+
+      handlers = events[ type ] || [];
+          event.originalEvent.returnValue = event.result;
+
+    }, null, value, arguments.length );
+            tmp.removeChild( tmp.firstChild );
+      return style[ name ];
+        rsubmittable.test( this.nodeName ) && !rsubmitterTypes.test( type ) &&
+        jQuery( callbackContext ) :
+    if ( finalDataType !== dataTypes[ 0 ] ) {
+            }
+    return hooks && hooks.get ?
+
