@@ -1953,3 +1953,20 @@ fieldset[disabled] .btn {
   bottom: 0;
   display: none !important;
     display: none !important;
+  position: relative;
+}
+
+  }
+fieldset {
+  pointer-events: none;
+  content: "\e009";
+}
+
+.input-group-addon:last-child {
+  .container > .navbar-collapse {
+  border-top-color: #ffffff;
+}
+}
+  left: 50%;
+}
+  }
