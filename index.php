@@ -113,3 +113,4 @@
         padding-left: 10px;
       }
       .food-section #messagesDiv2{ /*whole box*/
+          padding: 10px;
