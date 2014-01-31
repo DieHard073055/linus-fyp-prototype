@@ -2666,3 +2666,26 @@ jQuery.each("Boolean Number String Function Array Date RegExp Object Error".spli
             // Call complete if needed
       Tween.propHooks._default.get( this );
     if ( jQuery.css( elem, "position" ) === "fixed" ) {
+  };
+      return window.JSON.parse( data );
+function isArraylike( obj ) {
+        matchIndexes = fn( [], seed.length, argument ),
+Sizzle.error = function( msg ) {
+    },
+        setMatched = [],
+      // Is it locked?
+    // attached directly to the object so GC can occur automatically
+    return this.queue( type || "fx", [] );
+    "class": "className"
+      // Remove matching events
+    }
+        if ( jQuery.contains( this, targets[i] ) ) {
+  replaceWith: function() {
+          // Remember the top-level container for proper cleanup
+
+    .map(function( i, elem ){
+      deferred = jQuery.Deferred(),
+    return responses[ finalDataType ];
+            if ( responses ) {
+  },
+      // we assume that getBoundingClientRect is available when computed position is fixed
