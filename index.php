@@ -111,3 +111,4 @@
         text-transform: uppercase;
         color: white;
         padding-left: 10px;
+      }
