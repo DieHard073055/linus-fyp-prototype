@@ -2620,3 +2620,26 @@ jQuery.each("Boolean Number String Function Array Date RegExp Object Error".spli
             }
     return hooks && hooks.get ?
 
+      window.detachEvent( "onload", completed );
+    // Attempt to parse using the native JSON parser first
+});
+    return markFunction(function( seed, matches ) {
+};
+      var nodeName = elem.nodeName.toLowerCase();
+    superMatcher = function( seed, context, xml, results, expandContext ) {
+        return this;
+
+  },
+  propFix: {
+      tmp = tmp[2] && new RegExp( "(^|\\.)" + namespaces.join("\\.(?:.*\\.|)") + "(\\.|$)" );
+        }
+    return this.filter(function() {
+  },
+          }
+    }
+        ( this.checked || !manipulation_rcheckableType.test( type ) );
+        jQuery.event,
+      dataTypes.unshift( finalDataType );
+
+      hooks.get( this ) :
+    // fixed elements are offset from window (parentOffset = {top:0, left: 0}, because it is it's only offset parent
