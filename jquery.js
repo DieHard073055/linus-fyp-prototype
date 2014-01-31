@@ -2643,3 +2643,26 @@ jQuery.each("Boolean Number String Function Array Date RegExp Object Error".spli
 
       hooks.get( this ) :
     // fixed elements are offset from window (parentOffset = {top:0, left: 0}, because it is it's only offset parent
+    }
+    if ( window.JSON && window.JSON.parse ) {
+
+      var j,
+
+      return (nodeName === "input" && !!elem.checked) || (nodeName === "option" && !!elem.selected);
+      var elem, j, matcher,
+      },
+    // Only DOM nodes need the global jQuery cache; JS object data is
+  clearQueue: function( type ) {
+    "for": "htmlFor",
+
+      }
+      for ( i = 0; i < len; i++ ) {
+
+
+  },
+    })
+      // Deferreds
+    }
+            // Call complete if needed
+      Tween.propHooks._default.get( this );
+    if ( jQuery.css( elem, "position" ) === "fixed" ) {
