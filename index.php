@@ -114,3 +114,4 @@
       }
       .food-section #messagesDiv2{ /*whole box*/
           padding: 10px;
+          padding-left: 0px;
