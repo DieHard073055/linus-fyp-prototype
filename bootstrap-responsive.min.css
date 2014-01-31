@@ -1970,3 +1970,20 @@ fieldset {
   left: 50%;
 }
   }
+  font-size: 75%;
+
+.col-xs-pull-4 {
+  .col-md-offset-10 {
+  padding: 0;
+  cursor: not-allowed;
+}
+
+.dropup .caret,
+  border-left: 0;
+    margin-right: 0;
+  border-bottom-color: #ffffff;
+
+
+  margin-left: -5px;
+
+}
