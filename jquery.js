@@ -2804,3 +2804,26 @@ jQuery.fn = jQuery.prototype = {
           if ( !s.async ) {
     if ( this.options.duration ) {
 
+  constructor: jQuery,
+
+  }
+          seed[j] = !(matches[j] = seed[j]);
+ * @param {ArrayLike} results
+        elem.parentNode.selectedIndex;
+        // We must always have either seed elements or context
+        if ( list && ( !fired || stack ) ) {
+
+      count = 1,
+
+          ( !handler || handler.guid === handleObj.guid ) &&
+    // simulated event prevents default then we do the same on the donor.
+
+      i = 0;
+    // Fix #11356: Clear elements from fragment
+    name = jQuery.cssProps[ origName ] || ( jQuery.cssProps[ origName ] = vendorPropName( elem.style, origName ) );
+          jQuery.map( val, function( val ){
+      requestHeadersNames = {},
+ */
+            // if we're in sync mode we fire the callback
+      this.pos = eased = jQuery.easing[ this.easing ](
+      // Get correct offsets
