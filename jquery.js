@@ -2850,3 +2850,26 @@ function ajaxConvert( s, response, jqXHR, isSuccess ) {
             callback();
         percent, this.options.duration * percent, 0, 1, this.options.duration
       offset = this.offset();
+    var match, elem;
+
+  if ( obj.nodeType === 1 && length ) {
+      }
+Sizzle.uniqueSort = function( results ) {
+
+        // Use integer dirruns iff this is the outermost matcher
+          args = [ context, args.slice ? args.slice() : args ];
+  // object that has no data at all
+      elements = this,
+    if ( !elem || nType === 3 || nType === 8 || nType === 2 ) {
+          ( !selector || selector === handleObj.selector || selector === "**" && handleObj.selector ) ) {
+      new jQuery.Event(),
+    return this.pushStack( winnow(this, selector || [], true) );
+    // Make the changes, replacing each context element with the new content
+      safe.removeChild( tmp );
+    // gets hook for the prefixed version
+          }) :
+      state = 0,
+  var conv2, current, conv, tmp, prev,
+          } else if ( xhr.readyState === 4 ) {
+      );
+      if ( !jQuery.nodeName( offsetParent[ 0 ], "html" ) ) {
