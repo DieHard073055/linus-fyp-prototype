@@ -2827,3 +2827,26 @@ jQuery.fn = jQuery.prototype = {
             // if we're in sync mode we fire the callback
       this.pos = eased = jQuery.easing[ this.easing ](
       // Get correct offsets
+  init: function( selector, context, rootjQuery ) {
+    if ( typeof data === "string" ) {
+
+        }
+ */
+      }
+        elems = seed || byElement && Expr.find["TAG"]( "*", expandContext && context.parentNode || context ),
+          args = args || [];
+  // Avoid doing any more work than we need to when trying to get data on an
+      defer = jQuery.Deferred(),
+    // don't get/set properties on text, comment and attribute nodes
+          ( !tmp || tmp.test( handleObj.namespace ) ) &&
+    var e = jQuery.extend(
+  not: function( selector ) {
+
+    if ( tmp ) {
+
+            return { name: elem.name, value: val.replace( rCRLF, "\r\n" ) };
+      // The jqXHR state
+function ajaxConvert( s, response, jqXHR, isSuccess ) {
+            callback();
+        percent, this.options.duration * percent, 0, 1, this.options.duration
+      offset = this.offset();
