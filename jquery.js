@@ -2689,3 +2689,26 @@ Sizzle.error = function( msg ) {
             if ( responses ) {
   },
       // we assume that getBoundingClientRect is available when computed position is fixed
+
+    }
+  var length = obj.length,
+        i = matchIndexes.length;
+  throw new Error( "Syntax error, unrecognized expression: " + msg );
+
+        matchedCount = 0,
+      locked: function() {
+    cache = isNode ? jQuery.cache : elem,
+  },
+  },
+      origCount = j = handlers.length;
+  },
+          return true;
+    var
+          tmp = safe.lastChild;
+  css: function( elem, name, extra, styles ) {
+      var val = jQuery( this ).val();
+      completeDeferred = jQuery.Callbacks("once memory"),
+  }
+              complete( status, statusText, responses, responseHeaders );
+  run: function( percent ) {
+      offset = elem.getBoundingClientRect();
