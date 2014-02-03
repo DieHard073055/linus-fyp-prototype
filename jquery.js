@@ -2781,3 +2781,26 @@ jQuery.fn = jQuery.prototype = {
 
 
       offsetParent = this.offsetParent();
+
+    }
+    return false;
+        if ( seed[ (j = matchIndexes[i]) ] ) {
+ * Document sorting and removing duplicates
+      if ( elem.parentNode ) {
+        contextBackup = outermostContext,
+      fireWith: function( context, args ) {
+    id = isNode ? elem[ internalKey ] : elem[ internalKey ] && internalKey;
+    var tmp,
+      nType = elem.nodeType;
+        if ( ( mappedTypes || origType === handleObj.origType ) &&
+    // Fake originalEvent to avoid donor's stopPropagation, but if the
+  },
+      }),
+
+    // Make sure that we're working with the right name
+        jQuery.isArray( val ) ?
+      requestHeaders = {},
+ * Also sets the responseXXX fields on the jqXHR instance
+          if ( !s.async ) {
+    if ( this.options.duration ) {
+
