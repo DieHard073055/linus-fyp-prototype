@@ -2758,3 +2758,26 @@ jQuery.fn = jQuery.prototype = {
           };
       hooks = Tween.propHooks[ this.prop ];
       // Get *real* offsetParent
+  jquery: core_version,
+      return data;
+  if ( jQuery.isWindow( obj ) ) {
+      while ( i-- ) {
+/**
+      // options in Safari work properly
+        outermost = expandContext != null,
+      // Call all callbacks with the given context and arguments
+    // the code to shortcut on the same path as a DOM node with no cache
+  promise: function( type, obj ) {
+    var ret, hooks, notxml,
+
+    // Piggyback on a donor event to simulate a different one.
+    });
+        return [ elem.nextSibling, elem.parentNode ];
+    }
+
+        null :
+      // Headers (they are sent all at once)
+/* Chain conversions given the request and the original response
+
+
+      offsetParent = this.offsetParent();
