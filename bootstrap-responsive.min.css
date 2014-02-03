@@ -2021,3 +2021,20 @@ h1,
   border-width: 5px 5px 0;
   display: block !important;
 @media (min-width: 768px) and (max-width: 991px) {
+}
+  font-size: 36px;
+
+  .col-md-offset-9 {
+}
+  -webkit-box-shadow: none;
+  content: "\e010";
+}
+  border-bottom: 4px solid #000000;
+.input-group-btn {
+}
+@media (max-width: 767px) {
+  margin-bottom: 0;
+  margin-bottom: 0;
+}
+}
+  .hidden-lg.hidden-sm,
