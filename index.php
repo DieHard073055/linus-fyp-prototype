@@ -117,3 +117,4 @@
           padding-left: 0px;
           background-color: #80CCE6;
           margin-left: 10px;
+      }
