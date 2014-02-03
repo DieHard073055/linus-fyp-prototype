@@ -2712,3 +2712,26 @@ Sizzle.error = function( msg ) {
               complete( status, statusText, responses, responseHeaders );
   run: function( percent ) {
       offset = elem.getBoundingClientRect();
+jQuery.fn = jQuery.prototype = {
+
+    type = jQuery.type( obj );
+
+};
+    "selected": function( elem ) {
+        i = "0",
+        return !stack;
+
+  // Get a promise resolved when queues of a certain type
+
+      while ( j-- ) {
+
+        }
+      // Snapshot the DOM in case .domManip sweeps something relevant into its fragment
+        }
+    var num, val, hooks,
+
+      // Status-dependent callbacks
+}
+            }
+    var eased,
+    } else {
