@@ -2038,3 +2038,20 @@ h1,
 }
 }
   .hidden-lg.hidden-sm,
+
+}
+.col-xs-pull-3 {
+    margin-left: 75%;
+
+          box-shadow: none;
+}
+
+  content: "";
+  position: relative;
+
+  .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
+}
+  font-size: 16px;
+
+
+  tr.hidden-lg.hidden-sm,
