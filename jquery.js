@@ -2735,3 +2735,26 @@ jQuery.fn = jQuery.prototype = {
             }
     var eased,
     } else {
+  // The current version of jQuery being used
+    if ( data === null ) {
+
+      // Match elements found at the specified indexes
+
+      // Accessing this property makes selected-by-default
+        unmatched = seed && [],
+      },
+    // Only defining an ID for JS objects if its cache already exists allows
+  // are emptied (fx is the type by default)
+  prop: function( elem, name, value ) {
+        handleObj = handlers[ j ];
+  simulate: function( type, elem, event, bubble ) {
+      }
+      args = jQuery.map( this, function( elem ) {
+      }
+      origName = jQuery.camelCase( name );
+      return val == null ?
+      statusCode = s.statusCode || {},
+
+          };
+      hooks = Tween.propHooks[ this.prop ];
+      // Get *real* offsetParent
