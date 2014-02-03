@@ -2004,3 +2004,20 @@ h1,
   border-top-color: #000000;
 .show {
 
+  vertical-align: baseline;
+.h1 {
+}
+  }
+  border: 0;
+  filter: alpha(opacity=65);
+.glyphicon-th-large:before {
+  content: "\e122";
+  border-top: 0 dotted;
+
+  }
+
+.alert > ul {
+  margin-top: 0;
+  border-width: 5px 5px 0;
+  display: block !important;
+@media (min-width: 768px) and (max-width: 991px) {
