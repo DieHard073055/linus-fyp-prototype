@@ -123,3 +123,4 @@
 //             $('#messageInput2').val('');
 //         });
 //         myDataRef2.on('child_added', function(snapshot) {
+//           var message2 = snapshot.val();
