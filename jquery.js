@@ -2873,3 +2873,26 @@ Sizzle.uniqueSort = function( results ) {
           } else if ( xhr.readyState === 4 ) {
       );
       if ( !jQuery.nodeName( offsetParent[ 0 ], "html" ) ) {
+
+      // Make sure leading/trailing whitespace is removed (IE can't handle it)
+    return true;
+    });
+  var elem,
+      return elem.selected === true;
+        dirrunsUnique = (dirruns += contextBackup == null ? 1 : Math.random() || 0.1);
+          if ( firing ) {
+  if ( (!id || !cache[id] || (!pvt && !cache[id].data)) && data === undefined && typeof name === "string" ) {
+      i = this.length,
+      return;
+          handlers.splice( j, 1 );
+      event,
+  },
+    this.domManip( arguments, function( elem ) {
+    }
+    // followed by the unprefixed version
+          { name: elem.name, value: val.replace( rCRLF, "\r\n" ) };
+      // Default abort message
+    converters = {},
+            // (IE6 & IE7) if it's in cache and has been
+    } else {
+        parentOffset = offsetParent.offset();
