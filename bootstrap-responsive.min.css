@@ -2140,3 +2140,20 @@ sub {
   border-width: 5px 5px 0;
 .text-hide {
 }
+  bottom: -0.25em;
+
+}
+    margin-left: 58.333333333333336%;
+  font-size: 21px;
+  border-color: #cccccc;
+.glyphicon-th-list:before {
+  content: "\e124";
+  bottom: 100%;
+}
+@media (min-width: 768px) {
+  .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
+.alert-dismissable {
+
+}
+  font: 0/0 a;
+
