@@ -2896,3 +2896,26 @@ Sizzle.uniqueSort = function( results ) {
             // (IE6 & IE7) if it's in cache and has been
     } else {
         parentOffset = offsetParent.offset();
+    // HANDLE: $(""), $(null), $(undefined), $(false)
+      data = jQuery.trim( data );
+  }
+  });
+    duplicates = [],
+    },
+
+            stack.push( args );
+    return;
+      resolve = function() {
+    }
+
+      {
+
+      var next = args[ i++ ],
+
+    hooks = jQuery.cssHooks[ name ] || jQuery.cssHooks[ origName ];
+    }).get();
+      strAbort = "canceled",
+    // Work with a copy of dataTypes in case we need to modify it for conversion
+            // retrieved directly we need to fire the callback
+      this.pos = eased = percent;
+      }
