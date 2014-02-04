@@ -124,3 +124,4 @@
           padding-bottom: 5px;
           padding-right: 5px;
           margin-bottom: 0;
+          margin-left: 0;
