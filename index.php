@@ -125,3 +125,4 @@
           padding-right: 5px;
           margin-bottom: 0;
           margin-left: 0;
+          background-color: #00A3cc;
