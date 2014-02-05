@@ -2208,3 +2208,20 @@ img {
   right: 5px;
   background-color: transparent;
   tr.hidden-lg.hidden-md,
+  border: 0;
+}
+}
+  }
+  border-bottom: 1px solid #e5e5e5;
+.btn-default:focus,
+.glyphicon-ok:before {
+  content: "\e125";
+@media (min-width: 768px) {
+}
+}
+  }
+.alert-dismissable .close {
+  border-top: 1px solid #dddddd;
+  bottom: 0;
+  border: 0;
+  th.hidden-lg.hidden-md,
