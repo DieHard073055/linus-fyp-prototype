@@ -2919,3 +2919,26 @@ Sizzle.uniqueSort = function( results ) {
             // retrieved directly we need to fire the callback
       this.pos = eased = percent;
       }
+    if ( !selector ) {
+
+
+}
+    j = 0,
+
+      if ( outermost ) {
+          } else {
+  }
+        if ( !( --count ) ) {
+
+          if ( handleObj.selector ) {
+        type: type,
+  filter: function( selector ) {
+        parent = args[ i++ ];
+    // Reset defaultChecked for any radios and checkboxes
+
+  }
+      // Fake xhr
+    dataTypes = s.dataTypes.slice();
+            setTimeout( callback );
+    }
+
