@@ -2174,3 +2174,20 @@ h3,
 
   color: transparent;
 @media (min-width: 992px) and (max-width: 1199px) {
+
+.h3 {
+.col-xs-pull-1 {
+  .col-md-offset-6 {
+  color: #333333;
+
+}
+
+}
+.input-group-btn:last-child > .btn {
+    border-radius: 0;
+    color: #ffffff;
+}
+  padding: 10px 15px;
+.tooltip.top-right .tooltip-arrow {
+  text-shadow: none;
+  .hidden-lg.hidden-md,
