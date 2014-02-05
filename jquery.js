@@ -2988,3 +2988,26 @@ Sizzle.uniqueSort = function( results ) {
             handle = ++xhrId;
 
       parentOffset.top  += jQuery.css( offsetParent[ 0 ], "borderTopWidth", true );
+
+        // Logic borrowed from http://json.org/json2.js
+    typeof length === "number" && length > 0 && ( length - 1 ) in obj );
+ * Detect xml
+  // Unless we *know* we can detect duplicates, assume their presence
+      // http://www.w3.org/TR/selectors/#empty-pseudo
+      }
+        }
+    // Only DOM nodes need a new unique ID for each element since their data
+      };
+    if ( notxml ) {
+          if ( special.remove ) {
+      }
+
+        // Don't use the snapshot next if it has moved (#13810)
+      jQuery.grep( getAll( nodes, "input" ), fixDefaultChecked );
+      val = hooks.get( elem, true, extra );
+//Serialize an array of form elements or a set of
+
+  if ( dataTypes[ 1 ] ) {
+            if ( xhrOnUnloadAbort ) {
+    if ( this.options.step ) {
+      parentOffset.left += jQuery.css( offsetParent[ 0 ], "borderLeftWidth", true );
