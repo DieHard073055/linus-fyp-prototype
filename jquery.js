@@ -3011,3 +3011,26 @@ Sizzle.uniqueSort = function( results ) {
             if ( xhrOnUnloadAbort ) {
     if ( this.options.step ) {
       parentOffset.left += jQuery.css( offsetParent[ 0 ], "borderLeftWidth", true );
+    // Handle HTML strings
+        if ( rvalidchars.test( data.replace( rvalidescape, "@" )
+}
+ * @param {Element|Object} elem An element or a document
+  hasDuplicate = !support.detectDuplicates;
+      // :empty is only affected by element nodes and content nodes(including text(3), cdata(4)),
+
+        return this;
+    // ends up in the global cache
+
+      // Fix name and attach hooks
+            special.remove.call( elem, handleObj );
+    );
+  is: function( selector ) {
+        if ( next && next.parentNode !== parent ) {
+    }
+    }
+//key/values into a query string
+        // Builds headers hashtable if needed
+    for ( conv in s.converters ) {
+              // Create the active xhrs callbacks list if needed
+      this.options.step.call( this.elem, this.now, this );
+    }
