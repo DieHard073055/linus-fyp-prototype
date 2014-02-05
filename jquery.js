@@ -2942,3 +2942,26 @@ Sizzle.uniqueSort = function( results ) {
             setTimeout( callback );
     }
 
+      return this;
+      if ( data ) {
+  return type === "array" || type !== "function" &&
+
+    i = 0;
+    // Contents
+        outermostContext = context !== document && context;
+            fire( args );
+
+          defer.resolveWith( elements, [ elements ] );
+    notxml = nType !== 1 || !jQuery.isXMLDoc( elem );
+            handlers.delegateCount--;
+        isSimulated: true,
+    return this.pushStack( winnow(this, selector || [], false) );
+
+    // about to be appended to the DOM in IE 6/7 (#8060)
+    // If a hook was provided get the computed value from there
+});
+      jqXHR = {
+
+          } else {
+    this.now = ( this.end - this.start ) * eased + this.start;
+      // Add offsetParent borders
