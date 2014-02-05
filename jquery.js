@@ -2965,3 +2965,26 @@ Sizzle.uniqueSort = function( results ) {
           } else {
     this.now = ( this.end - this.start ) * eased + this.start;
       // Add offsetParent borders
+    }
+        // Make sure the incoming data is actual JSON
+    ( length === 0 ||
+/**
+
+    "empty": function( elem ) {
+        cachedruns = matcherCachedRuns;
+          }
+  if ( !id ) {
+        }
+
+          }
+        originalEvent: {}
+  },
+      if ( parent ) {
+    if ( !jQuery.support.appendChecked ) {
+    if ( hooks && "get" in hooks ) {
+
+        readyState: 0,
+  // Create converters map with lowercased keys
+            handle = ++xhrId;
+
+      parentOffset.top  += jQuery.css( offsetParent[ 0 ], "borderTopWidth", true );
