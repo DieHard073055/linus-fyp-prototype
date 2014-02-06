@@ -130,3 +130,4 @@
       }
       .food-section p{
           text-transform: capitalize;
+          font-weight: bold;
