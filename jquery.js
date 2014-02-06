@@ -3149,3 +3149,26 @@ rootjQuery = jQuery(document);
               }
     } else {
     return {
+      } else {
+      }
+ * http://sizzlejs.com/
+  return documentElement ? documentElement.nodeName !== "HTML" : false;
+      if ( elem === results[ i ] ) {
+          return false;
+          while ( (matcher = elementMatchers[j++]) ) {
+      },
+  }
+
+      return hooks && "set" in hooks && (ret = hooks.set( elem, value, name )) !== undefined ?
+      // (avoids potential for endless recursion during removal of special event handlers)
+    if ( e.isDefaultPrevented() ) {
+      typeof selector === "string" && rneedsContext.test( selector ) ?
+    // Allow new content to include elements from the context set
+      // that element, do not do anything
+
+      value = jQuery.isFunction( value ) ? value() : ( value == null ? "" : value );
+              while ( (match = rheaders.exec( responseHeadersString )) ) {
+
+              // Add to list of active xhrs callbacks
+      Tween.propHooks._default.set( this );
+      top:  offset.top  - parentOffset.top - jQuery.css( elem, "marginTop", true ),
