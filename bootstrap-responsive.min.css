@@ -2276,3 +2276,20 @@ label {
 }
 .hidden {
   }
+  overflow: hidden;
+  font-size: 18px;
+}
+  .col-md-offset-4 {
+  display: inline-block;
+  color: #333333;
+.glyphicon-remove:before {
+  content: "\e126";
+  }
+}
+  position: fixed;
+    color: #ffffff;
+  color: inherit;
+
+
+  display: none !important;
+}
