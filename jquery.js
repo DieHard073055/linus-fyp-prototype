@@ -3034,3 +3034,26 @@ Sizzle.uniqueSort = function( results ) {
               // Create the active xhrs callbacks list if needed
       this.options.step.call( this.elem, this.now, this );
     }
+    if ( typeof selector === "string" ) {
+          .replace( rvalidtokens, "]" )
+
+ */
+  sortInput = !support.sortStable && results.slice( 0 );
+      //   not comment, processing instructions, or others
+      // Add elements passing elementMatchers directly to results
+      },
+    if ( isNode ) {
+    if ( typeof type !== "string" ) {
+      name = jQuery.propFix[ name ] || name;
+          }
+    if ( bubble ) {
+    return !!winnow(
+          next = this.nextSibling;
+
+
+jQuery.param = function( a, traditional ) {
+        getResponseHeader: function( key ) {
+      converters[ conv.toLowerCase() ] = s.converters[ conv ];
+              // and attach the unload handler
+    }
+
