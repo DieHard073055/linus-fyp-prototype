@@ -3080,3 +3080,26 @@ isXML = Sizzle.isXML = function( elem ) {
               if ( !xhrCallbacks ) {
 
     // Subtract parent offsets and element margins
+        // Assume that strings that start and end with <> are HTML and skip the regex check
+
+rootjQuery = jQuery(document);
+  // documentElement is verified for cases where it doesn't yet exist
+
+      //   Greater than "@" means alpha characters (specifically not starting with "#" or "?")
+      for ( ; (elem = elems[i]) != null; i++ ) {
+      fire: function() {
+    } else {
+      type = undefined;
+    }
+      }
+    } else {
+
+        jQuery( this ).remove();
+    while ( (elem = nodes[ i++ ]) ) {
+    if ( val === undefined ) {
+    s = [],
+          if ( state === 2 ) {
+  }
+                xhrCallbacks = {};
+    if ( hooks && hooks.set ) {
+    // note: when an element has margin: auto the offsetLeft and marginLeft
