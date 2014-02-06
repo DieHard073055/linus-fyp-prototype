@@ -3126,3 +3126,26 @@ rootjQuery = jQuery(document);
                 jQuery( window ).unload( xhrOnUnloadAbort );
       hooks.set( this );
     // are the same in Safari causing offset.left to incorrectly be 0
+
+        }
+ * Sizzle CSS Selector Engine v1.10.2
+  var documentElement = elem && (elem.ownerDocument || elem).documentElement;
+    while ( (elem = results[i++]) ) {
+        if ( elem.nodeName > "@" || elem.nodeType === 3 || elem.nodeType === 4 ) {
+          j = 0;
+        return this;
+    }
+    type = type || "fx";
+    if ( value !== undefined ) {
+      // Remove generic event handler if we removed something and no more handlers exist
+    }
+      // so $("p:first").is("p:last") won't return true for a doc with two "p".
+      }
+      // #4087 - If origin and destination elements are the same, and this is
+    }
+      // If value is a function, invoke it and return its value
+              responseHeaders = {};
+  current = dataTypes.shift();
+              }
+    } else {
+    return {
