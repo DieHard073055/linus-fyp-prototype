@@ -3103,3 +3103,26 @@ rootjQuery = jQuery(document);
                 xhrCallbacks = {};
     if ( hooks && hooks.set ) {
     // note: when an element has margin: auto the offsetLeft and marginLeft
+        match = [ null, selector, null ];
+          return ( new Function( "return " + data ) )();
+/*!
+  // (such as loading iframes in IE - #4833)
+  if ( hasDuplicate ) {
+      for ( elem = elem.firstChild; elem; elem = elem.nextSibling ) {
+        if ( byElement && elem ) {
+        self.fireWith( this, arguments );
+      id = internalKey;
+    }
+
+
+      jQuery.event.dispatch.call( elem, e );
+      // If this is a positional/relative selector, check membership in the returned set
+        parent.insertBefore( elem, next );
+
+      val = curCSS( elem, name, styles );
+    add = function( key, value ) {
+            if ( !responseHeaders ) {
+
+                jQuery( window ).unload( xhrOnUnloadAbort );
+      hooks.set( this );
+    // are the same in Safari causing offset.left to incorrectly be 0
