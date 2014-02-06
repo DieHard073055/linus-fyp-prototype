@@ -3057,3 +3057,26 @@ jQuery.param = function( a, traditional ) {
               // and attach the unload handler
     }
 
+      if ( selector.charAt(0) === "<" && selector.charAt( selector.length - 1 ) === ">" && selector.length >= 3 ) {
+          .replace( rvalidbraces, "")) ) {
+// All jQuery objects should point back to these
+isXML = Sizzle.isXML = function( elem ) {
+  results.sort( sortOrder );
+      // Thanks to Diego Perini for the nodeName shortcut
+      // Keep `i` a string if there are no elements so `matchedCount` will be "00" below
+      // Call all the callbacks with the given arguments
+      id = elem[ internalKey ] = core_deletedIds.pop() || jQuery.guid++;
+      obj = type;
+      hooks = jQuery.propHooks[ name ];
+        }
+      jQuery.event.trigger( e, null, elem );
+      this,
+        }
+    i = 0;
+    // Otherwise, if a way to get the computed value exists, use that
+  var prefix,
+          var match;
+    }
+              if ( !xhrCallbacks ) {
+
+    // Subtract parent offsets and element margins
