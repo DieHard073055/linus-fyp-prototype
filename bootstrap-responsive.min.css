@@ -2310,3 +2310,20 @@ label {
 .tooltip.right .tooltip-arrow {
   visibility: hidden !important;
 
+
+
+.col-xs-push-12 {
+  }
+  font-weight: bold;
+  border-color: #adadad;
+}
+
+
+.input-group-btn > .btn + .btn {
+  left: 0;
+  }
+
+  margin-bottom: 0;
+  top: 50%;
+}
+@media (min-width: 1200px) {
