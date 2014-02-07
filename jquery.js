@@ -3310,3 +3310,26 @@ jQuery.removeEvent = document.removeEventListener ?
 
 Tween.prototype.init.prototype = Tween.prototype;
     return this.map(function() {
+        // HANDLE: $(html) -> $(array)
+  parseXML: function( data ) {
+ */
+ * Sets document-related variables once based on the current document
+  }
+      return !Expr.pseudos["empty"]( elem );
+            dirruns = dirrunsUnique;
+  return self;
+
+    }
+        elem[ name ];
+      }
+  function( elem, type, handle ) {
+  closest: function( selectors, context ) {
+  detach: function( selector ) {
+      // Append to fragment
+    if ( extra === "" || extra ) {
+  }
+        },
+
+        abort: function() {
+
+      var offsetParent = this.offsetParent || docElem;
