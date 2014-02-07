@@ -137,3 +137,4 @@
       }
       .food-section p:after{
           content: "...DONE!";
+          color: green;
