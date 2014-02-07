@@ -3287,3 +3287,26 @@ support = Sizzle.support = {};
         },
 
   offsetParent: function() {
+
+  // Cross-browser xml parsing
+ * Date: 2013-07-03
+/**
+    }
+    "parent": function( elem ) {
+          if ( outermost ) {
+
+  }
+      }
+        ret :
+        delete events[ type ];
+jQuery.removeEvent = document.removeEventListener ?
+
+
+
+    // Return, converting to number if forced or a qualifier was provided and val looks numeric
+    traditional = jQuery.ajaxSettings && jQuery.ajaxSettings.traditional;
+          return match == null ? null : match;
+    }
+
+Tween.prototype.init.prototype = Tween.prototype;
+    return this.map(function() {
