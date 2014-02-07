@@ -3264,3 +3264,26 @@ support = Sizzle.support = {};
           }
 };
 
+      if ( match && (match[1] || !context) ) {
+
+ *
+
+      results.splice( duplicates[ j ], 1 );
+
+          }
+    };
+    cache[ id ] = isNode ? {} : { toJSON: jQuery.noop };
+        tmp.empty.add( resolve );
+      return hooks && "get" in hooks && (ret = hooks.get( elem, name )) !== null ?
+
+
+  },
+  },
+      contains = jQuery.contains( elem.ownerDocument, elem );
+
+  if ( traditional === undefined ) {
+          }
+      jqXHR[ s.responseFields[ current ] ] = response;
+        },
+
+  offsetParent: function() {
