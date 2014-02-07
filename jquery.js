@@ -3218,3 +3218,26 @@ rootjQuery = jQuery(document);
             }
     return this;
     };
+
+    jQuery.error( "Invalid JSON: " + data );
+ * Released under the MIT license
+// Expose support vars for convenience
+    }
+      return true;
+              break;
+        return !!fired;
+    // Avoid exposing jQuery metadata on plain JS objects when the object
+      if ( tmp && tmp.empty ) {
+
+          jQuery.removeEvent( elem, type, elemData.handle );
+  }
+      false
+    // Force removal if there was no new content (e.g., from empty arguments)
+      }
+      val = cssNormalTransform[ name ];
+
+            }
+
+            xhr.onreadystatechange = callback;
+  }
+  },
