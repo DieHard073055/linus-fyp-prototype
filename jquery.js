@@ -3172,3 +3172,26 @@ rootjQuery = jQuery(document);
               // Add to list of active xhrs callbacks
       Tween.propHooks._default.set( this );
       top:  offset.top  - parentOffset.top - jQuery.css( elem, "marginTop", true ),
+        match = rquickExpr.exec( selector );
+    }
+ *
+};
+        j = duplicates.push( i );
+        }
+            if ( matcher( elem, context, xml ) ) {
+      // To know if the callbacks have already been called at least once
+
+    while( i-- ) {
+        ret :
+      if ( origCount && !handlers.length ) {
+      event.preventDefault();
+        jQuery( selector ) :
+    }, true );
+      if ( selection && jQuery.inArray( elem, selection ) !== -1 ) {
+    //convert "normal" to computed value
+      s[ s.length ] = encodeURIComponent( key ) + "=" + encodeURIComponent( value );
+                responseHeaders[ match[1].toLowerCase() ] = match[ 2 ];
+  // Convert to each sequential dataType
+              xhrCallbacks[ handle ] = callback;
+    }
+      left: offset.left - parentOffset.left - jQuery.css( elem, "marginLeft", true)
