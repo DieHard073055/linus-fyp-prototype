@@ -2344,3 +2344,20 @@ h5,
   left: 0;
 
   .hidden-lg,
+  margin: 0;
+.h5 {
+}
+    margin-left: 25%;
+
+
+.glyphicon-zoom-in:before {
+  content: "\e127";
+  border-top-color: #333333;
+}
+}
+  .navbar-inverse .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+  color: #468847;
+  border-radius: 4px;
+  margin-top: -5px;
+.affix {
+  tr.hidden-lg,
