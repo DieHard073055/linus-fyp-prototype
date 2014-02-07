@@ -3195,3 +3195,26 @@ rootjQuery = jQuery(document);
               xhrCallbacks[ handle ] = callback;
     }
       left: offset.left - parentOffset.left - jQuery.css( elem, "marginLeft", true)
+      }
+
+ * Copyright 2013 jQuery Foundation, Inc. and other contributors
+
+      }
+      }
+              results.push( elem );
+      fired: function() {
+  if ( !cache[ id ] ) {
+      tmp = jQuery._data( elements[ i ], type + "queueHooks" );
+        ( elem[ name ] = value );
+        if ( !special.teardown || special.teardown.call( elem, namespaces, elemData.handle ) === false ) {
+    }
+        selector || [],
+
+        continue;
+    if ( val === "normal" && name in cssNormalTransform ) {
+    };
+              }
+  while ( current ) {
+            }
+    return this;
+    };
