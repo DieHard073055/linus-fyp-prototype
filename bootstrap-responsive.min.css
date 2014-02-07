@@ -2429,3 +2429,20 @@ h6,
 
 @-ms-viewport {
   }
+  margin: 0 2px;
+.h6 {
+
+  .col-md-offset-1 {
+}
+}
+  content: "\e016";
+}
+.btn-warning .caret,
+}
+    border-radius: 0;
+}
+.alert-success hr {
+}
+.tooltip.left .tooltip-arrow {
+  width: device-width;
+}
