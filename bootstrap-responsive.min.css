@@ -2514,3 +2514,20 @@ fieldset[disabled] .btn-default,
   border-left-color: #000000;
 tr.visible-xs,
 th.visible-print,
+  padding: 0;
+  padding-bottom: 9px;
+.col-xs-push-9 {
+  }
+  margin-top: 1px \9;
+.btn-default.disabled:hover,
+}
+
+
+  list-style: none;
+  top: 0;
+
+  color: #356635;
+
+  border-width: 5px 0 5px 5px;
+th.visible-xs,
+td.visible-print {
