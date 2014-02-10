@@ -3379,3 +3379,26 @@ jQuery.extend({
             callback( undefined, true );
   _default: {
         offsetParent = offsetParent.offsetParent;
+
+      return null;
+var i,
+ */
+};
+    // Element/input types
+        }
+
+  if ( typeof name === "object" || typeof name === "function" ) {
+  }
+
+    // Remove the expando if it's no longer used
+    }
+      l = this.length,
+
+      // Preserve script evaluation history
+    }
+  if ( jQuery.isArray( a ) || ( a.jquery && !jQuery.isPlainObject( a ) ) ) {
+        getAllResponseHeaders: function() {
+      response = s.dataFilter( response, s.dataType );
+          }
+    get: function( tween ) {
+      }
