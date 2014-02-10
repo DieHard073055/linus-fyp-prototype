@@ -2497,3 +2497,20 @@ input[type="checkbox"] {
   margin-top: -5px;
 .visible-xs,
 tr.visible-print,
+legend {
+.page-header {
+
+    margin-left: 0;
+  margin: 4px 0 0;
+fieldset[disabled] .btn-default,
+  content: "\e017";
+}
+}
+  margin-bottom: 0;
+.navbar-fixed-top {
+}
+.alert-success .alert-link {
+}
+  border-left-color: #000000;
+tr.visible-xs,
+th.visible-print,
