@@ -3425,3 +3425,26 @@ setDocument = Sizzle.setDocument = function( node ) {
         }
       var result;
       return offsetParent || docElem;
+          jQuery.merge( this, jQuery.parseHTML(
+    try {
+  cachedruns,
+  var doc = node ? node.ownerDocument || node : preferredDoc,
+/**
+      return rheader.test( elem.nodeName );
+        // Track unmatched elements for set filters
+    var tuples = [
+      cache[ id ] = jQuery.extend( cache[ id ], name );
+var nodeHook, boolHook,
+    tabIndex: {
+      delete elemData.handle;
+  function( elem, type, handle ) {
+      pos = rneedsContext.test( selectors ) || typeof selectors !== "string" ?
+
+        setGlobalEval( tmp );
+  }
+    jQuery.each( a, function() {
+        },
+
+      };
+
+    });
