@@ -2548,3 +2548,20 @@ td.visible-print {
 }
 td.visible-xs {
   display: none !important;
+}
+  border-bottom: 1px solid #eeeeee;
+}
+
+
+fieldset[disabled] .btn-default:hover,
+.glyphicon-signal:before {
+  content: "\e130";
+  border-bottom-color: #333333;
+
+}
+  color: #ffffff;
+
+  border-top: 1px solid #dddddd;
+
+  display: none !important;
+}
