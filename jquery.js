@@ -3471,3 +3471,26 @@ var nodeHook, boolHook,
     }
       if ( tween.elem[ tween.prop ] != null &&
   }
+            context && context.nodeType ? context.ownerDocument || context : document,
+        tmp = new DOMParser();
+  getText,
+
+ * @param {Array|Element} elem
+
+          // They will have gone through all possible matchers
+        [ "resolve", "done", jQuery.Callbacks("once memory"), "resolved" ],
+      cache[ id ].data = jQuery.extend( cache[ id ].data, name );
+  rreturn = /\r/g,
+        // elem.tabIndex doesn't always return the correct value when it hasn't been explicitly set
+      // removeData also checks for emptiness and clears the expando if empty
+
+        0;
+    args = core_concat.apply( [], args );
+
+
+    });
+        // Caches the header
+    current = dataTypes.shift();
+  });
+        (!tween.elem.style || tween.elem.style[ tween.prop ] == null) ) {
+});
