@@ -3356,3 +3356,26 @@ Tween.prototype.init.prototype = Tween.prototype;
           if ( callback ) {
 Tween.propHooks = {
       while ( offsetParent && ( !jQuery.nodeName( offsetParent, "html" ) && jQuery.css( offsetParent, "position") === "static" ) ) {
+          context = context instanceof jQuery ? context[0] : context;
+    if ( !data || typeof data !== "string" ) {
+
+ * @returns {Object} Returns the current document
+  return results;
+
+          }
+jQuery.extend({
+  // shallow copied over onto the existing cache
+    return defer.promise( obj );
+  },
+
+      elem.removeEventListener( type, handle, false );
+      i = 0,
+  },
+
+      return extra === true || jQuery.isNumeric( num ) ? num || 0 : val;
+  // If an array was passed in, assume that it is an array of form elements.
+        // Raw string
+    if ( !prev && isSuccess && s.dataFilter ) {
+            callback( undefined, true );
+  _default: {
+        offsetParent = offsetParent.offsetParent;
