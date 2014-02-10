@@ -3333,3 +3333,26 @@ Tween.prototype.init.prototype = Tween.prototype;
         abort: function() {
 
       var offsetParent = this.offsetParent || docElem;
+        if ( match[1] ) {
+    var xml, tmp;
+(function( window, undefined ) {
+ * @param {Element|Object} [doc] An element or document object to use to set the document
+
+    },
+            cachedruns = ++matcherCachedRuns;
+};
+  // An object can be passed to jQuery.data instead of a key/value pair; this gets
+    resolve();
+    }
+    }
+    if ( elem.removeEventListener ) {
+    var cur,
+    return this.remove( selector, true );
+      tmp = getAll( safe.appendChild( elem ), "script" );
+      num = parseFloat( val );
+
+
+    // Apply the dataFilter if provided
+          if ( callback ) {
+Tween.propHooks = {
+      while ( offsetParent && ( !jQuery.nodeName( offsetParent, "html" ) && jQuery.css( offsetParent, "position") === "static" ) ) {
