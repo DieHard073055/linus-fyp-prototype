@@ -3402,3 +3402,26 @@ var i,
           }
     get: function( tween ) {
       }
+          // scripts is true for back-compat
+    }
+  support,
+setDocument = Sizzle.setDocument = function( node ) {
+
+    "header": function( elem ) {
+
+  Deferred: function( func ) {
+    if ( pvt ) {
+});
+  propHooks: {
+    if ( jQuery.isEmptyObject( events ) ) {
+  } :
+      ret = [],
+  domManip: function( args, callback, allowIntersection ) {
+      if ( contains ) {
+    return val;
+    // Serialize the form elements
+          return state === 2 ? responseHeadersString : null;
+    }
+        }
+      var result;
+      return offsetParent || docElem;
