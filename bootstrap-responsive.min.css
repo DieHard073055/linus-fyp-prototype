@@ -2531,3 +2531,20 @@ th.visible-print,
   border-width: 5px 0 5px 5px;
 th.visible-xs,
 td.visible-print {
+  border: 0;
+  margin: 40px 0 20px;
+  left: 75%;
+}
+  /* IE8-9 */
+.btn-default[disabled]:hover,
+
+.glyphicon-hand-down:before {
+.dropup .btn-default .caret {
+}
+  border-width: 0 0 1px;
+.navbar-inverse .navbar-link:hover {
+}
+.panel-group .panel-heading + .panel-collapse .panel-body {
+}
+td.visible-xs {
+  display: none !important;
