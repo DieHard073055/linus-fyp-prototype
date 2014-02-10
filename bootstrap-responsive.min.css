@@ -2480,3 +2480,20 @@ input[type="radio"],
   right: 0;
 
 .visible-print,
+
+
+}
+  .col-md-offset-0 {
+input[type="checkbox"] {
+.btn-default[disabled],
+.glyphicon-off:before {
+  content: "\e129";
+  border-top-color: #fff;
+  padding-left: 0;
+
+  color: #999999;
+
+  border-bottom: 0;
+  margin-top: -5px;
+.visible-xs,
+tr.visible-print,
