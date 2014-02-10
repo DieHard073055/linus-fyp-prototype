@@ -2565,3 +2565,20 @@ fieldset[disabled] .btn-default:hover,
 
   display: none !important;
 }
+
+}
+
+@media (min-width: 1200px) {
+  line-height: normal;
+.btn-default.disabled:focus,
+  content: "\e018";
+}
+}
+.nav:before,
+
+}
+.alert-info {
+}
+.tooltip.bottom .tooltip-arrow {
+}
+
