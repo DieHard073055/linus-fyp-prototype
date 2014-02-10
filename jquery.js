@@ -3448,3 +3448,26 @@ var nodeHook, boolHook,
       };
 
     });
+            match[1],
+      if ( window.DOMParser ) { // Standard
+  Expr,
+    parent = doc.defaultView;
+ * Utility function for retrieving the text value of an array of DOM nodes
+    },
+        if ( bySet ) {
+        // action, add listener, listener list, final state
+    } else {
+  rclass = /[\t\r\n\f]/g,
+      get: function( elem ) {
+
+    var name = "on" + type;
+        jQuery( selectors, context || this.context ) :
+    // Flatten any nested arrays
+      }
+});
+      add( this.name, this.value );
+
+    prev = current;
+    }
+      if ( tween.elem[ tween.prop ] != null &&
+  }
