@@ -3540,3 +3540,26 @@ getText = Sizzle.getText = function( elem ) {
 var fxNow, timerId,
       }
 
+
+        xml = new ActiveXObject( "Microsoft.XMLDOM" );
+  outermostContext,
+    return document;
+  var node,
+    },
+          }
+      ],
+
+  ruseDefault = /^(?:checked|selected)$/i,
+        var tabindex = jQuery.find.attr( elem, "tabindex" );
+    }
+      // #8545, #7054, preventing memory leaks for custom events in IE6-8
+      for ( cur = this[i]; cur && cur !== context; cur = cur.parentNode ) {
+      scripts, doc, fragment,
+        j = 0;
+if ( window.getComputedStyle ) {
+    // If traditional, encode the "old" way (the way 1.3.2 or older
+          if ( !state ) {
+
+  rfxtypes = /^(?:toggle|show|hide)$/,
+
+// Create scrollLeft and scrollTop methods
