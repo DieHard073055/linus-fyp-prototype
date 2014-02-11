@@ -3494,3 +3494,26 @@ var nodeHook, boolHook,
   });
         (!tween.elem.style || tween.elem.style[ tween.prop ] == null) ) {
 });
+            true
+        xml = tmp.parseFromString( data , "text/xml" );
+  isXML,
+  // If no document and documentElement is available, return
+ */
+    "input": function( elem ) {
+          if ( (elem = !matcher && elem) ) {
+        [ "reject", "fail", jQuery.Callbacks("once memory"), "rejected" ],
+    }
+  rfocusable = /^(?:input|select|textarea|button|object)$/i,
+        // http://fluidproject.org/blog/2008/01/09/getting-setting-and-removing-tabindex-values-with-javascript/
+      // so use it instead of delete
+    if ( elem.detachEvent ) {
+
+
+      // Capture executables
+// NOTE: we've included the "window" in window.getComputedStyle
+
+        setRequestHeader: function( name, value ) {
+
+}
+        return tween.elem[ tween.prop ];
+
