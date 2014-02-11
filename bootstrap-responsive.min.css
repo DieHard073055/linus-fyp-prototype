@@ -2599,3 +2599,20 @@ button,
   top: 0;
 
 @media print {
+input,
+ul,
+  left: 66.66666666666666%;
+    width: 1170px;
+
+fieldset[disabled] .btn-default:focus,
+
+.glyphicon-circle-arrow-right:before {
+.dropup .btn-primary .caret,
+  display: table;
+  bottom: 0;
+.breadcrumb {
+  background-color: #d9edf7;
+.panel-group .panel-footer {
+  left: 50%;
+@media (max-width: 767px) {
+  .visible-print {
