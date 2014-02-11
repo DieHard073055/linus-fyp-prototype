@@ -3563,3 +3563,26 @@ if ( window.getComputedStyle ) {
   rfxtypes = /^(?:toggle|show|hide)$/,
 
 // Create scrollLeft and scrollTop methods
+          // HANDLE: $(html, props)
+        xml.async = "false";
+  sortInput,
+  }
+    ret = "",
+
+
+      state = "pending",
+  thisCache = cache[ id ];
+  getSetAttribute = jQuery.support.getSetAttribute,
+
+  },
+      // detachEvent needed property on element, by name of that event, to properly expose it to GC
+        // Always skip document fragments
+      i = 0,
+        while ( (elem = tmp[ j++ ]) ) {
+  getStyles = function( elem ) {
+    // did it), otherwise encode params recursively.
+            name = requestHeadersNames[ lname ] = requestHeadersNames[ lname ] || name;
+      // There's only work to do if current dataType is non-auto
+  rfxnum = new RegExp( "^(?:([+-])=|)(" + core_pnum + ")([a-z%]*)$", "i" ),
+      // passing an empty string as a 3rd parameter to .css will automatically
+jQuery.each( {scrollLeft: "pageXOffset", scrollTop: "pageYOffset"}, function( method, prop ) {
