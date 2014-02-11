@@ -3517,3 +3517,26 @@ var nodeHook, boolHook,
 }
         return tween.elem[ tween.prop ];
 
+          ) );
+      } else { // IE
+  compile,
+  if ( doc === document || doc.nodeType !== 9 || !doc.documentElement ) {
+getText = Sizzle.getText = function( elem ) {
+      return rinputs.test( elem.nodeName );
+            matchedCount--;
+        [ "notify", "progress", jQuery.Callbacks("memory") ]
+  }
+  rclickable = /^(?:a|area)$/i,
+        // Use proper attribute retrieval(#12072)
+      jQuery._removeData( elem, "events" );
+
+    for ( ; i < l; i++ ) {
+    var first, node, hasScripts,
+      if ( scripts ) {
+// because jsdom on node.js will break without it.
+  } else {
+          var lname = name.toLowerCase();
+    if ( current ) {
+var fxNow, timerId,
+      }
+
