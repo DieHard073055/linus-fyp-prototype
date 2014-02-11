@@ -2616,3 +2616,20 @@ fieldset[disabled] .btn-default:focus,
   left: 50%;
 @media (max-width: 767px) {
   .visible-print {
+select,
+ol {
+}
+  }
+input[type="file"] {
+.btn-default.disabled:active,
+.glyphicon-cog:before {
+  content: "\e131";
+.dropup .btn-success .caret,
+  content: " ";
+  margin-bottom: 0;
+  padding: 8px 15px;
+  border-color: #bce8f1;
+  border-top: 0;
+  margin-left: -5px;
+  .visible-xs {
+    display: block !important;
