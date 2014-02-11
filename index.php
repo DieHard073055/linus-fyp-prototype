@@ -150,3 +150,4 @@
   </head>
   <body>
   <h1 class="jumbotron">Spring Food Court - Sample Page</h1>
+    <!-- IMage Gallery Stuff -->
