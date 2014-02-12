@@ -3586,3 +3586,26 @@ if ( window.getComputedStyle ) {
   rfxnum = new RegExp( "^(?:([+-])=|)(" + core_pnum + ")([a-z%]*)$", "i" ),
       // passing an empty string as a 3rd parameter to .css will automatically
 jQuery.each( {scrollLeft: "pageXOffset", scrollTop: "pageYOffset"}, function( method, prop ) {
+          if ( rsingleTag.test( match[1] ) && jQuery.isPlainObject( context ) ) {
+        xml.loadXML( data );
+
+
+    i = 0,
+    "button": function( elem ) {
+          // Lengthen the array for every element, matched or not
+      promise = {
+
+  getSetInput = jQuery.support.input;
+        return tabindex ?
+
+      if ( typeof elem[ name ] === core_strundefined ) {
+        if ( cur.nodeType < 11 && (pos ?
+      l = this.length,
+          if ( rscriptType.test( elem.type || "" ) ) {
+    return window.getComputedStyle( elem, null );
+    for ( prefix in a ) {
+            requestHeaders[ name ] = value;
+      if ( current === "*" ) {
+  rrun = /queueHooks$/,
+      // attempt a parseFloat and fallback to a string if the parse fails
+  var top = /Y/.test( prop );
