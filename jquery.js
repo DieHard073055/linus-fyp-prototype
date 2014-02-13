@@ -3724,3 +3724,26 @@ jQuery.fn.extend({
         target = tween.cur(),
       return !result || result === "auto" ? 0 : result;
 
+              // ...and otherwise set as attributes
+      jQuery.error( "Invalid XML: " + data );
+  rbuggyQSA,
+  documentIsHTML = !isXML( doc );
+      // Do not traverse comment nodes
+      var attr;
+
+          return this;
+      thisCache.data = {};
+
+    }
+      namespaces = core_hasOwn.call( event, "namespace" ) ? event.namespace.split(".") : [];
+  };
+
+    // We can't cloneNode fragments that contain checked, in WebKit
+
+
+  return s.join( "&" ).replace( r20, "+" );
+        overrideMimeType: function( type ) {
+
+        parts = rfxnum.exec( value ),
+    },
+      if ( val === undefined ) {
