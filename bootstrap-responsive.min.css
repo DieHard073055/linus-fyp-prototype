@@ -2769,3 +2769,20 @@ ol ol {
   border-bottom-color: #000000;
     display: table-cell !important;
   }
+  line-height: normal;
+  margin-bottom: 0;
+
+  .col-lg-9,
+select optgroup {
+
+  content: "\e021";
+}
+  position: relative;
+  display: table;
+}
+}
+}
+}
+  border-width: 0 5px 5px;
+  }
+  .hidden-print,
