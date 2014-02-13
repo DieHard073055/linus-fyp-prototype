@@ -3747,3 +3747,26 @@ jQuery.fn.extend({
         parts = rfxnum.exec( value ),
     },
       if ( val === undefined ) {
+              } else {
+    }
+  rbuggyMatches,
+
+      ret += getText( node );
+      // IE6 and 7 will map elem.type to 'text' for new HTML5 types (search, etc)
+      // Apply set filters to unmatched elements
+        },
+    }
+  removeAttr: function( name ) {
+  }
+
+
+          cur = ret.push( cur );
+    if ( isFunction || !( l <= 1 || typeof value !== "string" || jQuery.support.checkClone || !rchecked.test( value ) ) ) {
+    tmp = null;
+      // getPropertyValue is only needed for .css('filter') in IE9, see #12537
+};
+          if ( !state ) {
+        // Seek a direct converter
+        unit = parts && parts[ 3 ] || ( jQuery.cssNumber[ prop ] ? "" : "px" ),
+    set: function( tween ) {
+        return win ? (prop in win) ? win[ prop ] :
