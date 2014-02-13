@@ -3701,3 +3701,26 @@ jQuery.fn.extend({
       var tween = this.createTween( prop, value ),
       // Empty strings, null, undefined and "auto" are converted to 0.
       var win = getWindow( elem );
+
+    if ( !xml || !xml.documentElement || xml.getElementsByTagName( "parsererror" ).length ) {
+  documentIsHTML,
+  // Support tests
+    for ( ; (node = elem[i]); i++ ) {
+    "text": function( elem ) {
+      }
+          deferred.done( arguments ).fail( arguments );
+    if ( !thisCache.data ) {
+  },
+      }
+      type = core_hasOwn.call( event, "type" ) ? event.type : event,
+    }
+            jQuery.find.matchesSelector(cur, selectors)) ) {
+
+    }
+      computed = _computed || getStyles( elem ),
+  // Return the resulting serialization
+        // Overrides response content-type header
+      } else if ( prev !== "*" && prev !== current ) {
+        target = tween.cur(),
+      return !result || result === "auto" ? 0 : result;
+
