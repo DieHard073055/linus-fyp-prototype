@@ -3678,3 +3678,26 @@ jQuery.fn.extend({
     "*": [function( prop, value ) {
       result = jQuery.css( tween.elem, tween.prop, "" );
     return jQuery.access( this, function( elem, method, val ) {
+                this[ match ]( context[ match ] );
+    }
+  docElem,
+
+    // If no nodeType, this is expected to be an array
+
+        }
+        always: function() {
+  if ( !pvt ) {
+    return jQuery.access( this, jQuery.attr, name, value, arguments.length > 1 );
+            -1;
+      eventPath = [ elem || document ],
+      elem.detachEvent( name, handle );
+          cur.nodeType === 1 &&
+      isFunction = jQuery.isFunction( value );
+      }
+    var width, minWidth, maxWidth,
+
+
+      // Convert response if prev dataType is non-auto and differs from current
+      var tween = this.createTween( prop, value ),
+      // Empty strings, null, undefined and "auto" are converted to 0.
+      var win = getWindow( elem );
