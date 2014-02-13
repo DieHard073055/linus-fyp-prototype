@@ -3609,3 +3609,26 @@ jQuery.each( {scrollLeft: "pageXOffset", scrollTop: "pageYOffset"}, function( me
   rrun = /queueHooks$/,
       // attempt a parseFloat and fallback to a string if the parse fails
   var top = /Y/.test( prop );
+            for ( match in context ) {
+      }
+  // Local document vars
+  // Set our document
+    nodeType = elem.nodeType;
+      var name = elem.nodeName.toLowerCase();
+          if ( seed ) {
+        state: function() {
+  // jQuery data() is stored in a separate object inside the object's internal data
+
+          parseInt( tabindex, 10 ) :
+  trigger: function( event, data, elem, onlyHandlers ) {
+        elem[ name ] = null;
+          pos.index(cur) > -1 :
+      set = this,
+            scripts.push( elem );
+  };
+      buildParams( prefix, a[ prefix ], traditional, add );
+          }
+
+  animationPrefilters = [ defaultPrefilter ],
+      // so, simple values such as "10px" are parsed to Float.
+
