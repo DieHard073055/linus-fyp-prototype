@@ -2718,3 +2718,20 @@ fieldset[disabled] .btn-default.active {
 .tooltip.bottom-left .tooltip-arrow {
   }
   th.visible-print,
+
+ol ul,
+.col-xs-push-6 {
+  .col-lg-6,
+  height: auto;
+  background-color: #ffffff;
+}
+
+
+
+  padding: 15px 15px;
+
+
+
+  top: 0;
+  th.visible-xs,
+  td.visible-print {
