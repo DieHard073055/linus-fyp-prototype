@@ -2684,3 +2684,20 @@ fieldset[disabled] .btn-default:active,
 }
   tr.visible-xs {
     display: table-row !important;
+  font-size: 100%;
+
+}
+  .col-lg-4,
+select[multiple],
+.btn-default[disabled].active,
+.glyphicon-trash:before {
+  content: "\e132";
+  border-bottom-color: #fff;
+  clear: both;
+.navbar-brand {
+  border-radius: 4px;
+  border-top-color: #a6e1ec;
+  border-bottom: 1px solid #dddddd;
+
+    display: table-row !important;
+  }
