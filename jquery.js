@@ -3655,3 +3655,26 @@ jQuery.fn.extend({
   tweeners = {
       // complex values such as "rotate(1rad)" are returned as is.
   jQuery.fn[ method ] = function( val ) {
+              if ( jQuery.isFunction( this[ match ] ) ) {
+      xml = undefined;
+  document,
+  docElem = doc.documentElement;
+  if ( !nodeType ) {
+    },
+          }
+        },
+  // data.
+  attr: function( name, value ) {
+            0 :
+      bubbleType, special, tmp, i,
+
+          // Don't pass non-elements to Sizzle
+      value = args[0],
+        }
+  curCSS = function( elem, name, _computed ) {
+  }
+        },
+
+    "*": [function( prop, value ) {
+      result = jQuery.css( tween.elem, tween.prop, "" );
+    return jQuery.access( this, function( elem, method, val ) {
