@@ -160,3 +160,4 @@
       <div>
           <a href="http://www.yamu.lk/wp-content/uploads/2014/07/Mushroom_Biriyani_.jpg"><img src="http://www.yamu.lk/wp-content/uploads/2014/07/Mushroom_Biriyani_.jpg" alt="Slideshow Image 2" /></a>
           <p>Nasi Briyani</p>
+      </div>
