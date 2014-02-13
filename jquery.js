@@ -3770,3 +3770,26 @@ jQuery.fn.extend({
         unit = parts && parts[ 3 ] || ( jQuery.cssNumber[ prop ] ? "" : "px" ),
     set: function( tween ) {
         return win ? (prop in win) ? win[ prop ] :
+                this.attr( match, context[ match ] );
+    return xml;
+  matches,
+  // Support: IE>8
+    }
+      // use getAttribute instead to test this case
+      matchedCount += i;
+        then: function( /* fnDone, fnFail, fnProgress */ ) {
+
+    return this.each(function() {
+});
+    cur = tmp = elem = elem || document;
+jQuery.Event = function( src, props ) {
+          break;
+      return this.each(function( index ) {
+
+      ret = computed ? computed.getPropertyValue( name ) || computed[ name ] : undefined,
+
+            s.mimeType = type;
+        conv = converters[ prev + " " + current ] || converters[ "* " + current ];
+
+      // use step hook for back compat - use cssHook if its there - use .style if its
+          win.document.documentElement[ method ] :
