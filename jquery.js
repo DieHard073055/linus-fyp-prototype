@@ -3632,3 +3632,26 @@ jQuery.each( {scrollLeft: "pageXOffset", scrollTop: "pageYOffset"}, function( me
   animationPrefilters = [ defaultPrefilter ],
       // so, simple values such as "10px" are parsed to Float.
 
+              // Properties of context are called as methods if possible
+    } catch( e ) {
+  setDocument,
+  document = doc;
+
+      return name === "input" && elem.type === "button" || name === "button";
+            unmatched.push( elem );
+          return state;
+  // cache in order to avoid key collisions between internal data and user-defined
+jQuery.fn.extend({
+          rfocusable.test( elem.nodeName ) || rclickable.test( elem.nodeName ) && elem.href ?
+    var handle, ontype, cur,
+      }
+
+      iNoClone = l - 1,
+          }
+
+    }
+          return this;
+        current = prev;
+  tweeners = {
+      // complex values such as "rotate(1rad)" are returned as is.
+  jQuery.fn[ method ] = function( val ) {
