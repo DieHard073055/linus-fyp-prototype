@@ -2919,3 +2919,19 @@ input[type="checkbox"]:focus {
 .panel-default > .panel-heading + .panel-collapse .panel-body {
 }
     display: table-row !important;
+html input[type="button"],
+  padding-left: 0;
+.col-xs-push-3 {
+    width: 91.66666666666666%;
+  outline: thin dotted #333;
+.btn-primary:active,
+}
+
+}
+  position: relative;
+    margin-left: -15px;
+  color: #999999;
+  border-top-color: #f7e1b5;
+  border-top-color: #dddddd;
+
+  }
