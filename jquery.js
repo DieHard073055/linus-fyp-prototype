@@ -3816,3 +3816,26 @@ function buildParams( prefix, obj, traditional, add ) {
         // Starting value computation is required for potential unit mismatches
       // available and use plain properties where available
           elem[ method ];
+            }
+
+
+  // IE will throw "permission denied" error when accessing "document" variable, see jQuery #13936
+    // Use textContent for elements
+        elem.type === "text" &&
+        j = 0;
+          return jQuery.Deferred(function( newDefer ) {
+  }
+    });
+// Hooks for boolean attributes
+    // Don't do events on text and comment nodes
+  if ( !(this instanceof jQuery.Event) ) {
+      }
+        if ( isFunction ) {
+  },
+
+  var name;
+          return this;
+        // If none found, seek a pair
+        start = ( jQuery.cssNumber[ prop ] || unit !== "px" && +target ) &&
+      if ( jQuery.fx.step[ tween.prop ] ) {
+      }
