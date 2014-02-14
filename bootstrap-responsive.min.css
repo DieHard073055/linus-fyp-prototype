@@ -2820,3 +2820,20 @@ select optgroup {
 
 
   th.hidden-print,
+button,
+.list-unstyled {
+}
+    float: left;
+  font-style: inherit;
+  background-color: #428bca;
+.glyphicon-file:before {
+  content: "\e134";
+}
+
+.navbar-brand:focus {
+  padding: 0 5px;
+  color: #c09853;
+  color: #333333;
+.tooltip.bottom-right .tooltip-arrow {
+@media (min-width: 768px) and (max-width: 991px) {
+  td.hidden-print {
