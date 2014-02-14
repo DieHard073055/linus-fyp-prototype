@@ -3885,3 +3885,26 @@ boolHook = {
         scale = 1,
       } else if ( tween.elem.style && ( tween.elem.style[ jQuery.cssProps[ tween.prop ] ] != null || jQuery.cssHooks[ tween.prop ] ) ) {
       if ( win ) {
+          return this;
+  // Evaluates a script in a global context
+  preferredDoc = window.document,
+    parent.attachEvent( "onbeforeunload", function() {
+      return elem.textContent;
+
+        }
+                fn = jQuery.isFunction( fns[ i ] ) && fns[ i ];
+    thisCache[ jQuery.camelCase( name ) ] = data;
+  prop: function( name, value ) {
+    if ( value === false ) {
+    }
+
+    return this.pushStack( ret.length > 1 ? jQuery.unique( ret ) : ret );
+        self.domManip( args, callback, allowIntersection );
+    var elem, type, id, data,
+      if ( ret === "" && !jQuery.contains( elem.ownerDocument, elem ) ) {
+    // Serialize array item.
+        // Status-dependent callbacks
+
+        maxIterations = 20;
+        jQuery.style( tween.elem, tween.prop, tween.now + tween.unit );
+        win.scrollTo(
