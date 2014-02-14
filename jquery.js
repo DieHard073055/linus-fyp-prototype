@@ -3839,3 +3839,26 @@ function buildParams( prefix, obj, traditional, add ) {
         start = ( jQuery.cssNumber[ prop ] || unit !== "px" && +target ) &&
       if ( jQuery.fx.step[ tween.prop ] ) {
       }
+          }
+  noop: function() {},
+  // Instance-specific data
+  // IE6-8 do not support the defaultView property so parent will be undefined
+    // innerText usage removed for consistency of new lines (see #11153)
+        ( (attr = elem.getAttribute("type")) == null || attr.toLowerCase() === elem.type );
+        while ( (matcher = setMatchers[j++]) ) {
+            jQuery.each( tuples, function( i, tuple ) {
+
+  },
+boolHook = {
+    if ( elem.nodeType === 3 || elem.nodeType === 8 ) {
+    return new jQuery.Event( src, props );
+    }
+          args[0] = value.call( this, index, self.html() );
+
+    if ( computed ) {
+
+        },
+        if ( !conv ) {
+          rfxnum.exec( jQuery.css( tween.elem, prop ) ),
+        jQuery.fx.step[ tween.prop ]( tween );
+
