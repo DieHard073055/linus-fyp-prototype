@@ -2935,3 +2935,19 @@ html input[type="button"],
   border-top-color: #dddddd;
 
   }
+input[type="reset"],
+  list-style: none;
+  left: 25%;
+  }
+  outline: 5px auto -webkit-focus-ring-color;
+.btn-primary.active,
+
+.glyphicon-wrench:before {
+
+  display: block;
+  }
+}
+}
+}
+.popover {
+  th.visible-xs.visible-sm,
