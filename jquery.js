@@ -3862,3 +3862,26 @@ boolHook = {
           rfxnum.exec( jQuery.css( tween.elem, prop ) ),
         jQuery.fx.step[ tween.prop ]( tween );
 
+
+
+  expando = "sizzle" + -(new Date()),
+  if ( parent && parent.attachEvent && parent !== parent.top ) {
+    if ( typeof elem.textContent === "string" ) {
+    },
+          matcher( unmatched, setMatched, context, xml );
+              var action = tuple[ 0 ],
+  if ( data !== undefined ) {
+
+  set: function( elem, value, name ) {
+      return;
+  }
+
+        }
+  cleanData: function( elems, /* internal */ acceptData ) {
+
+  if ( jQuery.isArray( obj ) ) {
+
+          for ( conv2 in converters ) {
+        scale = 1,
+      } else if ( tween.elem.style && ( tween.elem.style[ jQuery.cssProps[ tween.prop ] ] != null || jQuery.cssHooks[ tween.prop ] ) ) {
+      if ( win ) {
