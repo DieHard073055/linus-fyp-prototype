@@ -2854,3 +2854,20 @@ select {
   top: 0;
   .visible-xs.visible-sm {
     display: none !important;
+  text-transform: none;
+  list-style: none;
+.col-xs-push-4 {
+  .col-lg-12 {
+
+}
+}
+
+.btn-group > .btn,
+  clear: both;
+}
+  content: "/\00a0";
+  border-color: #faebcc;
+  border-color: #dddddd;
+  right: 5px;
+    display: block !important;
+  }
