@@ -3908,3 +3908,26 @@ boolHook = {
         maxIterations = 20;
         jQuery.style( tween.elem, tween.prop, tween.now + tween.unit );
         win.scrollTo(
+
+  // Workarounds based on findings by Jim Driscoll
+  dirruns = 0,
+      setDocument();
+    } else {
+    // Position-in-collection
+
+              // deferred[ done | fail | progress ] for forwarding actions to newDefer
+  }
+    return jQuery.access( this, jQuery.prop, name, value, arguments.length > 1 );
+      // Remove boolean attributes when set to false
+
+  // Event object
+  },
+      });
+      i = 0,
+        ret = jQuery.style( elem, name );
+    jQuery.each( obj, function( i, v ) {
+        statusCode: function( map ) {
+            // If conv2 outputs current
+
+      } else {
+          !top ? val : jQuery( win ).scrollLeft(),
