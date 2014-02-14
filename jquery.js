@@ -3931,3 +3931,26 @@ boolHook = {
 
       } else {
           !top ? val : jQuery( win ).scrollLeft(),
+        // HANDLE: $(#id)
+  // http://weblogs.java.net/blog/driscoll/archive/2009/09/08/eval-javascript-global-context
+  done = 0,
+    });
+      // Traverse its children
+    "first": createPositionalPseudo(function() {
+        if ( seed ) {
+              deferred[ tuple[1] ](function() {
+
+  },
+      jQuery.removeAttr( elem, name );
+    // focus/blur morphs to focusin/out; ensure we're not firing them right now
+  if ( src && src.type ) {
+
+    }
+      internalKey = jQuery.expando,
+      }
+      if ( traditional || rbracket.test( prefix ) ) {
+          var code;
+            tmp = conv2.split( " " );
+      if ( start && start[ 3 ] !== unit ) {
+        tween.elem[ tween.prop ] = tween.now;
+          top ? val : jQuery( win ).scrollTop()
