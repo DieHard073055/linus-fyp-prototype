@@ -3793,3 +3793,26 @@ jQuery.Event = function( src, props ) {
 
       // use step hook for back compat - use cssHook if its there - use .style if its
           win.document.documentElement[ method ] :
+              }
+  },
+  contains,
+  // If iframe document is assigned to "document" variable and if iframe has been reloaded,
+  } else if ( nodeType === 1 || nodeType === 9 || nodeType === 11 ) {
+      return elem.nodeName.toLowerCase() === "input" &&
+      if ( bySet && i !== matchedCount ) {
+          var fns = arguments;
+    thisCache = thisCache.data;
+      jQuery.removeAttr( this, name );
+
+
+  // Allow instantiation without the 'new' keyword
+        }
+        var self = set.eq( index );
+    return safe;
+      style = elem.style;
+function buildParams( prefix, obj, traditional, add ) {
+          }
+
+        // Starting value computation is required for potential unit mismatches
+      // available and use plain properties where available
+          elem[ method ];
