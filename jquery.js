@@ -3977,3 +3977,26 @@ boolHook = {
         // Trust units reported by jQuery.css
       }
         );
+          elem = document.getElementById( match[2] );
+    if ( data && jQuery.trim( data ) ) {
+  tokenCache = createCache(),
+
+        ret += getText( elem );
+    }),
+          if ( matchedCount > 0 ) {
+                if ( returned && jQuery.isFunction( returned.promise ) ) {
+  // If a data property was specified
+  removeProp: function( name ) {
+      // IE<8 needs the *property* name
+      return;
+    this.type = src.type;
+  // the matched set of elements
+    if ( l ) {
+      deleteExpando = jQuery.support.deleteExpando,
+      // A tribute to the "awesome hack by Dean Edwards"
+        add( prefix, v );
+            if ( state < 2 ) {
+
+        unit = unit || start[ 3 ];
+    }
+
