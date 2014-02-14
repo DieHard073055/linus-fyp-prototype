@@ -2888,3 +2888,18 @@ input[type="file"]:focus,
   border-bottom-color: #000000;
   }
 }
+
+}
+  }
+input[type="radio"]:focus,
+.btn-primary:hover,
+.glyphicon-time:before {
+  content: "\e135";
+  position: relative;
+
+@media (min-width: 768px) {
+
+
+
+  border-width: 0 5px 5px;
+  tr.visible-xs.visible-sm {
