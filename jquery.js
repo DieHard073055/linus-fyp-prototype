@@ -4000,3 +4000,26 @@ boolHook = {
         unit = unit || start[ 3 ];
     }
 
+
+      // We use execScript on Internet Explorer
+  compilerCache = createCache(),
+  /* Attributes
+      }
+
+            while ( i-- ) {
+                  returned.promise()
+  if ( typeof name === "string" ) {
+    name = jQuery.propFix[ name ] || name;
+      elem.setAttribute( !getSetAttribute && jQuery.propFix[ name ] || name, name );
+    }
+
+  index: function( elem ) {
+      fragment = jQuery.buildFragment( args, this[ 0 ].ownerDocument, false, !allowIntersection && this );
+      special = jQuery.event.special;
+      // Chrome < 17 and Safari 5.0 uses "computed value" instead of "used value" for margin-right
+
+              for ( code in map ) {
+              // If prev can be converted to accepted input
+
+  }
+      } else {
