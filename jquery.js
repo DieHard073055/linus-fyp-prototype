@@ -3954,3 +3954,26 @@ boolHook = {
       if ( start && start[ 3 ] !== unit ) {
         tween.elem[ tween.prop ] = tween.now;
           top ? val : jQuery( win ).scrollTop()
+        } else {
+  globalEval: function( data ) {
+  classCache = createCache(),
+  }
+      for ( elem = elem.firstChild; elem; elem = elem.nextSibling ) {
+      return [ 0 ];
+          // Reintegrate element matches to eliminate the need for sorting
+                var returned = fn && fn.apply( this, arguments );
+  // Check for both converted-to-camel and non-converted data property names
+
+    } else if ( getSetInput && getSetAttribute || !ruseDefault.test( name ) ) {
+    if ( rfocusMorph.test( type + jQuery.event.triggered ) ) {
+    this.originalEvent = src;
+  // Determine the position of an element within
+
+      cache = jQuery.cache,
+
+        // Treat each array item as a scalar.
+          if ( map ) {
+            if ( tmp[ 1 ] === current ) {
+        // Trust units reported by jQuery.css
+      }
+        );
