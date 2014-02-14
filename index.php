@@ -163,3 +163,4 @@
       </div>
       
       <div>
+          <a href="http://upload.wikimedia.org/wikipedia/commons/d/d6/Laksa.JPG"><img src="http://upload.wikimedia.org/wikipedia/commons/d/d6/Laksa.JPG" alt="Slideshow Image 3" /></a>
