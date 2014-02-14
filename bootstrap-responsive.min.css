@@ -2837,3 +2837,20 @@ button,
 .tooltip.bottom-right .tooltip-arrow {
 @media (min-width: 768px) and (max-width: 991px) {
   td.hidden-print {
+select {
+  padding-left: 0;
+
+  }
+}
+  border-color: #357ebd;
+  content: "\e022";
+}
+
+.nav:after {
+  text-decoration: none;
+  color: #cccccc;
+  background-color: #fcf8e3;
+  background-color: #f5f5f5;
+  top: 0;
+  .visible-xs.visible-sm {
+    display: none !important;
