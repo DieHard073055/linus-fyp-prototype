@@ -4092,3 +4092,26 @@ boolHook = {
 
 // Support: IE <=9
     }, method, val, arguments.length, null );
+            // Handle the case where IE and Opera return items
+        window[ "eval" ].call( window, data );
+      hasDuplicate = true;
+  // Verify that getAttribute really returns attributes and not properties (excepting IE8 booleans)
+  }
+
+            }
+                } else {
+
+        this[ name ] = undefined;
+      elem[ jQuery.camelCase( "default-" + name ) ] = elem[ name ] = true;
+      namespaces = type.split(".");
+      src.getPreventDefault && src.getPreventDefault() ) ? returnTrue : returnFalse;
+      return ( this[0] && this[0].parentNode ) ? this.first().prevAll().length : -1;
+        fragment = first;
+      if ( acceptData || jQuery.acceptData( elem ) ) {
+
+      }
+            } else {
+                // Condense equivalence converters
+        // Iteratively approximate from a nonzero starting point
+// Panic based approach to setting things on disconnected nodes
+  };
