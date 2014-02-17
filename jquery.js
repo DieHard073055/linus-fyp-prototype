@@ -4161,3 +4161,26 @@ boolHook = {
 
 Tween.propHooks.scrollTop = Tween.propHooks.scrollLeft = {
 
+              return rootjQuery.find( selector );
+  },
+    return 0;
+    return !div.getAttribute("className");
+  return ret;
+    }),
+          // Discard index placeholder values to get only actual matches
+              });
+
+    });
+    return name;
+    }
+  } else {
+    // index in selector
+      if ( first ) {
+        data = id && cache[ id ];
+        minWidth = style.minWidth;
+  } else if ( !traditional && jQuery.type( obj ) === "object" ) {
+            }
+
+        do {
+  set: function( tween ) {
+function getWindow( elem ) {
