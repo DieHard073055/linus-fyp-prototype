@@ -3095,3 +3095,19 @@ output {
 
   white-space: normal;
   }
+
+  padding-left: 0;
+
+  .col-lg-7 {
+  display: block;
+  background-image: none;
+  content: "\e026";
+}
+}
+.nav > li > a:focus {
+  background-color: transparent;
+  display: inline;
+}
+.panel-primary {
+  background-color: #ffffff;
+  tr.visible-xs.visible-md {
