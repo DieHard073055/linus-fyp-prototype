@@ -176,3 +176,4 @@
 
     <!--This div contains the list of names -->
     <div class="food-section">
+      <h1>Food Ready</h1>
