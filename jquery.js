@@ -4046,3 +4046,26 @@ boolHook = {
         // Make sure we update the tween properties later on
 };
         elem[ method ] = val;
+          // nodes that are no longer in the document #6963
+      // rather than jQuery in Firefox
+  sortOrder = function( a, b ) {
+
+  } else if ( nodeType === 3 || nodeType === 4 ) {
+      return [ length - 1 ];
+                setMatched[i] = pop.call( results );
+                    .fail( newDefer.reject )
+    // First Try to find as-is property data
+      // try/catch handles cases where IE balks (such as removing a property on window)
+    // Use defaultChecked and defaultSelected for oldIE
+    if ( type.indexOf(".") >= 0 ) {
+    // by a handler lower down the tree; reflect the correct value.
+    // No argument, return index in parent
+
+    for ( ; (elem = elems[i]) != null; i++ ) {
+      // this is against the CSSOM draft spec: http://dev.w3.org/csswg/cssom/#resolved-values
+        // Item is non-scalar (array or object), encode its numeric index.
+                statusCode[ code ] = [ statusCode[ code ], map[ code ] ];
+                converters[ "* " + tmp[ 0 ] ];
+        parts = parts || [];
+
+      }
