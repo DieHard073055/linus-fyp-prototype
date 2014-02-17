@@ -3047,3 +3047,19 @@ button[disabled],
 .panel-default > .panel-footer + .panel-collapse .panel-body {
   max-width: 276px;
 @media (min-width: 992px) and (max-width: 1199px) {
+html input[disabled] {
+}
+.col-xs-push-1 {
+  .col-lg-8 {
+}
+.btn-primary:active,
+}
+
+.btn-group > .btn.active,
+}
+  margin-top: 8px;
+}
+  color: #b94a48;
+  border-bottom-color: #dddddd;
+  padding: 1px;
+  .visible-xs.visible-md {
