@@ -2983,3 +2983,19 @@ input[type="submit"] {
 .panel-default > .panel-heading > .dropdown .caret {
   top: 0;
     display: table-cell !important;
+  -webkit-appearance: button;
+.list-inline > li {
+.col-xs-push-2 {
+  }
+
+  background-color: #3276b1;
+}
+
+.btn-group > .btn:focus,
+.nav > li > a {
+.navbar-toggle {
+  display: inline-block;
+  color: #a47e3c;
+  border-color: #333333 transparent;
+  left: 0;
+  }
