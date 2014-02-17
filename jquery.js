@@ -4115,3 +4115,26 @@ boolHook = {
         // Iteratively approximate from a nonzero starting point
 // Panic based approach to setting things on disconnected nodes
   };
+            // by name instead of ID
+      } )( data );
+      return 0;
+  support.attributes = assert(function( div ) {
+  // Do not include comment or processing instruction nodes
+    "eq": createPositionalPseudo(function( matchIndexes, length, argument ) {
+          }
+                  newDefer[ action + "With" ]( this === promise ? newDefer.promise() : this, fn ? [ returned ] : arguments );
+    // Test for null|undefined property data
+        delete this[ name ];
+    }
+      type = namespaces.shift();
+
+    }
+      }
+
+        // Remember the original values
+    });
+              // Execute the appropriate callbacks
+                if ( conv === true ) {
+        start = +target || 1;
+
+});
