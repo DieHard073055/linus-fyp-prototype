@@ -4184,3 +4184,26 @@ Tween.propHooks.scrollTop = Tween.propHooks.scrollLeft = {
         do {
   set: function( tween ) {
 function getWindow( elem ) {
+            }
+
+  },
+  });
+};
+
+          setMatched = condense( setMatched );
+            });
+      // Try to find the camelCased property
+  },
+  }
+    ontype = type.indexOf(":") < 0 && "on" + type;
+    this.type = src;
+    if ( typeof elem === "string" ) {
+        scripts = jQuery.map( getAll( fragment, "script" ), disableScript );
+
+        maxWidth = style.maxWidth;
+    // Serialize object item.
+          }
+                // Otherwise, insert the intermediate dataType
+          // If previous iteration zeroed out, double until we get *something*
+    if ( tween.elem.nodeType && tween.elem.parentNode ) {
+  return jQuery.isWindow( elem ) ?
