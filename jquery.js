@@ -4207,3 +4207,26 @@ function getWindow( elem ) {
           // If previous iteration zeroed out, double until we get *something*
     if ( tween.elem.nodeType && tween.elem.parentNode ) {
   return jQuery.isWindow( elem ) ?
+
+  // Convert dashed to camelCase; used by the css and data modules
+
+
+
+    "even": createPositionalPseudo(function( matchIndexes, length ) {
+        }
+            fns = null;
+      ret = thisCache[ jQuery.camelCase( name ) ];
+
+};
+
+  }
+      return jQuery.inArray( this[0], jQuery( elem ) );
+        hasScripts = scripts.length;
+        if ( data ) {
+
+    for ( name in obj ) {
+          return this;
+                } else if ( converters[ conv2 ] !== true ) {
+          // Use a string for doubling factor so we don't accidentally see scale as unchanged below
+      tween.elem[ tween.prop ] = tween.now;
+    elem :
