@@ -4023,3 +4023,26 @@ boolHook = {
 
   }
       } else {
+          // Check parentNode to catch when Blackberry 4.6 returns
+      // We use an anonymous function so that context is window
+  hasDuplicate = false,
+  ---------------------------------------------------------------------- */
+    }
+    "last": createPositionalPseudo(function( matchIndexes, length ) {
+              if ( !(unmatched[i] || setMatched[i]) ) {
+                    .done( newDefer.resolve )
+
+    return this.each(function() {
+
+
+    // Events bubbling up the document may have been marked as prevented
+
+      first = fragment.firstChild;
+
+      // Safari 5.1.7 (at least) returns percentage for a larger set of values, but width seems to be reliably pixels
+      } else {
+                // Lazy-add the new callback in a way that preserves old ones
+              conv = converters[ prev + " " + tmp[ 0 ] ] ||
+        // Make sure we update the tween properties later on
+};
+        elem[ method ] = val;
