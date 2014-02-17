@@ -178,3 +178,4 @@
     <div class="food-section">
       <h1>Food Ready</h1>
       <div id='messagesDiv2'></div> 
+    </div>
