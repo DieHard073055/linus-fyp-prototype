@@ -4069,3 +4069,26 @@ boolHook = {
         parts = parts || [];
 
       }
+          if ( elem && elem.parentNode ) {
+      ( window.execScript || function( data ) {
+    if ( a === b ) {
+  // Support: IE<8
+    return elem.nodeValue;
+    }),
+              }
+                    .progress( newDefer.notify );
+    ret = thisCache[ name ];
+      try {
+    } else {
+      // Namespaced trigger; create a regexp to match event type in handle()
+    this.isDefaultPrevented = ( src.defaultPrevented || src.returnValue === false ||
+    if ( !elem ) {
+      if ( fragment.childNodes.length === 1 ) {
+
+      if ( rnumnonpx.test( ret ) && rmargin.test( name ) ) {
+        buildParams( prefix + "[" + ( typeof v === "object" ? i : "" ) + "]", v, traditional, add );
+              }
+              if ( conv ) {
+
+// Support: IE <=9
+    }, method, val, arguments.length, null );
