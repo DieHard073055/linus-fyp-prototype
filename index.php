@@ -175,3 +175,4 @@
   </div>
 
     <!--This div contains the list of names -->
+    <div class="food-section">
