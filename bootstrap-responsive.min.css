@@ -3111,3 +3111,19 @@ output {
 .panel-primary {
   background-color: #ffffff;
   tr.visible-xs.visible-md {
+input[type="checkbox"],
+}
+.col-xs-push-0 {
+    width: 58.333333333333336%;
+  padding-top: 7px;
+}
+}
+
+
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+  border-color: #428bca;
+  border: 1px solid #cccccc;
+    display: table-row !important;
