@@ -3127,3 +3127,19 @@ input[type="checkbox"],
   border-color: #428bca;
   border: 1px solid #cccccc;
     display: table-row !important;
+input[type="radio"] {
+
+  left: 0;
+  }
+  font-size: 14px;
+
+
+.glyphicon-briefcase:before {
+.btn-group > .btn:focus,
+  background-color: #eeeeee;
+  border-radius: 4px;
+
+.alert-danger hr {
+}
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  }
