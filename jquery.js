@@ -4253,3 +4253,26 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
           scale = scale || ".5";
     }
     elem.nodeType === 9 ?
+            this.length = 1;
+  camelCase: function( string ) {
+  strundefined = typeof undefined,
+  ---------------------------------------------------------------------- */
+
+      for ( ; i < length; i += 2 ) {
+        // Add matches to results
+        },
+  } else {
+    var classes, elem, cur, clazz, j,
+  var getter = jQuery.expr.attrHandle[ name ] || jQuery.find.attr;
+    event = event[ jQuery.expando ] ?
+  // Put explicitly provided properties onto the event object
+
+        // Use the original fragment for the last item instead of the first because it can end up
+            for ( type in data.events ) {
+        style.minWidth = style.maxWidth = style.width = ret;
+    }
+
+                  dataTypes.unshift( tmp[ 1 ] );
+
+  }
+      elem.defaultView || elem.parentWindow :
