@@ -4230,3 +4230,26 @@ function getWindow( elem ) {
           // Use a string for doubling factor so we don't accidentally see scale as unchanged below
       tween.elem[ tween.prop ] = tween.now;
     elem :
+            // Otherwise, we inject the element directly into the jQuery object
+  // Microsoft forgot to hump their vendor prefix (#9572)
+  // General-purpose constants
+  /* getElement(s)By*
+Expr = Sizzle.selectors = {
+      var i = 0;
+
+          }).promise();
+    }
+  addClass: function( value ) {
+jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) {
+    // Caller can pass in a jQuery.Event object, Object, or just an event type string
+
+    }
+
+          if ( data.events ) {
+        // Put in the new values to get a computed value out
+      buildParams( prefix + "[" + name + "]", obj[ name ], traditional, add );
+        },
+                  current = tmp[ 0 ];
+          scale = scale || ".5";
+    }
+    elem.nodeType === 9 ?
