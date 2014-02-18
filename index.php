@@ -184,3 +184,4 @@
 
       <script>
         var myDataRef2 = new Firebase('https://diehard073055.firebaseio.com/orders/');
+        $('#messageInput2').keypress(function (e) {
