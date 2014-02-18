@@ -4276,3 +4276,26 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
 
   }
       elem.defaultView || elem.parentWindow :
+            this[0] = elem;
+    return string.replace( rmsPrefix, "ms-" ).replace( rdashAlpha, fcamelCase );
+  MAX_NEGATIVE = 1 << 31,
+
+  // Can be adjusted by the user
+        matchIndexes.push( i );
+        push.apply( results, setMatched );
+        // Get a promise for this deferred
+    ret = thisCache;
+      i = 0,
+
+      event :
+  if ( props ) {
+    // Locate the position of the desired element
+        // being emptied incorrectly in certain situations (#8070).
+              if ( special[ type ] ) {
+        ret = computed.width;
+
+        // Cancel the request
+                }
+          // Adjust and apply
+};
+      false;
