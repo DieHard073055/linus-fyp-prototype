@@ -4322,3 +4322,26 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
           start = start / scale;
 
 }
+
+
+  // Instance methods
+  support.getElementsByTagName = assert(function( div ) {
+
+      return matchIndexes;
+        // Seedless set matches succeeding multiple successful matchers stipulate sorting
+        promise: function( obj ) {
+
+      proceed = typeof value === "string" && value;
+    function( elem, name, isXML ) {
+
+  }
+      // If it receives a jQuery object, the first element is used
+          node = fragment;
+
+        // Revert the changed values
+    // Serialize scalar item.
+          var finalText = statusText || strAbort;
+              }
+          jQuery.style( tween.elem, prop, start + unit );
+jQuery.each([ "toggle", "show", "hide" ], function( i, name ) {
+// Create innerHeight, innerWidth, height, width, outerHeight and outerWidth methods
