@@ -4299,3 +4299,26 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
           // Adjust and apply
 };
       false;
+          }
+  },
+
+  // Check if getElementsByTagName("*") returns only elements
+  cacheLength: 50,
+      }
+
+        // If obj is provided, the promise aspect is added to the object
+  }
+      len = this.length,
+  jQuery.expr.attrHandle[ name ] = getSetInput && getSetAttribute || !ruseDefault.test( name ) ?
+      new jQuery.Event( type, typeof event === "object" && event );
+    jQuery.extend( this, props );
+    return jQuery.inArray(
+        for ( ; i < l; i++ ) {
+                jQuery.event.remove( elem, type );
+
+  } else {
+        abort: function( statusText ) {
+                break;
+          start = start / scale;
+
+}
