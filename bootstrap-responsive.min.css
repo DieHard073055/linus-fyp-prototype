@@ -3159,3 +3159,19 @@ dl {
 
   border-radius: 6px;
   th.visible-xs.visible-md,
+  box-sizing: border-box;
+  margin-bottom: 20px;
+
+    width: 50%;
+  color: #555555;
+.btn-primary[disabled],
+  content: "\e027";
+}
+  outline: none;
+
+
+.pagination > li > span {
+}
+.panel-primary > .panel-heading {
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  td.visible-xs.visible-md {
