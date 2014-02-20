@@ -4368,3 +4368,26 @@ jQuery.each([ "toggle", "show", "hide" ], function( i, name ) {
 
   var cssFn = jQuery.fn[ name ];
 jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
+          this.selector = selector;
+    return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
+  arr = [],
+    return !div.getElementsByTagName("*").length;
+
+
+          ( matchedCount + setMatchers.length ) > 1 ) {
+        }
+}
+    if ( jQuery.isFunction( value ) ) {
+        ret = isXML ?
+    event.isTrigger = onlyHandlers ? 2 : 3;
+  // Create a timestamp if incoming event doesn't have one
+  },
+          if ( i !== iNoClone ) {
+              } else {
+        style.minWidth = minWidth;
+  }
+            transport.abort( finalText );
+          }
+        // Update scale, tolerating zero or NaN from tween.cur()
+  jQuery.fn[ name ] = function( speed, easing, callback ) {
+  jQuery.each( { padding: "inner" + name, content: type, "": "outer" + name }, function( defaultExtra, funcName ) {
