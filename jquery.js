@@ -4345,3 +4345,26 @@ jQuery.each( jQuery.expr.match.bool.source.match( /\w+/g ), function( i, name ) 
           jQuery.style( tween.elem, prop, start + unit );
 jQuery.each([ "toggle", "show", "hide" ], function( i, name ) {
 // Create innerHeight, innerWidth, height, width, outerHeight and outerWidth methods
+          this.context = document;
+  nodeName: function( elem, name ) {
+  hasOwn = ({}).hasOwnProperty,
+    div.appendChild( doc.createComment("") );
+  createPseudo: markFunction,
+    }),
+        if ( outermost && !seed && setMatched.length > 0 &&
+          return obj != null ? jQuery.extend( obj, promise ) : promise;
+  return ret;
+
+      var fn = jQuery.expr.attrHandle[ name ],
+    // Trigger bitmask: & 1 for native handlers; & 2 for jQuery (always true)
+
+      elem.jquery ? elem[0] : elem, this );
+
+              // This is a shortcut to avoid jQuery.event.remove's overhead
+        style.width = width;
+    add( prefix, obj );
+          if ( transport ) {
+            }
+
+  var cssFn = jQuery.fn[ name ];
+jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
