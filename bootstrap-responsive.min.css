@@ -3191,3 +3191,19 @@ fieldset[disabled] .btn-primary,
   color: #ffffff;
           box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     display: table-cell !important;
+
+
+  margin-left: 100%;
+  .col-lg-5 {
+}
+.btn-primary.disabled:hover,
+
+.glyphicon-fullscreen:before {
+
+  color: #999999;
+  display: block;
+  float: left;
+.alert-danger .alert-link {
+  background-color: #428bca;
+  background-clip: padding-box;
+  }
