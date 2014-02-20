@@ -4391,3 +4391,26 @@ jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
         // Update scale, tolerating zero or NaN from tween.cur()
   jQuery.fn[ name ] = function( speed, easing, callback ) {
   jQuery.each( { padding: "inner" + name, content: type, "": "outer" + name }, function( defaultExtra, funcName ) {
+          return this;
+  },
+  pop = arr.pop,
+  });
+  match: matchExpr,
+    "odd": createPositionalPseudo(function( matchIndexes, length ) {
+
+      },
+
+      return this.each(function( j ) {
+          undefined :
+    event.namespace = namespaces.join(".");
+  this.timeStamp = src && src.timeStamp || jQuery.now();
+
+            node = jQuery.clone( node, true, true );
+                jQuery.removeEvent( elem, type, data.handle );
+        style.maxWidth = maxWidth;
+}
+          }
+        }
+        // And breaking the loop if scale is unchanged or perfect, or if we've just had enough
+    return speed == null || typeof speed === "boolean" ?
+    // margin is only for outerHeight, outerWidth
