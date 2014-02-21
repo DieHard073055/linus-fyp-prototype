@@ -4483,3 +4483,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
 
   };
         extra = defaultExtra || ( margin === true || value === true ? "margin" : "border" );
+      } else if ( !context || context.jquery ) {
+    var value,
+  // Use a stripped-down indexOf if we can't use a native one
+    div.innerHTML = "<div class='a'></div><div class='a i'></div>";
+  find: {},
+      }
+
+    promise.pipe = promise.then;
+  }
+
+
+
+};
+        jQuery.makeArray( selector && selector.nodeType ? [ selector ] : selector ),
+              jQuery.merge( scripts, getAll( node, "script" ) );
+
+    return ret;
+
+      };
+
+      // Update tween properties
+});
+
