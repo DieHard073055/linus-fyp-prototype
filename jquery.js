@@ -4414,3 +4414,26 @@ jQuery.each( { Height: "height", Width: "width" }, function( name, type ) {
         // And breaking the loop if scale is unchanged or perfect, or if we've just had enough
     return speed == null || typeof speed === "boolean" ?
     // margin is only for outerHeight, outerWidth
+        }
+
+  push_native = arr.push,
+
+
+      var i = 1;
+          Sizzle.uniqueSort( results );
+      deferred = {};
+function internalRemoveData( elem, name, pvt ) {
+        jQuery( this ).addClass( value.call( this, j, this.className ) );
+          /* jshint eqeqeq: false */
+    event.namespace_re = event.namespace ?
+
+  add: function( selector, context ) {
+
+              }
+      }
+jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblclick " +
+          done( 0, finalText );
+
+        } while ( scale !== (scale = tween.cur() / target) && scale !== 1 && --maxIterations );
+      cssFn.apply( this, arguments ) :
+    jQuery.fn[ funcName ] = function( margin, value ) {
