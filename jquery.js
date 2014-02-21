@@ -4529,3 +4529,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
       if ( parts ) {
 
       return jQuery.access( this, function( elem, type, value ) {
+
+      length = obj.length,
+    var i = 0,
+    // Support: Safari<4
+  relative: {
+    }),
+      if ( outermost ) {
+    // Add list-specific methods
+  var thisCache, i,
+      // The disjunction here is for better compressibility (see removeClass)
+            null;
+    event.result = undefined;
+// jQuery.Event is based on DOM3 Events as specified by the ECMAScript Language Binding
+
+          }
+          if ( cache[ id ] ) {
+} else if ( document.documentElement.currentStyle ) {
+  jQuery.fn[ name ] = function( data, fn ) {
+    // Attach deferreds
+          if ( conv && s[ "throws" ] ) {
+        start = tween.start = +start || +target || 0;
+jQuery.fn.extend({
+        var doc;
