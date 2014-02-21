@@ -3271,3 +3271,19 @@ fieldset[disabled] .btn-primary:hover,
 .panel-primary > .panel-heading + .panel-collapse .panel-body {
   margin-top: -10px;
   .visible-xs.visible-lg {
+  -webkit-appearance: textfield;
+
+}
+  }
+  height: 34px;
+fieldset[disabled] .btn-primary:focus,
+.glyphicon-play-circle:before {
+  content: "\e141";
+  margin-left: -1px;
+  color: #999999;
+
+  background-color: #ffffff;
+  from {
+  border-top-color: #428bca;
+}
+    display: block !important;
