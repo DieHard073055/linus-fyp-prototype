@@ -4460,3 +4460,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
       }
       this.animate( genFx( name, true ), speed, easing, callback );
       var chainable = arguments.length && ( defaultExtra || typeof margin !== "boolean" ),
+      // HANDLE: $(expr, $(...))
+  each: function( obj, callback, args ) {
+  slice = arr.slice,
+  support.getElementsByClassName = assert(function( div ) {
+
+        matchIndexes.push( i );
+      }
+    // Keep pipe for back-compat
+    return;
+    }
+            getter( elem, name, isXML ) ?
+      null;
+  this[ jQuery.expando ] = true;
+        jQuery( selector, context ) :
+            if ( hasScripts ) {
+          }
+
+  "change select submit keydown keypress keyup error contextmenu").split(" "), function( i, name ) {
+        }
+        if ( conv !== true ) {
+
+  };
+        extra = defaultExtra || ( margin === true || value === true ? "margin" : "border" );
