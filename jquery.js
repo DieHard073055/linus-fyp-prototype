@@ -4506,3 +4506,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
       // Update tween properties
 });
 
+        return ( context || rootjQuery ).find( selector );
+      i = 0,
+  indexOf = arr.indexOf || function( elem ) {
+
+
+      return matchIndexes;
+      // Override manipulation of globals by nested matchers
+
+
+    if ( proceed ) {
+            name.toLowerCase() :
+    // Clean up the event in case it is being reused
+
+      all = jQuery.merge( this.get(), set );
+            }
+          // Remove cache only if it was not already removed by jQuery.event.remove
+  };
+  // Handle event binding
+
+          // Unless errors are allowed to bubble, catch and return them
+      if ( parts ) {
+
+      return jQuery.access( this, function( elem, type, value ) {
