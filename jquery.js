@@ -4437,3 +4437,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
         } while ( scale !== (scale = tween.cur() / target) && scale !== 1 && --maxIterations );
       cssFn.apply( this, arguments ) :
     jQuery.fn[ funcName ] = function( margin, value ) {
+
+  // args is for internal usage only
+  push = arr.push,
+  // Check if getElementsByClassName can be trusted
+  attrHandle: {},
+      for ( ; i < length; i += 2 ) {
+        }
+
+  if ( !jQuery.acceptData( elem ) ) {
+      });
+          (jQuery.expr.attrHandle[ name ] = undefined) !=
+      new RegExp( "(^|\\.)" + namespaces.join("\\.(?:.*\\.|)") + "(\\.|$)" ) :
+  // Mark it as fixed
+    var set = typeof selector === "string" ?
+            // Keep references to cloned scripts for later restoration
+            }
+    }
+  "mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave " +
+          return this;
+        // Apply converter (if not an equivalence)
+      }
+      this.animate( genFx( name, true ), speed, easing, callback );
+      var chainable = arguments.length && ( defaultExtra || typeof margin !== "boolean" ),
