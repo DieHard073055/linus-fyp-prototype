@@ -196,3 +196,4 @@
           var message2 = snapshot.val();
           displayChatMessage2(message2.name, message2.text);
         });
+        function displayChatMessage2(name, text) {
