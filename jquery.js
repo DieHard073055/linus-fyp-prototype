@@ -4552,3 +4552,26 @@ jQuery.each( ("blur focus focusin focusout load resize scroll unload click dblcl
         start = tween.start = +start || +target || 0;
 jQuery.fn.extend({
         var doc;
+      // HANDLE: $(expr, context)
+      isArray = isArraylike( obj );
+      len = this.length;
+    // Catch class over-caching
+    ">": { dir: "parentNode", first: true },
+
+        dirruns = dirrunsUnique;
+    jQuery.each( tuples, function( i, tuple ) {
+    isNode = elem.nodeType,
+      classes = ( value || "" ).match( core_rnotwhite ) || [];
+      jQuery.expr.attrHandle[ name ] = fn;
+    if ( !event.target ) {
+// http://www.w3.org/TR/2003/WD-DOM-Level-3-Events-20030331/ecma-script-binding.html
+    return this.pushStack( jQuery.unique(all) );
+
+
+  getStyles = function( elem ) {
+    return arguments.length > 0 ?
+    deferred.promise( jqXHR ).complete = completeDeferred.add;
+            response = conv( response );
+        tween.unit = unit;
+  fadeTo: function( speed, to, easing, callback ) {
+
