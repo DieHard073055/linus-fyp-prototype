@@ -4575,3 +4575,26 @@ jQuery.fn.extend({
         tween.unit = unit;
   fadeTo: function( speed, to, easing, callback ) {
 
+      // (which is just equivalent to: $(context).find(expr)
+
+    for ( ; i < len; i++ ) {
+    div.firstChild.className = "i";
+    " ": { dir: "parentNode" },
+    "lt": createPositionalPseudo(function( matchIndexes, length, argument ) {
+        outermostContext = contextBackup;
+      var list = tuple[ 2 ],
+
+
+      return ret;
+      event.target = elem;
+jQuery.Event.prototype = {
+  },
+          callback.call( this[i], node, i );
+            delete cache[ id ];
+    return elem.currentStyle;
+      this.on( name, null, data, fn ) :
+    jqXHR.success = jqXHR.done;
+          } else {
+        // If a +=/-= token was provided, we're doing a relative animation
+
+        if ( jQuery.isWindow( elem ) ) {
