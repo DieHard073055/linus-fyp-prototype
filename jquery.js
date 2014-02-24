@@ -4598,3 +4598,26 @@ jQuery.Event.prototype = {
         // If a +=/-= token was provided, we're doing a relative animation
 
         if ( jQuery.isWindow( elem ) ) {
+      } else {
+    if ( args ) {
+      if ( this[i] === elem ) {
+    // Support: Opera<10
+    "+": { dir: "previousSibling", first: true },
+      var i = argument < 0 ? argument + length : argument;
+      }
+        stateString = tuple[ 3 ];
+    // See jQuery.data for more information
+      for ( ; i < len; i++ ) {
+    } :
+    }
+  isDefaultPrevented: returnFalse,
+
+        }
+
+  };
+      this.trigger( name );
+    jqXHR.error = jqXHR.fail;
+            try {
+        tween.end = parts[ 1 ] ?
+    // show any hidden elements after setting opacity to 0
+          // As of 5/8/2012 this will yield incorrect results for Mobile Safari, but there
