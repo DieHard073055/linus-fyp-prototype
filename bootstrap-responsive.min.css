@@ -3351,3 +3351,19 @@ input[type="search"]::-webkit-search-decoration {
   border-color: #ffffff transparent;
 }
   }
+  -webkit-appearance: none;
+dd {
+
+    width: 16.666666666666664%;
+  vertical-align: middle;
+.btn-primary[disabled].active,
+  content: "\e030";
+}
+  display: table;
+
+@media (min-width: 768px) {
+.pagination > li:first-child > span {
+  }
+}
+
+  th.visible-xs.visible-lg,
