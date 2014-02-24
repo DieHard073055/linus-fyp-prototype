@@ -4621,3 +4621,26 @@ jQuery.Event.prototype = {
         tween.end = parts[ 1 ] ?
     // show any hidden elements after setting opacity to 0
           // As of 5/8/2012 this will yield incorrect results for Mobile Safari, but there
+        return this.constructor( context ).find( selector );
+      if ( isArray ) {
+        return i;
+    // Catch gEBCN failure to find non-leading classes
+    "~": { dir: "previousSibling" }
+      for ( ; --i >= 0; ) {
+
+
+    cache = isNode ? jQuery.cache : elem,
+        elem = this[ i ];
+    function( elem, name, isXML ) {
+
+  isPropagationStopped: returnFalse,
+  addBack: function( selector ) {
+
+            // IE does not allow us to delete expando properties from nodes,
+
+  };
+
+              response = conv( response );
+          start + ( parts[ 1 ] + 1 ) * parts[ 2 ] :
+    return this.filter( isHidden ).css( "opacity", 0 ).show()
+          // isn't a whole lot we can do. See pull request at this URL for discussion:
