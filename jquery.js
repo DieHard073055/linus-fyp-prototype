@@ -4713,3 +4713,26 @@ jQuery.fn.extend({
 
       .end().animate({ opacity: to }, speed, easing, callback );
         }
+    } else if ( selector.nodeType ) {
+          if ( value === false ) {
+  },
+  // Support: IE<10
+    "ATTR": function( match ) {
+    }),
+  return bySet ?
+      // Handle state
+  // purpose in continuing
+        );
+          name.toLowerCase() :
+      jQuery.makeArray( data, [ event ] );
+    var e = this.originalEvent;
+  }
+          // Reenable scripts
+              delete elem[ internalKey ];
+      ret = computed ? computed[ name ] : undefined,
+  hover: function( fnOver, fnOut ) {
+    // We also use the url parameter if available
+          }
+      return tween;
+  },
+
