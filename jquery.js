@@ -4690,3 +4690,26 @@ jQuery.Event.prototype = {
       }
       // animate to the value specified
           return elem.document.documentElement[ "client" + name ];
+    // HANDLE: $(DOMElement)
+
+    return -1;
+
+  preFilter: {
+      return matchIndexes;
+
+
+  // If there is already no cache entry for this object, there is no
+          " "
+        elem[ jQuery.camelCase( "default-" + name ) ] ?
+      [ event ] :
+  preventDefault: function() {
+    );
+
+            if ( deleteExpando ) {
+      computed = _computed || getStyles( elem ),
+jQuery.fn.extend({
+    // Handle falsy url in the settings object (#10093: consistency with old signature)
+            }
+
+      .end().animate({ opacity: to }, speed, easing, callback );
+        }
