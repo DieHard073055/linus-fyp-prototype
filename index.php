@@ -200,3 +200,4 @@
           // $('<p/>').text(text).prepend($('<h4/>').text(name+': ')).prependTo($('#messagesDiv2'));
           // $('#messagesDiv2')[0].scrollTop = $('#messagesDiv2')[0].scrollHeight;
 
+          $('<blockqoute/>').text(" ").prepend($('<p/>').text(text)).prepend($('<h4/>').text(name+'')).prependTo($('#messagesDiv2'));
