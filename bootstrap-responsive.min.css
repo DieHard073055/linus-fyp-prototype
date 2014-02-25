@@ -3399,3 +3399,19 @@ fieldset[disabled] .btn-primary.active {
 .panel-primary > .panel-footer + .panel-collapse .panel-body {
   margin-top: 10px;
     display: table-cell !important;
+button::-moz-focus-inner,
+
+}
+    width: 8.333333333333332%;
+  border: 1px solid #cccccc;
+  border-color: #357ebd;
+.glyphicon-refresh:before {
+  content: "\e143";
+
+.nav .open > a:focus {
+  }
+  border-top-left-radius: 4px;
+@-moz-keyframes progress-bar-stripes {
+  border-bottom-color: #428bca;
+}
+  }
