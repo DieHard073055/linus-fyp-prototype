@@ -4644,3 +4644,26 @@ jQuery.Event.prototype = {
           start + ( parts[ 1 ] + 1 ) * parts[ 2 ] :
     return this.filter( isHidden ).css( "opacity", 0 ).show()
           // isn't a whole lot we can do. See pull request at this URL for discussion:
+      }
+        for ( ; i < length; i++ ) {
+      }
+    return div.getElementsByClassName("i").length === 2;
+  },
+        matchIndexes.push( i );
+      return unmatched;
+      // promise[ done | fail | progress ] = list.add
+    id = isNode ? elem[ jQuery.expando ] : jQuery.expando;
+        cur = elem.nodeType === 1 && ( elem.className ?
+      return isXML ?
+    // Clone any incoming data and prepend the event, creating the handler arg list
+  isImmediatePropagationStopped: returnFalse,
+    return this.add( selector == null ?
+        if ( hasScripts ) {
+            // nor does it have a removeAttribute function on Document nodes;
+  curCSS = function( elem, name, _computed ) {
+});
+    // Remove hash character (#7531: and string promotion)
+            } catch ( e ) {
+          +parts[ 2 ];
+
+          // https://github.com/jquery/jquery/pull/764
