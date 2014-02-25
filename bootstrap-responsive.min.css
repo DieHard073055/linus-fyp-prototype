@@ -3415,3 +3415,19 @@ button::-moz-focus-inner,
   border-bottom-color: #428bca;
 }
   }
+input::-moz-focus-inner {
+@media (min-width: 768px) {
+
+  }
+  border-radius: 4px;
+}
+  content: "\e031";
+}
+.btn-toolbar:after {
+  background-color: #eeeeee;
+}
+}
+  from {
+}
+
+}
