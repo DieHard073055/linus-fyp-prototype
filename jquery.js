@@ -4667,3 +4667,26 @@ jQuery.Event.prototype = {
           +parts[ 2 ];
 
           // https://github.com/jquery/jquery/pull/764
+
+          value = callback.apply( obj[ i ], args );
+    }
+  });
+
+      }
+    };
+      promise[ tuple[1] ] = list.add;
+
+          ( " " + elem.className + " " ).replace( rclass, " " ) :
+        undefined :
+    data = data == null ?
+
+      this.prevObject : this.prevObject.filter(selector)
+          doc = scripts[ scripts.length - 1 ].ownerDocument;
+            // we must handle all of these cases
+    var left, rs, rsLeft,
+
+    // Add protocol if not provided (#5866: IE7 issue with protocol-less urls)
+              return { state: "parsererror", error: conv ? e : "No conversion from " + prev + " to " + current };
+      }
+      // animate to the value specified
+          return elem.document.documentElement[ "client" + name ];
