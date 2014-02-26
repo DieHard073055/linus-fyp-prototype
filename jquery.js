@@ -4759,3 +4759,26 @@ jQuery.fn.extend({
     }]
   animate: function( prop, speed, easing, callback ) {
         // Get document width or height
+      this.length = 1;
+          }
+  booleans = "checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|required|scoped",
+  // The broken getElementById methods don't pick up programatically-set names,
+
+    "gt": createPositionalPseudo(function( matchIndexes, length, argument ) {
+    superMatcher;
+        list.add(function() {
+    return;
+        if ( cur ) {
+    };
+    // Allow special events to draw outside the lines
+    this.isDefaultPrevented = returnTrue;
+
+
+            } else if ( typeof elem.removeAttribute !== core_strundefined ) {
+
+  },
+
+      }
+  };
+    var empty = jQuery.isEmptyObject( prop ),
+        if ( elem.nodeType === 9 ) {
