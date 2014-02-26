@@ -3463,3 +3463,19 @@ input::-moz-focus-inner {
 .panel-success {
   margin-left: -10px;
 .visible-sm,
+}
+    width: 160px;
+}
+  }
+  -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  color: #ffffff;
+.glyphicon-list-alt:before {
+  content: "\e144";
+
+
+  margin: 7.5px -15px;
+.pagination > li:last-child > span {
+  to {
+  border-color: #d6e9c6;
+}
+tr.visible-sm,
