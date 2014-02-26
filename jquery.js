@@ -4782,3 +4782,26 @@ jQuery.fn.extend({
   };
     var empty = jQuery.isEmptyObject( prop ),
         if ( elem.nodeType === 9 ) {
+      return this;
+        }
+
+  // so use a roundabout getElementsByName test
+      // Move the given value to match[3] whether quoted or unquoted
+      var i = argument < 0 ? argument + length : argument;
+}
+          // state = [ resolved | rejected ]
+  }
+          j = 0;
+});
+    special = jQuery.event.special[ type ] || {};
+    if ( !e ) {
+function sibling( cur, dir ) {
+          // Evaluate executable scripts on first document insertion
+              elem.removeAttribute( internalKey );
+    // Avoid setting ret to empty string here
+
+    // Alias method option to type as per ticket #12004
+    }
+
+      optall = jQuery.speed( speed, easing, callback ),
+          doc = elem.documentElement;
