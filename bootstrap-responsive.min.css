@@ -3479,3 +3479,19 @@ input::-moz-focus-inner {
   border-color: #d6e9c6;
 }
 tr.visible-sm,
+
+    overflow: hidden;
+
+  .col-lg-pull-11 {
+          transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  background-color: #f0ad4e;
+  content: "\e032";
+}
+.btn-toolbar:before,
+.nav .open > a .caret,
+}
+  border-top-right-radius: 4px;
+    background-position: 0 0;
+}
+
+th.visible-sm,
