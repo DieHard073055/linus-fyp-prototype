@@ -4736,3 +4736,26 @@ jQuery.fn.extend({
       return tween;
   },
 
+      this.context = this[0] = selector;
+            break;
+
+  // Check if getElementById returns elements by name
+      match[1] = match[1].replace( runescape, funescape );
+
+    markFunction( superMatcher ) :
+      if ( stateString ) {
+  if ( !cache[ id ] ) {
+
+          null;
+
+
+});
+          jQuery.map( scripts, restoreScript );
+
+      style = elem.style;
+    return this.mouseenter( fnOver ).mouseleave( fnOut || fnOver );
+    s.url = ( ( url || s.url || ajaxLocation ) + "" ).replace( rhash, "" ).replace( rprotocol, ajaxLocParts[ 1 ] + "//" );
+        }
+    }]
+  animate: function( prop, speed, easing, callback ) {
+        // Get document width or height
