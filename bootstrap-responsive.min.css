@@ -3527,3 +3527,19 @@ td.visible-sm {
 .panel-success > .panel-heading {
   padding: 8px 14px;
   display: none !important;
+  vertical-align: top;
+    text-overflow: ellipsis;
+}
+  .col-lg-pull-10 {
+.form-control:focus {
+
+.glyphicon-lock:before {
+  content: "\e145";
+  content: " ";
+  border-top-color: #2a6496;
+  padding-top: 10px;
+
+
+  color: #468847;
+  margin: 0;
+}
