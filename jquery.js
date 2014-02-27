@@ -4851,3 +4851,26 @@ compile = Sizzle.compile = function( selector, group /* Internal Use Only */ ) {
 function createFxNow() {
         // Operate on a copy of prop so per-property easing won't be lost
           // Either scroll[Width/Height] or offset[Width/Height] or client[Width/Height], whichever is greatest
+    // Shortcut for document ready
+          value = callback.apply( obj[ i ], args );
+  // Whitespace characters http://www.w3.org/TR/css3-selectors/#whitespace
+    return !doc.getElementsByName || !doc.getElementsByName( expando ).length;
+      if ( match[2] === "~=" ) {
+      }
+  var i,
+        // [ reject_list | resolve_list ].disable; progress_list.lock
+
+              cur += clazz + " ";
+if ( !getSetInput || !getSetAttribute ) {
+    }
+
+  } while ( cur && cur.nodeType !== 1 );
+            if ( rscriptType.test( node.type || "" ) &&
+              elem[ internalKey ] = null;
+      ret = style[ name ];
+  },
+    // Extract dataTypes list
+  return { state: "success", data: response };
+  setTimeout(function() {
+        var anim = Animation( this, jQuery.extend( {}, prop ), optall );
+          // unfortunately, this causes bug #3838 in IE6/8 only, but there is currently no good, small way to fix it.
