@@ -4805,3 +4805,26 @@ function sibling( cur, dir ) {
 
       optall = jQuery.speed( speed, easing, callback ),
           doc = elem.documentElement;
+
+      } else {
+  // Regular expressions
+  support.getById = assert(function( div ) {
+      match[3] = ( match[4] || match[5] || "" ).replace( runescape, funescape );
+      for ( ; ++i < length; ) {
+
+          state = stateString;
+
+          while ( (clazz = classes[j++]) ) {
+
+    if ( !onlyHandlers && special.trigger && special.trigger.apply( elem, data ) === false ) {
+      return;
+  do {
+          for ( i = 0; i < hasScripts; i++ ) {
+
+    // so we don't default to auto
+  bind: function( types, data, fn ) {
+    s.type = options.method || options.type || s.method || s.type;
+  }
+// Animations created synchronously will run synchronously
+      doAnimation = function() {
+
