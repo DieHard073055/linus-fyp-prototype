@@ -4828,3 +4828,26 @@ function sibling( cur, dir ) {
 // Animations created synchronously will run synchronously
       doAnimation = function() {
 
+    // HANDLE: $(function)
+        for ( i in obj ) {
+
+    docElem.appendChild( div ).id = expando;
+
+        matchIndexes.push( i );
+compile = Sizzle.compile = function( selector, group /* Internal Use Only */ ) {
+
+  if ( name ) {
+            if ( cur.indexOf( " " + clazz + " " ) < 0 ) {
+// fix oldIE attroperties
+      return;
+    }
+    cur = cur[ dir ];
+            node = scripts[ i ];
+            } else {
+    if ( ret == null && style && style[ name ] ) {
+    return this.on( types, null, data, fn );
+
+
+function createFxNow() {
+        // Operate on a copy of prop so per-property easing won't be lost
+          // Either scroll[Width/Height] or offset[Width/Height] or client[Width/Height], whichever is greatest
