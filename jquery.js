@@ -4897,3 +4897,26 @@ if ( !getSetInput || !getSetAttribute ) {
     fxNow = undefined;
 
           return Math.max(
+      return rootjQuery.ready( selector );
+          if ( value === false ) {
+  // http://www.w3.org/TR/css3-syntax/#characters
+
+      }
+    })
+    elementMatchers = [],
+      }
+
+          }
+    set: function( elem, value, name ) {
+    // Determine event propagation path in advance, per W3C events spec (#9951)
+    if ( e.preventDefault ) {
+  return cur;
+
+
+
+    return this.off( types, null, fn );
+
+// Install script dataType
+  });
+        // Empty animations, or finishing resolves immediately
+            elem.body[ "scroll" + name ], doc[ "scroll" + name ],
