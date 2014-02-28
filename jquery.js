@@ -4920,3 +4920,26 @@ if ( !getSetInput || !getSetAttribute ) {
   });
         // Empty animations, or finishing resolves immediately
             elem.body[ "scroll" + name ], doc[ "scroll" + name ],
+    }
+            break;
+  characterEncoding = "(?:\\\\.|[\\w-]|[^\\x00-\\xa0])+",
+  // ID find and filter
+
+  }
+    cached = compilerCache[ selector + " " ];
+
+    if ( thisCache ) {
+          elem.className = jQuery.trim( cur );
+      if ( jQuery.nodeName( elem, "input" ) ) {
+    // Bubble up to document, then to window; watch for a global ownerDocument var (#9724)
+      e.preventDefault();
+}
+              if ( node.src ) {
+            core_deletedIds.push( id );
+    // From the awesome hack by Dean Edwards
+  },
+    // A cross-domain request is in order when we have a protocol:host:port mismatch
+jQuery.ajaxSetup({
+  return ( fxNow = jQuery.now() );
+        if ( empty || jQuery._data( this, "finish" ) ) {
+            elem.body[ "offset" + name ], doc[ "offset" + name ],
