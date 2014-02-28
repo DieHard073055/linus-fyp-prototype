@@ -4943,3 +4943,26 @@ jQuery.ajaxSetup({
   return ( fxNow = jQuery.now() );
         if ( empty || jQuery._data( this, "finish" ) ) {
             elem.body[ "offset" + name ], doc[ "offset" + name ],
+
+          }
+
+  if ( support.getById ) {
+      return match.slice( 0, 4 );
+};
+
+      // deferred[ resolve | reject | notify ]
+
+
+        // Does not return so that setAttribute is also used
+    if ( !onlyHandlers && !special.noBubble && !jQuery.isWindow( elem ) ) {
+
+
+                // Hope ajax is available...
+          }
+    // http://erik.eae.net/archives/2007/07/27/18.54.15/#comment-102291
+
+    if ( s.crossDomain == null ) {
+  accepts: {
+}
+          anim.stop( true );
+            doc[ "client" + name ]
