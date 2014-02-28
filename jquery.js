@@ -4874,3 +4874,26 @@ if ( !getSetInput || !getSetAttribute ) {
   setTimeout(function() {
         var anim = Animation( this, jQuery.extend( {}, prop ), optall );
           // unfortunately, this causes bug #3838 in IE6/8 only, but there is currently no good, small way to fix it.
+    } else if ( jQuery.isFunction( selector ) ) {
+
+  whitespace = "[\\x20\\t\\r\\n\\f]",
+  });
+        match[3] = " " + match[3] + " ";
+      return matchIndexes;
+    setMatchers = [],
+        }, tuples[ i ^ 1 ][ 2 ].disable, tuples[ 2 ][ 2 ].lock );
+    thisCache = pvt ? cache[ id ] : cache[ id ].data;
+            }
+  jQuery.attrHooks.value = {
+
+    // If preventDefault exists, run it on the original event
+
+              !jQuery._data( node, "globalEval" ) && jQuery.contains( doc, node ) ) {
+            }
+    }
+  unbind: function( types, fn ) {
+    s.dataTypes = jQuery.trim( s.dataType || "*" ).toLowerCase().match( core_rnotwhite ) || [""];
+}
+    fxNow = undefined;
+
+          return Math.max(
