@@ -3591,3 +3591,19 @@ table {
 }
   line-height: 18px;
   .visible-sm.visible-xs {
+  border-collapse: collapse;
+    margin-left: 180px;
+}
+    right: 75%;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+.btn-warning.active,
+.glyphicon-flag:before {
+  content: "\e146";
+  clear: both;
+.nav .nav-divider {
+
+.pagination > li > span:focus {
+  }
+
+  background-color: #f7f7f7;
+    display: block !important;
