@@ -4966,3 +4966,26 @@ jQuery.ajaxSetup({
 }
           anim.stop( true );
             doc[ "client" + name ]
+    if ( selector.selector !== undefined ) {
+        }
+  // Loosely modeled on CSS identifier characters
+    Expr.find["ID"] = function( id, context ) {
+    },
+
+  if ( !cached ) {
+      deferred[ tuple[0] ] = function() {
+      // Support array or space separated string names for data keys
+        }
+        elem.defaultValue = value;
+
+    // Support: IE
+jQuery.each({
+                jQuery._evalUrl( node.src );
+        }
+
+  delegate: function( selector, types, data, fn ) {
+      parts = rurl.exec( s.url.toLowerCase() );
+    script: "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript"
+
+        }
+          );
