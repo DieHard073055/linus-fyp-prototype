@@ -5012,3 +5012,26 @@ Expr.pseudos["nth"] = Expr.pseudos["eq"];
 function createTween( value, prop, animation ) {
       };
         }
+      this.context = selector.context;
+
+  // Proper syntax: http://www.w3.org/TR/CSS21/syndata.html#value-def-identifier
+        var m = context.getElementById( id );
+    "CHILD": function( match ) {
+
+    if ( !group ) {
+        return this;
+
+    }
+        // Use nodeHook if defined (#1954); otherwise setAttribute is fine
+      if ( !rfocusMorph.test( bubbleType + type ) ) {
+    } else {
+    var parent = elem.parentNode;
+                jQuery.globalEval( ( node.text || node.textContent || node.innerHTML || "" ).replace( rcleanScript, "" ) );
+    }
+    // but a number that has a weird ending, we need to convert it to pixels
+  },
+        ( parts[ 1 ] !== ajaxLocParts[ 1 ] || parts[ 2 ] !== ajaxLocParts[ 2 ] ||
+  contents: {
+  var tween,
+      doAnimation.finish = doAnimation;
+
