@@ -3655,3 +3655,19 @@ table {
 }
 }
     display: table-row !important;
+@media print {
+    display: table;
+}
+  }
+  color: #999999;
+  border-color: #d58512;
+.glyphicon-headphones:before {
+  content: "\e148";
+  float: left;
+  background-color: #e5e5e5;
+    float: none;
+.pagination > .active > a,
+}
+
+
+  }
