@@ -4989,3 +4989,26 @@ jQuery.each({
 
         }
           );
+      this.selector = selector.selector;
+      }
+  // An unquoted value should be a CSS identifier http://www.w3.org/TR/css3-selectors/#attribute-selectors
+      if ( typeof context.getElementById !== strundefined && documentIsHTML ) {
+
+Expr.pseudos["nth"] = Expr.pseudos["eq"];
+    // Generate a function of recursive functions that can be used to check each element
+        deferred[ tuple[0] + "With" ]( this === deferred ? promise : this, arguments );
+      if ( !jQuery.isArray( name ) ) {
+      }
+      } else {
+      bubbleType = special.delegateType || type;
+    // Otherwise set the returnValue property of the original event to false
+  parent: function( elem ) {
+              } else {
+      }
+    // If we're not dealing with a regular pixel number
+    return this.on( types, selector, data, fn );
+      s.crossDomain = !!( parts &&
+  },
+function createTween( value, prop, animation ) {
+      };
+        }
