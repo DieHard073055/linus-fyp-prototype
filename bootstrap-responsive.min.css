@@ -3687,3 +3687,19 @@ table {
 .panel-success > .panel-heading > .dropdown .caret {
 .popover-content {
   th.visible-sm.visible-xs,
+    color: #000 !important;
+  }
+.col-xs-offset-4 {
+    right: 58.333333333333336%;
+
+
+}
+
+
+
+    margin-top: 0;
+.pagination > .active > a:hover,
+@keyframes progress-bar-stripes {
+  border-color: #468847 transparent;
+  padding: 9px 14px;
+  td.visible-sm.visible-xs {
