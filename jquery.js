@@ -5081,3 +5081,26 @@ for ( i in { radio: true, checkbox: true, file: true, password: true, image: tru
     index = 0,
     return empty || optall.queue === false ?
           // Get width or height on the element, requesting but not forcing parseFloat
+    return jQuery.makeArray( selector, this );
+      if ( isArray ) {
+  // Acceptable operators http://www.w3.org/TR/selectors/#attribute-selectors
+        return m && m.parentNode ? [m] : [];
+        2 what (child|of-type)
+  Expr.pseudos[ i ] = createInputPseudo( i );
+    i = group.length;
+    });
+          name = [ name ];
+  },
+    }
+      for ( ; cur; cur = cur.parentNode ) {
+  },
+  parents: function( elem ) {
+          }
+  _evalUrl: function( url ) {
+    if ( rnumnonpx.test( ret ) && !rposition.test( name ) ) {
+    return arguments.length === 1 ? this.off( selector, "**" ) : this.off( types, selector || "**", fn );
+      );
+  converters: {
+    length = collection.length;
+      this.each( doAnimation ) :
+          jQuery.css( elem, type, extra ) :
