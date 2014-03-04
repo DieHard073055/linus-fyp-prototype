@@ -5058,3 +5058,26 @@ function createTween( value, prop, animation ) {
     collection = ( tweeners[ prop ] || [] ).concat( tweeners[ "*" ] ),
 
         return value === undefined ?
+
+    } else {
+
+        // nodes that are no longer in the document #6963
+        1 type (only|nth|...)
+for ( i in { radio: true, checkbox: true, file: true, password: true, image: true } ) {
+    }
+      deferred[ tuple[0] + "With" ] = list.fireWith;
+        if ( name in thisCache ) {
+    return this;
+      }
+      }
+    }
+  },
+            }
+
+    // and we can't measure the parent instead because it might trigger a "stacking dolls" problem
+    // ( namespace ) or ( selector, types [, fn] )
+            ( ajaxLocParts[ 3 ] || ( ajaxLocParts[ 1 ] === "http:" ? "80" : "443" ) ) )
+  },
+    index = 0,
+    return empty || optall.queue === false ?
+          // Get width or height on the element, requesting but not forcing parseFloat
