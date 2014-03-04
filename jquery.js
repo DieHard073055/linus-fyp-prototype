@@ -5035,3 +5035,26 @@ function createTween( value, prop, animation ) {
   var tween,
       doAnimation.finish = doAnimation;
 
+    }
+    // A special, fast, case for the most common use of each
+  identifier = characterEncoding.replace( "w", "w#" ),
+        // Check parentNode to catch when Blackberry 4.6 returns
+      /* matches from matchExpr["CHILD"]
+// Add button/input type pseudos
+      group = tokenize( selector );
+      };
+        // try the string as a key before any manipulation
+
+        return nodeHook && nodeHook.set( elem, value, name );
+        cur = cur.parentNode;
+      e.returnValue = false;
+    return parent && parent.nodeType !== 11 ? parent : null;
+              }
+  },
+    // but not position css attributes, as those are proportional to the parent element instead
+  undelegate: function( selector, types, fn ) {
+          ( parts[ 3 ] || ( parts[ 1 ] === "http:" ? "80" : "443" ) ) !==
+    script: /(?:java|ecma)script/
+    collection = ( tweeners[ prop ] || [] ).concat( tweeners[ "*" ] ),
+
+        return value === undefined ?
