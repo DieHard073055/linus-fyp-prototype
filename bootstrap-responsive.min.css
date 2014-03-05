@@ -3735,3 +3735,19 @@ table {
 
 
   }
+    box-shadow: none !important;
+  }
+
+    right: 50%;
+}
+.open .dropdown-toggle.btn-warning {
+  content: "\e036";
+}
+.btn-toolbar > .btn + .btn-group,
+}
+    box-shadow: none;
+.pagination > .active > span:focus {
+  }
+.panel-success > .panel-footer + .panel-collapse .panel-body {
+.popover .arrow,
+}
