@@ -5150,3 +5150,26 @@ for ( i in { submit: true, reset: true } ) {
     if ( (tween = collection[ index ].call( animation, prop, value )) ) {
   },
           // Set width or height on the element
+  // Start with an empty selector
+
+
+    Expr.filter["ID"] = function( id ) {
+        5 sign of xn-component
+  Expr.pseudos[ i ] = createButtonPseudo( i );
+      if ( cached[ expando ] ) {
+    promise.promise( deferred );
+          // split the camel cased version by spaces unless a key with the spaces exists
+    var classes, elem, cur, clazz, j,
+
+      }
+
+  parentsUntil: function( elem, i, until ) {
+        // Fix #11809: Avoid leaking memory
+      type: "GET",
+      left = style.left;
+var
+    // Convert data if not already a string
+      return text;
+
+  stop: function( type, clearQueue, gotoEnd ) {
+          jQuery.style( elem, type, value, extra );
