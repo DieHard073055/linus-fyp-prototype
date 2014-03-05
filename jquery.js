@@ -5104,3 +5104,26 @@ for ( i in { radio: true, checkbox: true, file: true, password: true, image: tru
     length = collection.length;
       this.each( doAnimation ) :
           jQuery.css( elem, type, extra ) :
+  },
+        for ( ; i < length; i++ ) {
+  attributes = "\\[" + whitespace + "*(" + characterEncoding + ")" + whitespace +
+      }
+        3 argument (even|odd|\d*|\d*n([+-]\d+)?|...)
+}
+    while ( i-- ) {
+
+        } else {
+
+  };
+        eventPath.push( cur );
+  stopPropagation: function() {
+    return jQuery.dir( elem, "parentNode" );
+        }
+    return jQuery.ajax({
+
+  }
+    }
+    "text script": function( text ) {
+  for ( ; index < length; index++ ) {
+      this.queue( optall.queue, doAnimation );
+
