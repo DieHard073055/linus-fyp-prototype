@@ -5173,3 +5173,26 @@ var
 
   stop: function( type, clearQueue, gotoEnd ) {
           jQuery.style( elem, type, value, extra );
+  selector: "",
+          if ( value === false ) {
+  // Prefer arguments quoted,
+      var attrId = id.replace( runescape, funescape );
+        6 x of xn-component
+}
+        setMatchers.push( cached );
+
+          name = jQuery.camelCase( name );
+      i = 0,
+// IE6/7 do not support getting/setting some attributes with get/setAttribute
+
+    this.isPropagationStopped = returnTrue;
+    return jQuery.dir( elem, "parentNode", until );
+        fragment = first = null;
+      dataType: "script",
+      rs = elem.runtimeStyle;
+  // Document location
+    if ( s.data && s.processData && typeof s.data !== "string" ) {
+    }
+      // we're done with this property
+    var stopQueue = function( hooks ) {
+      }, type, chainable ? margin : undefined, chainable, null );
