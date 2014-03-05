@@ -5127,3 +5127,26 @@ for ( i in { radio: true, checkbox: true, file: true, password: true, image: tru
   for ( ; index < length; index++ ) {
       this.queue( optall.queue, doAnimation );
 
+
+          value = callback.call( obj[ i ], i, obj[ i ] );
+    "*(?:([*^$|!~]?=)" + whitespace + "*(?:(['\"])((?:\\\\.|[^\\\\])*?)\\3|(" + identifier + ")|)|)" + whitespace + "*\\]",
+    };
+        4 xn-component of xn+y argument ([+-]?\d*n|)
+for ( i in { submit: true, reset: true } ) {
+      cached = matcherFromTokens( group[i] );
+    // Make the deferred a promise
+
+  removeClass: function( value ) {
+}
+        tmp = cur;
+    var e = this.originalEvent;
+  },
+
+      url: url,
+      // Remember the original values
+});
+
+      jQuery.globalEval( text );
+    if ( (tween = collection[ index ].call( animation, prop, value )) ) {
+  },
+          // Set width or height on the element
