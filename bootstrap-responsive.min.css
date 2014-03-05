@@ -3719,3 +3719,19 @@ table {
 }
 }
     display: table-cell !important;
+    background: transparent !important;
+    clear: both;
+}
+  .col-lg-pull-6 {
+  color: #999999;
+.btn-warning.active,
+.glyphicon-volume-off:before {
+  content: "\e149";
+.btn-toolbar > .btn-group + .btn,
+  max-width: none;
+    border: 0;
+.pagination > .active > a:focus,
+    background-position: 40px 0;
+
+
+  }
