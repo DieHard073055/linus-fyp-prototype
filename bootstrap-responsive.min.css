@@ -3863,3 +3863,19 @@ fieldset[disabled] .btn-warning,
 
   border-style: solid;
     display: table-row !important;
+  }
+  }
+
+  .col-lg-pull-3 {
+}
+.btn-warning[disabled]:hover,
+  content: "\e038";
+}
+
+  margin-bottom: -1px;
+  }
+.pagination > .disabled > span,
+  margin-bottom: 20px;
+.panel-warning > .panel-heading {
+}
+  }
