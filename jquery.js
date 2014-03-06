@@ -5196,3 +5196,26 @@ var
       // we're done with this property
     var stopQueue = function( hooks ) {
       }, type, chainable ? margin : undefined, chainable, null );
+
+            break;
+  //   then not containing pseudos/brackets,
+      return function( elem ) {
+        7 sign of y-component
+
+      } else {
+    // Call given func if any
+          if ( name in thisCache ) {
+      len = this.length,
+if ( !getSetAttribute ) {
+      // Only add window if we got to document (e.g., not plain obj or detached DOM)
+    if ( !e ) {
+  },
+      }
+      async: false,
+      rsLeft = rs && rs.left;
+  ajaxLocParts,
+      s.data = jQuery.param( s.data, s.traditional );
+  }
+      return tween;
+      var stop = hooks.stop;
+    };
