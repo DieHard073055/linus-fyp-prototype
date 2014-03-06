@@ -3783,3 +3783,19 @@ table {
 }
   position: absolute;
 @media (min-width: 768px) and (max-width: 991px) {
+  a:visited {
+    display: table;
+}
+    right: 41.66666666666667%;
+  color: #999999;
+
+.glyphicon-volume-down:before {
+  content: "\e150";
+}
+  border-bottom: 1px solid #dddddd;
+  .navbar-nav .open .dropdown-menu .dropdown-header {
+  cursor: default;
+  }
+
+  display: block;
+  .visible-sm {
