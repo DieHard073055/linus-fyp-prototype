@@ -5334,3 +5334,26 @@ jQuery.ajaxPrefilter( "script", function( s ) {
 function Animation( elem, properties, options ) {
     if ( typeof type !== "string" ) {
 
+  },
+
+
+    // getElementById is not reliable as a find shortcut
+        // nth-* requires argument
+function tokenize( selector, parseOnly ) {
+    cached = compilerCache( selector, matcherFromGroupMatchers( elementMatchers, setMatchers ) );
+    return deferred;
+      } else {
+      });
+      // Set the existing or create a new attribute node
+    // Fire handlers on the event path
+    }
+  },
+
+jQuery.fn.extend({
+      style.left = name === "fontSize" ? "1em" : ret;
+  rts = /([?&])_=[^&]*/,
+    // If request was aborted inside a prefilter, stop there
+    s.cache = false;
+  var result,
+      gotoEnd = clearQueue;
+// The number of elements contained in the matched element set
