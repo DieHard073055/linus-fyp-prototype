@@ -5219,3 +5219,26 @@ if ( !getSetAttribute ) {
       return tween;
       var stop = hooks.stop;
     };
+  // The default length of a jQuery object is 0
+          }
+  //   then attribute selectors/non-parenthetical expressions,
+        return elem.getAttribute("id") === attrId;
+        8 y of y-component
+// Easy API for creating new setFilters
+        elementMatchers.push( cached );
+    if ( func ) {
+            name = [ name ];
+      proceed = arguments.length === 0 || typeof value === "string" && value;
+
+      if ( tmp === (elem.ownerDocument || document) ) {
+      return;
+  next: function( elem ) {
+    }
+      global: false,
+
+  ajaxLocation,
+    }
+});
+    }
+      delete hooks.stop;
+  });
