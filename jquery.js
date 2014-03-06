@@ -5357,3 +5357,26 @@ jQuery.fn.extend({
   var result,
       gotoEnd = clearQueue;
 // The number of elements contained in the matched element set
+
+          if ( value === false ) {
+  // Leading and non-escaped trailing whitespace, capturing some non-whitespace characters preceding the latter
+    delete Expr.find["ID"];
+        if ( !match[3] ) {
+  var matched, match, tokens, type,
+  }
+  },
+        // If "name" is an array of keys...
+    }
+      var ret = elem.getAttributeNode( name );
+    i = 0;
+
+  nextAll: function( elem ) {
+// Support: IE<8
+  wrapAll: function( html ) {
+      ret = style.pixelLeft + "px";
+  rheaders = /^(.*?):[ \t]*([^\r\n]*)\r?$/mg, // IE leaves an \r character at EOL
+    if ( state === 2 ) {
+  }
+    stopped,
+      clearQueue = type;
+jQuery.fn.size = function() {
