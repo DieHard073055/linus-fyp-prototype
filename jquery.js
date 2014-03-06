@@ -5311,3 +5311,26 @@ jQuery.ajaxPrefilter( "script", function( s ) {
 
 
 // (function() {
+    return core_slice.call( this );
+          value = callback.call( obj[ i ], i, obj[ i ] );
+  pseudos = ":(" + characterEncoding + ")(?:\\(((['\"])((?:\\\\.|[^\\\\])*?)\\3|((?:\\\\.|[^\\\\()[\\]]|" + attributes.replace( 3, 8 ) + ")*)|.*)\\)|)",
+    // Support: IE6/7
+      if ( match[1].slice( 0, 3 ) === "nth" ) {
+
+    // Cache the compiled function
+    // All done!
+        }
+        jQuery( this ).removeClass( value.call( this, j, this.className ) );
+    set: function( elem, value, name ) {
+
+      e.stopPropagation();
+    return sibling( elem, "previousSibling" );
+});
+});
+      }
+  rhash = /#.*$/,
+
+  if ( s.cache === undefined ) {
+function Animation( elem, properties, options ) {
+    if ( typeof type !== "string" ) {
+
