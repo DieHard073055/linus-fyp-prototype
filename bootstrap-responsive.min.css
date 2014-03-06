@@ -3799,3 +3799,19 @@ table {
 
   display: block;
   .visible-sm {
+    text-decoration: underline;
+    content: " ";
+
+  }
+}
+.btn-warning.disabled,
+  content: "\e037";
+}
+
+}
+    padding: 5px 15px 5px 25px;
+  background-color: #428bca;
+}
+.panel-warning {
+  width: 0;
+    display: block !important;
