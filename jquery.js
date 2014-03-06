@@ -5265,3 +5265,26 @@ function setFilters() {}
   }
       stop( gotoEnd );
 });
+
+      } else {
+  // These preferences are here to reduce the number of selectors
+    };
+      match[1] = match[1].toLowerCase();
+setFilters.prototype = Expr.filters = Expr.pseudos;
+    }
+    }
+            name = name.split(" ");
+    if ( jQuery.isFunction( value ) ) {
+  // This fixes almost every IE6/7 issue
+      }
+    // If stopPropagation exists, run it on the original event
+  },
+    return this;
+    });
+      if ( rsLeft ) {
+
+    // Apply prefilters
+// Handle cache's special case and global
+}
+    };
+// Limit scope pollution from any deprecated API
