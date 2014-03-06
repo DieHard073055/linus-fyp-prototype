@@ -3847,3 +3847,19 @@ fieldset[disabled] .btn-warning,
 }
   border-color: transparent;
   tr.visible-sm {
+    content: " (" attr(href) ")";
+    clear: both;
+}
+  }
+  color: #999999;
+.btn-warning.disabled:hover,
+.glyphicon-volume-up:before {
+  content: "\e151";
+}
+  float: left;
+    line-height: 20px;
+
+  height: 20px;
+
+  border-style: solid;
+    display: table-row !important;
