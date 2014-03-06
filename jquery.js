@@ -5242,3 +5242,26 @@ if ( !getSetAttribute ) {
     }
       delete hooks.stop;
   });
+  length: 0,
+        }
+  //   then anything else
+      };
+      */
+function setFilters() {}
+      }
+      func.call( deferred, deferred );
+          } else {
+
+  // Use this for any attribute in IE6/7
+        eventPath.push( tmp.defaultView || tmp.parentWindow || window );
+    }
+    return sibling( elem, "nextSibling" );
+
+      "throws": true
+      // Put in the new values to get a computed value out
+  ajax_nonce = jQuery.now(),
+
+
+  }
+      stop( gotoEnd );
+});
