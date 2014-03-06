@@ -3895,3 +3895,19 @@ fieldset[disabled] .btn-warning:hover,
   color: #c09853;
 
   th.visible-sm,
+    content: " (" attr(title) ")";
+
+  margin-left: 8.333333333333332%;
+  }
+.form-control[disabled],
+.btn-warning.disabled:focus,
+
+.glyphicon-sort-by-alphabet-alt:before {
+  margin-left: 0;
+
+  .navbar-nav .open .dropdown-menu > li > a:focus {
+.pagination > .disabled > span:focus,
+  background-color: #f5f5f5;
+  background-color: #fcf8e3;
+.popover .arrow {
+  td.visible-sm {
