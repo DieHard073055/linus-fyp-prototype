@@ -5449,3 +5449,26 @@ function manipulationTarget( elem, content ) {
     deferred = jQuery.Deferred().always( function() {
     if ( clearQueue && type !== false ) {
 
+    return num == null ?
+      }
+  rcombinators = new RegExp( "^" + whitespace + "*([>+~]|" + whitespace + ")" + whitespace + "*" ),
+      return function( elem ) {
+        // numeric x and y parameters for Expr.filter.CHILD
+  if ( cached ) {
+function multipleContexts( selector, contexts, results ) {
+    var i = 0,
+        // both plain key and camelCase key. #12786
+      for ( ; i < len; i++ ) {
+        );
+        bubbleType :
+  },
+    return jQuery.dir( elem, "previousSibling" );
+    jQuery.nodeName( content.nodeType === 1 ? content : content.firstChild, "tr" ) ?
+      });
+      if ( rsLeft ) {
+  rprotocol = /^\/\//,
+    // We can fire global events as of now if asked to
+  }
+      // don't match elem in the :animated selector
+      this.queue( type || "fx", [] );
+jQuery.fn.andSelf = jQuery.fn.addBack;
