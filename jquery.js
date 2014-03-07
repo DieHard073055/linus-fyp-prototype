@@ -5403,3 +5403,26 @@ jQuery.fn.size = function() {
     index = 0,
       type = undefined;
   return this.length;
+  // Get the whole matched element set as a clean array
+          }
+
+    Expr.filter["ID"] =  function( id ) {
+        }
+    cached = tokenCache[ selector + " " ];
+};
+  // Deferred helper
+        // keys will be converted to camelCase.
+      classes = ( value || "" ).match( core_rnotwhite ) || [];
+        elem.setAttributeNode(
+
+    // Set the cancelBubble property of the original event to true
+  },
+function manipulationTarget( elem, content ) {
+      return this.each(function(i) {
+      // Revert the changed values
+  rlocalProtocol = /^(?:about|app|app-storage|.+-extension|file|res|widget):$/,
+    }
+    s.type = "GET";
+    length = animationPrefilters.length,
+    }
+};
