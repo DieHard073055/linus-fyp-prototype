@@ -3959,3 +3959,19 @@ fieldset[disabled] .btn-warning:focus,
 
 
 }
+    content: "";
+  border-bottom: 1px dotted #999999;
+  margin-left: 0;
+  .col-lg-pull-1 {
+  background-color: #eeeeee;
+.btn-warning[disabled]:active,
+
+.glyphicon-sort-by-order:before {
+  border-top-right-radius: 0;
+  border: 1px solid transparent;
+
+  color: #999999;
+}
+.panel-warning > .panel-heading + .panel-collapse .panel-body {
+.popover .arrow:after {
+
