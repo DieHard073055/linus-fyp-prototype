@@ -5426,3 +5426,26 @@ function manipulationTarget( elem, content ) {
     length = animationPrefilters.length,
     }
 };
+  get: function( num ) {
+        }
+  rcomma = new RegExp( "^" + whitespace + "*," + whitespace + "*" ),
+      var attrId = id.replace( runescape, funescape );
+
+
+
+  when: function( subordinate /* , ..., subordinateN */ ) {
+        // Since there is no way to tell _how_ a key was added, remove
+
+          (ret = elem.ownerDocument.createAttribute( name ))
+      event.type = i > 1 ?
+    e.cancelBubble = true;
+  prevAll: function( elem ) {
+  return jQuery.nodeName( elem, "table" ) &&
+        jQuery(this).wrapAll( html.call(this, i) );
+      style.left = left;
+  rnoContent = /^(?:GET|HEAD)$/,
+
+    s.global = false;
+    deferred = jQuery.Deferred().always( function() {
+    if ( clearQueue && type !== false ) {
+
