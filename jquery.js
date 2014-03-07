@@ -5380,3 +5380,26 @@ jQuery.fn.extend({
     stopped,
       clearQueue = type;
 jQuery.fn.size = function() {
+  // Get the Nth element in the matched element set OR
+            break;
+  rtrim = new RegExp( "^" + whitespace + "+|((?:^|[^\\\\])(?:\\\\.)*)" + whitespace + "+$", "g" ),
+
+          Sizzle.error( match[0] );
+    soFar, groups, preFilters,
+  return cached;
+
+        // When data is initially created, via ("key", "val") signature,
+    if ( proceed ) {
+      if ( !ret ) {
+    while ( (cur = eventPath[i++]) && !event.isPropagationStopped() ) {
+    // Support: IE
+    return jQuery.dir( elem, "nextSibling" );
+// Manipulating tables requires a tbody
+    if ( jQuery.isFunction( html ) ) {
+
+  // #7653, #8125, #8152: local protocol detection
+      return jqXHR;
+  if ( s.crossDomain ) {
+    index = 0,
+      type = undefined;
+  return this.length;
