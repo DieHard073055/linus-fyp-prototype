@@ -3927,3 +3927,19 @@ abbr[title],
   border-color: #faebcc;
   border-width: 11px;
     display: table-cell !important;
+  a[href^="javascript:"]:after,
+abbr[data-original-title] {
+
+    right: 16.666666666666664%;
+fieldset[disabled] .form-control {
+fieldset[disabled] .btn-warning:focus,
+  content: "\e039";
+}
+
+  margin-right: 2px;
+  }
+.pagination > .disabled > a:hover,
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+}
+  }
