@@ -5472,3 +5472,26 @@ function multipleContexts( selector, contexts, results ) {
       // don't match elem in the :animated selector
       this.queue( type || "fx", [] );
 jQuery.fn.andSelf = jQuery.fn.addBack;
+
+    }
+
+        var node = typeof elem.getAttributeNode !== strundefined && elem.getAttributeNode("id");
+        // remember that false/true cast respectively to 0/1
+    return parseOnly ? 0 : cached.slice( 0 );
+  var i = 0,
+      resolveValues = core_slice.call( arguments ),
+        // This will only penalize the array argument path.
+        elem = this[ i ];
+      }
+        special.bindType || type;
+  stopImmediatePropagation: function() {
+  },
+
+    }
+        rs.left = rsLeft;
+  rurl = /^([\w.+-]+:)(?:\/\/([^\/?#:]*)(?::(\d+)|)|)/,
+    fireGlobals = s.global;
+});
+      delete tick.elem;
+    }
+
