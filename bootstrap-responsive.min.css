@@ -3975,3 +3975,19 @@ fieldset[disabled] .btn-warning:focus,
 .panel-warning > .panel-heading + .panel-collapse .panel-body {
 .popover .arrow:after {
 
+  }
+}
+}
+    right: 8.333333333333332%;
+}
+fieldset[disabled] .btn-warning:active,
+.glyphicon-barcode:before {
+  content: "\e153";
+  border-bottom-right-radius: 0;
+  border-radius: 4px 4px 0 0;
+@media (min-width: 768px) {
+  cursor: not-allowed;
+
+  border-top-color: #faebcc;
+  border-width: 10px;
+@media (min-width: 992px) and (max-width: 1199px) {
