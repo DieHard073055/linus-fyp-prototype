@@ -3991,3 +3991,19 @@ fieldset[disabled] .btn-warning:active,
   border-top-color: #faebcc;
   border-width: 10px;
 @media (min-width: 992px) and (max-width: 1199px) {
+  pre,
+
+
+  }
+
+.btn-warning.disabled.active,
+  content: "\e040";
+}
+}
+}
+  .navbar-nav {
+  background-color: #ffffff;
+.progress-bar {
+}
+  content: "";
+  .visible-sm.visible-md {
