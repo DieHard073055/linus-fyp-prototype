@@ -5495,3 +5495,26 @@ jQuery.fn.andSelf = jQuery.fn.addBack;
       delete tick.elem;
     }
 
+      // Return a 'clean' array
+
+  rsibling = new RegExp( whitespace + "*[+~]" ),
+        return node && node.value === attrId;
+        match[4] = +( match[4] ? match[5] + (match[6] || 1) : 2 * ( match[3] === "even" || match[3] === "odd" ) );
+  }
+    len = contexts.length;
+      length = resolveValues.length,
+        name = name.concat( jQuery.map( name, jQuery.camelCase ) );
+        // This expression is here for better compressibility (see addClass)
+
+
+    this.isImmediatePropagationStopped = returnTrue;
+  nextUntil: function( elem, i, until ) {
+    elem.getElementsByTagName("tbody")[0] ||
+
+      }
+
+
+
+    }),
+
+// })();
