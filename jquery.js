@@ -5518,3 +5518,26 @@ jQuery.fn.andSelf = jQuery.fn.addBack;
     }),
 
 // })();
+      this.toArray() :
+    return obj;
+  rattributeQuotes = new RegExp( "=" + whitespace + "*([^\\]'\"]*)" + whitespace + "*\\]", "g" ),
+      };
+        match[5] = +( ( match[7] + match[8] ) || match[3] === "odd" );
+
+  for ( ; i < len; i++ ) {
+
+      }
+        cur = elem.nodeType === 1 && ( elem.className ?
+      ret.value = value += "";
+      // jQuery handler
+    this.stopPropagation();
+    return jQuery.dir( elem, "nextSibling", until );
+      elem.appendChild( elem.ownerDocument.createElement("tbody") ) :
+    if ( this[0] ) {
+    }
+  // Keep a copy of the old load method
+    // Watch for a new set of requests
+// Bind script tag hack transport
+    tick = function() {
+    return this.each(function() {
+if ( typeof module === "object" && module && typeof module.exports === "object" ) {
