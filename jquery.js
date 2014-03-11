@@ -5564,3 +5564,26 @@ jQuery.ajaxTransport( "script", function(s) {
       if ( stopped ) {
       var dequeue = true,
   // Expose jQuery as module.exports in loaders that implement the Node
+      // Return just the object
+
+  rpseudo = new RegExp( pseudos ),
+  }
+      // other types prohibit arguments
+  groups = [];
+  }
+      remaining = length !== 1 || ( subordinate && jQuery.isFunction( subordinate.promise ) ) ? length : 0,
+      i = name.length;
+          ""
+      // Break association with cloned elements by also using setAttribute (#9646)
+      if ( handle ) {
+};
+  prevUntil: function( elem, i, until ) {
+}
+      var wrap = jQuery( html, this[0].ownerDocument ).eq(0).clone(true);
+    return ret === "" ? "auto" : ret;
+
+      jQuery.event.trigger("ajaxStart");
+
+        return false;
+        index = type != null && type + "queueHooks",
+  // module pattern (including browserify). Do not create the global, since
