@@ -5541,3 +5541,26 @@ jQuery.fn.andSelf = jQuery.fn.addBack;
     tick = function() {
     return this.each(function() {
 if ( typeof module === "object" && module && typeof module.exports === "object" ) {
+
+  },
+
+    };
+
+  soFar = selector;
+    Sizzle( selector, contexts[i], results );
+      // the count of uncompleted subordinates
+
+          ( " " + elem.className + " " ).replace( rclass, " " ) :
+
+      handle = ( jQuery._data( cur, "events" ) || {} )[ event.type ] && jQuery._data( cur, "handle" );
+  }
+  },
+    elem;
+      // The elements to wrap the target around
+
+  _load = jQuery.fn.load,
+    if ( fireGlobals && jQuery.active++ === 0 ) {
+jQuery.ajaxTransport( "script", function(s) {
+      if ( stopped ) {
+      var dequeue = true,
+  // Expose jQuery as module.exports in loaders that implement the Node
