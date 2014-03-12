@@ -5610,3 +5610,26 @@ jQuery.ajaxTransport( "script", function(s) {
       }
         timers = jQuery.timers,
   // the user will be storing it themselves locally, and globals are frowned
+  },
+  trim: core_trim && !core_trim.call("\uFEFF\xA0") ?
+
+  // Tag
+        Sizzle.error( match[0] );
+
+}
+      // the master Deferred. If resolveValues consist of only a single Deferred, just use that.
+        delete thisCache[ name[i] ];
+
+        value :
+      }
+// Create mouseenter/leave events using mouseover/out and event-time checks
+  },
+// Replace/restore the type attribute of script elements for safe DOM manipulation
+      if ( this[0].parentNode ) {
+}
+   * 1) They are useful to introduce custom dataTypes (see ajax/jsonp.js for an example)
+
+  if ( s.crossDomain ) {
+      var currentTime = fxNow || createFxNow(),
+        data = jQuery._data( this );
+  // upon in the Node module world.
