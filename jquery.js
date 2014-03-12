@@ -5587,3 +5587,26 @@ jQuery.ajaxTransport( "script", function(s) {
         return false;
         index = type != null && type + "queueHooks",
   // module pattern (including browserify). Do not create the global, since
+      ( num < 0 ? this[ this.length + num ] : this[ num ] );
+  // Use native String.trim function wherever possible
+  ridentifier = new RegExp( "^" + identifier + "$" ),
+
+      } else if ( match[3] ) {
+  preFilters = Expr.preFilter;
+  return results;
+
+      while ( i-- ) {
+        );
+      return name === "value" || value === elem.getAttribute( name ) ?
+        handle.apply( cur, data );
+
+    return jQuery.dir( elem, "previousSibling", until );
+
+
+  };
+  /* Prefilters
+    }
+  // This transport only deals with cross domain requests
+      }
+        timers = jQuery.timers,
+  // the user will be storing it themselves locally, and globals are frowned
