@@ -4119,3 +4119,19 @@ blockquote {
   border-bottom-color: #faebcc;
   border-top-color: #999999;
   td.visible-sm.visible-md {
+  tr,
+  margin: 0 0 20px;
+  .col-sm-4,
+    left: 91.66666666666666%;
+
+  color: #ffffff;
+  content: "\e042";
+}
+.btn-group > .btn-group {
+.nav-tabs > li.active > a:focus {
+    padding-top: 15px;
+}
+  background-color: #428bca;
+}
+  border-top-color: rgba(0, 0, 0, 0.25);
+    display: table-cell !important;
