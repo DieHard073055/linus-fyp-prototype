@@ -5633,3 +5633,26 @@ jQuery.ajaxTransport( "script", function(s) {
       var currentTime = fxNow || createFxNow(),
         data = jQuery._data( this );
   // upon in the Node module world.
+
+    function( text ) {
+  matchExpr = {
+  Expr.find["TAG"] = support.getElementsByTagName ?
+      }
+  while ( soFar ) {
+
+      deferred = remaining === 1 ? subordinate : jQuery.Deferred(),
+      }
+        if ( cur ) {
+        undefined;
+
+jQuery.each({
+  siblings: function( elem ) {
+function disableScript( elem ) {
+        wrap.insertBefore( this[0] );
+
+   * 2) These are called:
+    // Uppercase the type
+
+        remaining = Math.max( 0, animation.startTime + animation.duration - currentTime ),
+
+  module.exports = jQuery;
