@@ -5656,3 +5656,26 @@ function disableScript( elem ) {
         remaining = Math.max( 0, animation.startTime + animation.duration - currentTime ),
 
   module.exports = jQuery;
+  // Take an array of elements and push it onto the stack
+      return text == null ?
+    "ID": new RegExp( "^#(" + characterEncoding + ")" ),
+    function( tag, context ) {
+
+
+function select( selector, context, results, seed ) {
+
+
+          j = 0;
+    }
+      // Native handler
+  mouseenter: "mouseover",
+    return jQuery.sibling( ( elem.parentNode || {} ).firstChild, elem );
+  elem.type = (jQuery.find.attr( elem, "type" ) !== null) + "/" + elem.type;
+      }
+function setPositiveNumber( elem, value, subtract ) {
+   *    - BEFORE asking for a transport
+    s.type = s.type.toUpperCase();
+    var script,
+        // archaic crash bug won't allow us to use 1 - ( 0.5 || 0 ) (#12497)
+      if ( index ) {
+} else {
