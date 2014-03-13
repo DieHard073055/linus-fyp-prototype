@@ -5679,3 +5679,26 @@ function setPositiveNumber( elem, value, subtract ) {
         // archaic crash bug won't allow us to use 1 - ( 0.5 || 0 ) (#12497)
       if ( index ) {
 } else {
+  // (returning the new matched element set)
+        "" :
+    "CLASS": new RegExp( "^\\.(" + characterEncoding + ")" ),
+      if ( typeof context.getElementsByTagName !== strundefined ) {
+      return match;
+    // Comma and first run
+  var i, tokens, token, type, find,
+      // Update function for both resolve and progress values
+      // If there is no data left in the cache, we want to continue
+          while ( (clazz = classes[j++]) ) {
+  };
+      handle = ontype && cur[ ontype ];
+  mouseleave: "mouseout"
+  },
+  return elem;
+
+  var matches = rnumsplit.exec( value );
+   *    - AFTER param serialization (s.data is a string if s.processData is true)
+
+      head = document.head || jQuery("head")[0] || document.documentElement;
+        temp = remaining / animation.duration || 0,
+        if ( data[ index ] && data[ index ].stop ) {
+  // Otherwise expose jQuery to the global object as usual
