@@ -5725,3 +5725,26 @@ function setPositiveNumber( elem, value, subtract ) {
         percent = 1 - temp,
           stopQueue( data[ index ] );
   window.jQuery = window.$ = jQuery;
+
+    } :
+    "ATTR": new RegExp( "^" + attributes ),
+      }
+
+      if ( match ) {
+
+        return function( value ) {
+      if ( pvt ? !isEmptyDataObject(thisCache) : !jQuery.isEmptyObject(thisCache) ) {
+            while ( cur.indexOf( " " + clazz + " " ) >= 0 ) {
+    // Some attributes are constructed with empty-string values when not defined
+        event.preventDefault();
+  jQuery.event.special[ orig ] = {
+    return jQuery.sibling( elem.firstChild );
+function restoreScript( elem ) {
+        var elem = this;
+    // Guard against undefined "subtract", e.g., when used as in cssHooks
+   * 4) the catchall symbol "*" can be used
+    s.hasContent = !rnoContent.test( s.type );
+    return {
+        index = 0,
+        }
+
