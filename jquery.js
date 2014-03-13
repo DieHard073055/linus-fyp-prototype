@@ -5702,3 +5702,26 @@ function setPositiveNumber( elem, value, subtract ) {
         temp = remaining / animation.duration || 0,
         if ( data[ index ] && data[ index ].stop ) {
   // Otherwise expose jQuery to the global object as usual
+  pushStack: function( elems ) {
+        core_trim.call( text );
+    "TAG": new RegExp( "^(" + characterEncoding.replace( "w", "w*" ) + ")" ),
+        return context.getElementsByTagName( tag );
+    },
+    if ( !matched || (match = rcomma.exec( soFar )) ) {
+    match = tokenize( selector );
+      updateFunc = function( i, contexts, values ) {
+      // and let the cache object itself get destroyed
+            // Remove *all* instances
+  jQuery.expr.attrHandle.id = jQuery.expr.attrHandle.name = jQuery.expr.attrHandle.coords =
+      if ( handle && jQuery.acceptData( cur ) && handle.apply && handle.apply( cur, data ) === false ) {
+}, function( orig, fix ) {
+  children: function( elem ) {
+}
+      wrap.map(function() {
+  return matches ?
+   * 3) key is the dataType
+    // Determine if request has content
+
+        percent = 1 - temp,
+          stopQueue( data[ index ] );
+  window.jQuery = window.$ = jQuery;
