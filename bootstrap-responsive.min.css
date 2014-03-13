@@ -4103,3 +4103,19 @@ blockquote {
 .panel-warning > .panel-footer + .panel-collapse .panel-body {
   margin-left: -11px;
   th.visible-sm.visible-md,
+  }
+  padding: 10px 20px;
+  .col-sm-3,
+  .col-lg-push-11 {
+}
+.btn-danger {
+.glyphicon-tags:before {
+  content: "\e155";
+
+.nav-tabs > li.active > a:hover,
+  .navbar-nav > li > a {
+  font-size: 18px;
+  text-align: center;
+  border-bottom-color: #faebcc;
+  border-top-color: #999999;
+  td.visible-sm.visible-md {
