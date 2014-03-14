@@ -5748,3 +5748,26 @@ function restoreScript( elem ) {
         index = 0,
         }
 
+    // Build a new jQuery matched element set
+
+    "PSEUDO": new RegExp( "^" + pseudos ),
+    } :
+    "PSEUDO": function( match ) {
+        // Don't consume trailing commas as valid
+  if ( !seed ) {
+          contexts[ i ] = this;
+        return;
+              cur = cur.replace( " " + clazz + " ", " " );
+    function( elem, name, isXML ) {
+      }
+    delegateType: fix,
+  },
+  var match = rscriptTypeMasked.exec( elem.type );
+
+    Math.max( 0, matches[ 1 ] - ( subtract || 0 ) ) + ( matches[ 2 ] || "px" ) :
+   * 5) execution will start with transport dataType and THEN continue down to "*" if needed
+
+
+        length = animation.tweens.length;
+      } else {
+  // Register as a named AMD module, since jQuery can be concatenated with other
