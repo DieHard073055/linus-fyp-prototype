@@ -4167,3 +4167,19 @@ blockquote {
 .panel-danger {
 }
 }
+  }
+
+  .col-sm-7,
+    left: 83.33333333333334%;
+  display: block;
+}
+.glyphicon-book:before {
+  content: "\e156";
+
+  background-color: #ffffff;
+}
+.pagination-lg > li:first-child > span {
+  -webkit-transition: width 0.6s ease;
+  border-color: #ebccd1;
+
+
