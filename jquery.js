@@ -5840,3 +5840,26 @@ function restoreScript( elem ) {
         animation.tweens[ index ].run( percent );
             stopQueue( data[ index ] );
   // way to register. Lowercase jquery is used because AMD module names are
+    ret.prevObject = this;
+        "" :
+    "bool": new RegExp( "^(?:" + booleans + ")$", "i" ),
+        i = 0,
+      if ( matchExpr["CHILD"].test( match[0] ) ) {
+    }
+      // Take a shortcut and set the context if the root selector is an ID
+          } else if ( !( --remaining ) ) {
+
+        }
+        (ret = elem.getAttributeNode( name )) && ret.value !== "" ?
+    // If nobody prevented the default action, do it now
+      var ret,
+      jQuery.merge( [], elem.childNodes );
+    elem.removeAttribute("type");
+
+function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
+  /* Transports bindings
+
+
+      }
+          }
+  // derived from file names, and jQuery is normally delivered in a lowercase
