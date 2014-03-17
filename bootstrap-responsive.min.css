@@ -4231,3 +4231,19 @@ blockquote p {
 .panel-danger > .panel-heading {
   margin-left: -10px;
     display: block !important;
+  @page  {
+  line-height: 1.25;
+  .col-sm-11 {
+  }
+  margin-bottom: 10px;
+.btn-danger:active,
+.glyphicon-bookmark:before {
+  content: "\e157";
+
+
+    float: left !important;
+
+.progress-striped .progress-bar {
+  color: #b94a48;
+  border-top-color: #ffffff;
+  }
