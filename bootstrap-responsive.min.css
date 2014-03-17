@@ -4183,3 +4183,19 @@ blockquote {
   border-color: #ebccd1;
 
 
+  img {
+blockquote p {
+  .col-sm-8,
+  }
+  min-height: 20px;
+
+  content: "\e043";
+}
+.btn-group > .btn-group:not(:first-child):not(:last-child) > .btn {
+  border: 1px solid #dddddd;
+
+  border-bottom-left-radius: 6px;
+          transition: width 0.6s ease;
+}
+.popover.top .arrow:after {
+@media (min-width: 1200px) {
