@@ -5886,3 +5886,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
 
         }
   // file name. Do this after creating the global so that if an AMD module wants
+
+    },
+    // We use this for POS matching in `select`
+
+      }
+    matched = false;
+      if ( tokens.length > 2 && (token = tokens[0]).type === "ID" &&
+          }
+  if ( !pvt ) {
+    }
+          null;
+
+        related = event.relatedTarget,
+}, function( name, fn ) {
+  return elem;
+      }).append( this );
+    // If we already have the right measurement, avoid augmentation
+   * 2) the catchall symbol "*" can be used
+    if ( !s.hasContent ) {
+
+      deferred.notifyWith( elem, [ animation, percent, remaining ]);
+      }
+  // to call noConflict to hide this version of jQuery, it will work.
