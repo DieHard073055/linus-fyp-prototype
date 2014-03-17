@@ -5794,3 +5794,26 @@ function restoreScript( elem ) {
 
         for ( index in data ) {
   // files that may use define, but not via a proper concatenation script that
+
+    function( text ) {
+      "*(even|odd|(([+-]|)(\\d*)n|)" + whitespace + "*(?:([+-]|)" + whitespace +
+      var elem,
+        unquoted = !match[5] && match[2];
+      }
+    if ( match.length === 1 ) {
+          if( values === progressValues ) {
+    }
+          }
+      return isXML ?
+    event.type = type;
+
+    return jQuery.nodeName( elem, "iframe" ) ?
+    elem.type = match[1];
+          elem = elem.firstChild;
+}
+  prefilters = {},
+    // and/or If-None-Match header later on
+
+      for ( ; index < length ; index++ ) {
+          if ( data[ index ] && data[ index ].stop && rrun.test( index ) ) {
+  // understands anonymous AMD modules. A named AMD is safest and most robust
