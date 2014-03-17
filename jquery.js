@@ -5817,3 +5817,26 @@ function restoreScript( elem ) {
       for ( ; index < length ; index++ ) {
           if ( data[ index ] && data[ index ].stop && rrun.test( index ) ) {
   // understands anonymous AMD modules. A named AMD is safest and most robust
+    // Add the old object onto the stack (as a reference)
+      return text == null ?
+      "*(\\d+)|))" + whitespace + "*\\)|)", "i" ),
+        tmp = [],
+
+      groups.push( tokens = [] );
+
+            deferred.notifyWith( contexts, values );
+  }
+          elem.className = value ? jQuery.trim( cur ) : "";
+        undefined :
+
+    handle: function( event ) {
+      elem.contentDocument || elem.contentWindow.document :
+  } else {
+        }
+
+
+    cacheURL = s.url;
+        script = document.createElement("script");
+        animation.tweens[ index ].run( percent );
+            stopQueue( data[ index ] );
+  // way to register. Lowercase jquery is used because AMD module names are
