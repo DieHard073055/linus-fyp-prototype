@@ -5863,3 +5863,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
       }
           }
   // derived from file names, and jQuery is normally delivered in a lowercase
+    ret.context = this.context;
+        ( text + "" ).replace( rtrim, "" );
+    // For use in libraries implementing .is()
+        results = context.getElementsByTagName( tag );
+        return null;
+
+      tokens = match[0] = match[0].slice( 0 );
+            deferred.resolveWith( contexts, values );
+  // See jQuery.data for more information
+      }
+          ret.value :
+    if ( !onlyHandlers && !event.isDefaultPrevented() ) {
+        target = this,
+  }
+  }
+        return elem;
+  var i = extra === ( isBorderBox ? "border" : "content" ) ?
+   * 1) key is the dataType
+    // More options handling for requests with no content
+        script.async = true;
+
+        }
+  // file name. Do this after creating the global so that if an AMD module wants
