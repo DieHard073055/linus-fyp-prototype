@@ -4215,3 +4215,19 @@ blockquote p {
 
   bottom: 1px;
   .visible-sm.visible-lg {
+  }
+  font-weight: 300;
+  .col-sm-10,
+    left: 75%;
+  margin-top: 10px;
+.btn-danger:focus,
+
+.glyphicon-unchecked:before {
+}
+}
+  .navbar-left {
+}
+
+.panel-danger > .panel-heading {
+  margin-left: -10px;
+    display: block !important;
