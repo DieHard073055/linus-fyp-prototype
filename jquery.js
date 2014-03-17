@@ -5771,3 +5771,26 @@ function restoreScript( elem ) {
         length = animation.tweens.length;
       } else {
   // Register as a named AMD module, since jQuery can be concatenated with other
+    var ret = jQuery.merge( this.constructor(), elems );
+    // Otherwise use our own trimming functionality
+    "CHILD": new RegExp( "^:(only|first|last|nth|nth-last)-(child|of-type)(?:\\(" + whitespace +
+    function( tag, context ) {
+      var excess,
+        soFar = soFar.slice( match[0].length ) || soFar;
+    // Try to minimize operations if there is only one group
+          values[ i ] = arguments.length > 1 ? core_slice.call( arguments ) : value;
+      }
+            }
+      var ret;
+    }
+    bindType: fix,
+  contents: function( elem ) {
+  if ( match ) {
+        while ( elem.firstChild && elem.firstChild.nodeType === 1 ) {
+    value;
+   */
+    // Save the URL in case we're toying with the If-Modified-Since
+      send: function( _, callback ) {
+
+        for ( index in data ) {
+  // files that may use define, but not via a proper concatenation script that
