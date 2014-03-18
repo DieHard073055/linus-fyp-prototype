@@ -5909,3 +5909,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
       deferred.notifyWith( elem, [ animation, percent, remaining ]);
       }
   // to call noConflict to hide this version of jQuery, it will work.
+    // Return the newly-formed element set
+
+    "needsContext": new RegExp( "^" + whitespace + "*[>+~]|:(even|odd|eq|gt|lt|nth|first|last)(?:\\(" +
+      // Filter out possible comments
+
+
+          support.getById && context.nodeType === 9 && documentIsHTML &&
+        };
+    delete cache[ id ].data;
+
+    };
+      if ( (!special._default || special._default.apply( eventPath.pop(), data ) === false) &&
+        handleObj = event.handleObj;
+  jQuery.fn[ name ] = function( until, selector ) {
+}
+    }
+    4 :
+   * 3) selection will start with transport dataType and THEN go to "*" if needed
+
+        if ( s.scriptCharset ) {
+
+
+  if ( typeof define === "function" && define.amd ) {
