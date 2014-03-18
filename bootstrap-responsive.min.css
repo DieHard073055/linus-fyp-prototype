@@ -4279,3 +4279,19 @@ blockquote p {
   border-color: #ebccd1;
   content: " ";
     display: table-row !important;
+  p,
+blockquote p:last-child {
+  .col-sm-12 {
+  }
+
+  color: #ffffff;
+
+.glyphicon-expand:before {
+  border-top-right-radius: 0;
+  border-bottom: 0;
+    float: right !important;
+  border-top-right-radius: 6px;
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+}
+}
+  }
