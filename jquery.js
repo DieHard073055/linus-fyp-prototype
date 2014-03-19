@@ -6046,4 +6046,25 @@ function setGlobalEval( elems, refElements ) {
 
         return false;
           timers.splice( index, 1 );
-})( window );
+})( window );  // only used internally.)
+      if ( isArraylike( Object(arr) ) ) {
+  // Easily-parseable/retrievable ID or TAG or CLASS selectors
+        }
+      } else if ( unquoted && rpseudo.test( unquoted ) &&
+        // Cast descendant combinators to space
+        }
+    if ( length > 1 ) {
+    }
+
+        undefined;
+        if ( ontype && elem[ type ] && !jQuery.isWindow( elem ) ) {
+        ret = handleObj.handler.apply( this, arguments );
+
+  for ( ; (elem = elems[i]) != null; i++ ) {
+    if ( jQuery.isFunction( html ) ) {
+  for ( ; i < 4; i += 2 ) {
+
+      }
+        // Attach handlers for all browsers
+      }
+        }
