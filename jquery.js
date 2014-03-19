@@ -6068,3 +6068,25 @@ function setGlobalEval( elems, refElements ) {
         // Attach handlers for all browsers
       }
         }
+  each: function( callback, args ) {
+        jQuery.merge( ret,
+  rquickExpr = /^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,
+
+        // Get excess from tokenize (recursively)
+        type: match[0].replace( rtrim, " " )
+        selector = selector.slice( tokens.shift().value.length );
+      progressValues = new Array( length );
+  }
+    if ( typeof stateVal === "boolean" && type === "string" ) {
+    },
+
+        event.type = fix;
+    if ( selector && typeof selector === "string" ) {
+    jQuery._data( elem, "globalEval", !refElements || jQuery._data( refElements[i], "globalEval" ) );
+      return this.each(function(i) {
+    // both box models exclude margin, so add it if we want it
+// #8138, IE may throw an exception when accessing
+
+        script.onload = script.onreadystatechange = function( _, isAbort ) {
+    },
+      }
