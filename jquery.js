@@ -5932,3 +5932,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
 
 
   if ( typeof define === "function" && define.amd ) {
+    return ret;
+  // results is for internal usage only
+      whitespace + "*((?:-\\d)?\\d*)" + whitespace + "*\\)|)(?=[^-]|$)", "i" )
+      if ( tag === "*" ) {
+      // Accept quoted arguments as-is
+    // Combinators
+          Expr.relative[ tokens[1].type ] ) {
+      },
+
+    return this;
+  jQuery.valHooks.button = {
+        jQuery.acceptData( elem ) ) {
+
+    var ret = jQuery.map( this, fn, until );
+
+
+    // Otherwise initialize for horizontal or vertical properties
+   */
+      // If data is available, append data to url
+          script.charset = s.scriptCharset;
+      if ( percent < 1 && length ) {
+      for ( index = timers.length; index--; ) {
+    define( "jquery", [], function () { return jQuery; } );
