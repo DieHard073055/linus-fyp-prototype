@@ -5978,3 +5978,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
         return remaining;
         if ( timers[ index ].elem === this && (type == null || timers[ index ].queue === type) ) {
   }
+
+    var ret = results || [];
+
+          if ( elem.nodeType === 1 ) {
+        match[2] = match[4];
+      matched = match.shift();
+        context = ( Expr.find["ID"]( token.matches[0].replace(runescape, funescape), context ) || [] )[0];
+      progressValues, progressContexts, resolveContexts;
+    // had been the only thing left in it
+
+      var ret = elem.getAttributeNode( name );
+        // Call a native DOM method on the target with the same name name as the event.
+      // NB: No relatedTarget if the mouse left/entered the browser window
+    if ( name.slice( -5 ) !== "Until" ) {
+function setGlobalEval( elems, refElements ) {
+  },
+
+
+        cacheURL = ( s.url += ( ajax_rquery.test( cacheURL ) ? "&" : "?" ) + s.data );
+
+      } else {
+          timers[ index ].anim.stop( gotoEnd );
+}
