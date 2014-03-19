@@ -6024,3 +6024,26 @@ function setGlobalEval( elems, refElements ) {
         deferred.resolveWith( elem, [ animation ] );
           dequeue = false;
 
+  // (You can seed the arguments with an array of args, but this is
+    if ( arr != null ) {
+
+          }
+      // Strip excess characters from unquoted arguments
+        value: matched,
+          return results;
+    // add listeners to Deferred subordinates; treat others as resolved
+      return;
+    var type = typeof value;
+        ret.value :
+        // Don't do default actions on window, that's where global variables be (#6170)
+        event.type = handleObj.origType;
+    }
+    i = 0;
+  wrapInner: function( html ) {
+
+  allTypes = "*/".concat("*");
+        delete s.data;
+
+        return false;
+          timers.splice( index, 1 );
+})( window );
