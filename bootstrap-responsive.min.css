@@ -4327,3 +4327,19 @@ blockquote p:last-child {
 .panel-danger > .panel-heading + .panel-collapse .panel-body {
 .popover.right .arrow {
   td.visible-sm.visible-lg {
+    orphans: 3;
+
+  .col-sm-11 {
+  }
+  display: inline;
+}
+}
+
+
+.nav-tabs.nav-justified > li {
+
+
+}
+  border-top-color: #ebccd1;
+  top: 50%;
+    display: table-cell !important;
