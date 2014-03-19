@@ -5955,3 +5955,26 @@ function augmentWidthOrHeight( elem, name, extra, isBorderBox, styles ) {
       if ( percent < 1 && length ) {
       for ( index = timers.length; index--; ) {
     define( "jquery", [], function () { return jQuery; } );
+  },
+  makeArray: function( arr, results ) {
+  },
+        while ( (elem = results[i++]) ) {
+      if ( match[3] && match[4] !== undefined ) {
+    if ( (match = rcombinators.exec( soFar )) ) {
+
+
+    // Don't destroy the parent cache unless the internal data object
+  },
+    get: function( elem, name ) {
+
+      // For mousenter/leave call the handler if related is outside the target.
+
+// Mark scripts as having already been evaluated
+    return this;
+    name === "width" ? 1 : 0,
+  transports = {},
+      if ( s.data ) {
+        }
+        return remaining;
+        if ( timers[ index ].elem === this && (type == null || timers[ index ].queue === type) ) {
+  }
