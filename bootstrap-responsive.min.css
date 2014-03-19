@@ -4407,3 +4407,19 @@ blockquote small {
   border-color: #b94a48 transparent;
   border-right-color: rgba(0, 0, 0, 0.25);
 .visible-md,
+    page-break-after: avoid;
+}
+  }
+    left: 41.66666666666667%;
+
+  background-image: none;
+
+.glyphicon-collapse-up:before {
+
+  margin-bottom: 5px;
+  margin-bottom: 8px;
+}
+}
+}
+  border-left-width: 0;
+tr.visible-md,
