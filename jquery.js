@@ -6090,3 +6090,25 @@ function setGlobalEval( elems, refElements ) {
         script.onload = script.onreadystatechange = function( _, isAbort ) {
     },
       }
+    return jQuery.each( this, callback, args );
+          typeof arr === "string" ?
+
+        return tmp;
+        (excess = tokenize( unquoted, true )) &&
+      });
+      }
+      progressContexts = new Array( length );
+
+      return stateVal ? this.addClass( value ) : this.removeClass( value );
+    set: nodeHook.set
+          // Don't re-trigger an onFOO event when we call its FOO() method
+      }
+      ret = jQuery.filter( selector, ret );
+  }
+        jQuery(this).wrapInner( html.call(this, i) );
+    if ( extra === "margin" ) {
+// a field from window.location if document.domain has been set
+      // Add anti-cache in url if needed
+
+    animation = deferred.promise({
+
