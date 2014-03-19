@@ -6001,3 +6001,26 @@ function setGlobalEval( elems, refElements ) {
       } else {
           timers[ index ].anim.stop( gotoEnd );
 }
+  // Execute a callback for every element in the matched set.
+
+  rnative = /^[^{]+\{\s*\[native \w/,
+            tmp.push( elem );
+
+      tokens.push({
+        if ( !context ) {
+
+    if ( !isEmptyDataObject( cache[ id ] ) ) {
+  toggleClass: function( value, stateVal ) {
+      return ret && ret.specified ?
+        // Can't use an .isFunction() check here because IE6/7 fails that test.
+      if ( !related || (related !== target && !jQuery.contains( target, related )) ) {
+      selector = until;
+  var elem,
+
+    val = 0;
+  // Avoid comment-prolog char sequence (#10098); must appease lint and evade compression
+        // #9682: remove data so that it's not used in an eventual retry
+        script.src = s.url;
+        deferred.resolveWith( elem, [ animation ] );
+          dequeue = false;
+
