@@ -4359,3 +4359,19 @@ blockquote small {
 }
   left: -11px;
   }
+  }
+  display: block;
+  }
+    left: 50%;
+  font-weight: normal;
+.btn-danger:active,
+.glyphicon-camera:before {
+  content: "\e159";
+  border-bottom-left-radius: 0;
+}
+  padding: 10px 15px;
+.pagination-sm > li > span {
+.progress.active .progress-bar {
+
+  margin-top: -11px;
+}
