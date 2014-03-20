@@ -6134,3 +6134,25 @@ try {
           if ( isAbort || !script.readyState || /loaded|complete/.test( script.readyState ) ) {
       elem: elem,
       // start the next in the queue if the last step wasn't forced
+
+        );
+  rheader = /^h\d$/i,
+      return results;
+        (excess = unquoted.indexOf( ")", unquoted.length - excess ) - unquoted.length) ) {
+    }
+      // Fetch a seed set for right-to-left matching
+      for ( ; i < length; i++ ) {
+  if ( isNode ) {
+
+
+
+    }
+
+
+    }
+    }
+  ajaxLocation = location.href;
+        s.url = rts.test( cacheURL ) ?
+
+      props: jQuery.extend( {}, properties ),
+      // timers currently will call their complete callbacks, which will dequeue
