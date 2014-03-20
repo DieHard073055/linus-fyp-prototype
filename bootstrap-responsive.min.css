@@ -4503,3 +4503,19 @@ fieldset[disabled] .btn-danger,
 
   left: 1px;
 
+    display: none;
+blockquote.pull-right {
+  }
+    left: 25%;
+  margin-left: -20px;
+.btn-danger.disabled:hover,
+  content: "\e048";
+}
+.btn-group-xs > .btn {
+  left: auto;
+}
+}
+.progress-striped .progress-bar-success {
+.panel-info {
+  border-right-color: #ffffff;
+@media (max-width: 767px) {
