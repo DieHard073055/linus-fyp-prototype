@@ -6178,3 +6178,25 @@ function cloneCopyEvent( src, dest ) {
             // Handle memory leak in IE
       opts: jQuery.extend( true, { specialEasing: {} }, options ),
       // but only if they were gotoEnd
+    // Add the callback
+        core_push.call( ret, arr );
+  rescape = /'|\\/g,
+
+        // excess is a negative index
+    // Filters
+      while ( i-- ) {
+          resolveValues[ i ].promise()
+
+      return this.each(function( i ) {
+  // Setting to empty string throws an error as an invalid value
+            elem[ ontype ] = null;
+});
+      // Remove duplicates
+
+    return this.each(function() {
+    if ( isBorderBox ) {
+  // Use the href attribute of an A element
+          // If there is already a '_' parameter, set its value
+            script.onload = script.onreadystatechange = null;
+      originalProperties: properties,
+      if ( dequeue || !gotoEnd ) {
