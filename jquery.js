@@ -6222,3 +6222,25 @@ function cloneCopyEvent( src, dest ) {
 
       originalOptions: options,
         jQuery.dequeue( this, type );
+
+    }
+  // CSS escapes http://www.w3.org/TR/CSS21/syndata.html#escaped-characters
+  Expr.find["CLASS"] = support.getElementsByClassName && function( className, context ) {
+        match[2] = unquoted.slice( 0, excess );
+      if ( (match = matchExpr[ type ].exec( soFar )) && (!preFilters[ type ] ||
+
+            .fail( deferred.reject )
+  /* jshint eqeqeq: false */
+      });
+    set: function( elem, value, name ) {
+
+// IE submit delegation
+        ret = jQuery.unique( ret );
+    return;
+        contents = self.contents();
+      if ( extra === "content" ) {
+  ajaxLocation = document.createElement( "a" );
+
+            // Remove the script
+      startTime: fxNow || createFxNow(),
+      }
