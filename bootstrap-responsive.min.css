@@ -4519,3 +4519,19 @@ blockquote.pull-right {
 .panel-info {
   border-right-color: #ffffff;
 @media (max-width: 767px) {
+  }
+  padding-right: 15px;
+  .col-sm-7 {
+  }
+}
+.btn-danger[disabled]:hover,
+}
+
+  padding: 5px 10px;
+}
+
+
+  background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.25, rgba(255, 255, 255, 0.15)), color-stop(0.25, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.15)), color-stop(0.75, rgba(255, 255, 255, 0.15)), color-stop(0.75, transparent), to(transparent));
+  border-color: #bce8f1;
+  border-left-width: 0;
+  .visible-md.visible-xs {
