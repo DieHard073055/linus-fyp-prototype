@@ -6244,3 +6244,25 @@ function cloneCopyEvent( src, dest ) {
             // Remove the script
       startTime: fxNow || createFxNow(),
       }
+    return this;
+
+  runescape = new RegExp( "\\\\([\\da-f]{1,6}" + whitespace + "?|(" + whitespace + ")|.)", "ig" ),
+    if ( typeof context.getElementsByClassName !== strundefined && documentIsHTML ) {
+      }
+        (match = preFilters[ type ]( match ))) ) {
+        // Abort if we hit a combinator
+            .progress( updateFunc( i, progressContexts, progressValues ) );
+  } else if ( jQuery.support.deleteExpando || cache != cache.window ) {
+    }
+      nodeHook.set( elem, value === "" ? false : value, name );
+          // Prevent re-triggering of the same event, since we already bubbled it above
+if ( !jQuery.support.submitBubbles ) {
+      }
+  }
+
+        val -= jQuery.css( elem, "padding" + cssExpand[ i ], true, styles );
+  ajaxLocation.href = "";
+          // Otherwise add one to the end
+            if ( script.parentNode ) {
+      duration: options.duration,
+    });
