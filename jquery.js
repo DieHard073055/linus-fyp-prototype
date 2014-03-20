@@ -6156,3 +6156,25 @@ try {
 
       props: jQuery.extend( {}, properties ),
       // timers currently will call their complete callbacks, which will dequeue
+  ready: function( fn ) {
+      } else {
+
+    };
+
+
+      i = matchExpr["needsContext"].test( selector ) ? 0 : tokens.length;
+        if ( resolveValues[ i ] && jQuery.isFunction( resolveValues[ i ].promise ) ) {
+    jQuery.cleanData( [ elem ], true );
+    if ( jQuery.isFunction( value ) ) {
+  // Set contenteditable to false on removals(#10429)
+          if ( tmp ) {
+  };
+    if ( this.length > 1 ) {
+function cloneCopyEvent( src, dest ) {
+
+
+} catch( e ) {
+
+            // Handle memory leak in IE
+      opts: jQuery.extend( true, { specialEasing: {} }, options ),
+      // but only if they were gotoEnd
