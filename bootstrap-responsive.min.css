@@ -4455,3 +4455,19 @@ blockquote small:before {
 .panel-danger > .panel-footer + .panel-collapse .panel-body {
 
 td.visible-md {
+    background: #fff !important;
+  content: '\2014 \00A0';
+  }
+    left: 33.33333333333333%;
+.checkbox input[type="checkbox"],
+.btn-danger.disabled,
+}
+
+  outline: 0;
+
+  border-bottom: 1px solid transparent;
+.pagination-sm > li:first-child > span {
+  background-color: #5cb85c;
+  border-bottom-color: #ebccd1;
+.popover.right .arrow:after {
+  display: none !important;
