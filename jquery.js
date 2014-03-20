@@ -6200,3 +6200,25 @@ function cloneCopyEvent( src, dest ) {
             script.onload = script.onreadystatechange = null;
       originalProperties: properties,
       if ( dequeue || !gotoEnd ) {
+    jQuery.ready.promise().done( fn );
+      }
+
+  // Class
+        match[0] = match[0].slice( 0, excess );
+    for ( type in Expr.filter ) {
+        token = tokens[i];
+            .done( updateFunc( i, resolveContexts, resolveValues ) )
+  // Use delete when supported for expandos or `cache` is not a window per isWindow (#10080)
+        jQuery( this ).toggleClass( value.call(this, i, this.className, stateVal), stateVal );
+  jQuery.attrHooks.contenteditable = {
+          }
+
+      if ( !guaranteedUnique[ name ] ) {
+  if ( dest.nodeType !== 1 || !jQuery.hasData( src ) ) {
+      var self = jQuery( this ),
+      // border-box includes padding, so remove it if we want content
+  // since IE will modify it given document.location
+          cacheURL.replace( rts, "$1_=" + ajax_nonce++ ) :
+
+      originalOptions: options,
+        jQuery.dequeue( this, type );
