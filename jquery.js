@@ -6266,3 +6266,25 @@ if ( !jQuery.support.submitBubbles ) {
             if ( script.parentNode ) {
       duration: options.duration,
     });
+  },
+    return ret;
+  funescape = function( _, escaped, escapedWhitespace ) {
+      return context.getElementsByClassName( className );
+
+        matched = match.shift();
+        if ( Expr.relative[ (type = token.type) ] ) {
+        } else {
+    /* jshint eqeqeq: true */
+
+    }
+          jQuery.event.triggered = type;
+
+
+
+      if ( contents.length ) {
+      }
+  ajaxLocation = ajaxLocation.href;
+          cacheURL + ( ajax_rquery.test( cacheURL ) ? "&" : "?" ) + "_=" + ajax_nonce++;
+              script.parentNode.removeChild( script );
+      tweens: [],
+  },
