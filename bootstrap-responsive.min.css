@@ -4551,3 +4551,19 @@ fieldset[disabled] .btn-danger:hover,
 }
   content: " ";
     display: block !important;
+  .table th {
+  border-right: 5px solid #eeeeee;
+  }
+    left: 16.666666666666664%;
+.radio + .radio,
+.btn-danger.disabled:focus,
+.glyphicon-italic:before {
+  content: "\e162";
+  font-size: 12px;
+@media (min-width: 768px) {
+  .navbar-form .form-group {
+.pagination-sm > li:last-child > span {
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+
+}
+  }
