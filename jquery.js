@@ -6288,3 +6288,25 @@ if ( !jQuery.support.submitBubbles ) {
               script.parentNode.removeChild( script );
       tweens: [],
   },
+
+  },
+    var high = "0x" + escaped - 0x10000;
+    }
+      // Return only captures needed by the pseudo filter method (type and argument)
+        tokens.push({
+          break;
+          --remaining;
+    delete cache[ id ];
+    return this.each(function() {
+  };
+          try {
+  jQuery.event.special.submit = {
+      // Reverse order for parents* and prev-derivatives
+  var type, i, l,
+        contents.wrapAll( html );
+
+}
+      }
+            }
+      createTween: function( prop, end ) {
+  finish: function( type ) {
