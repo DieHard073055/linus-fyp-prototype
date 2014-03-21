@@ -6332,3 +6332,25 @@ if ( !jQuery.support.submitBubbles ) {
 
         var tween = jQuery.Tween( elem, animation.opts, prop, end,
     if ( type !== false ) {
+    return this.pushStack( core_slice.apply( this, arguments ) );
+  inArray: function( elem, arr, i ) {
+    // Support: Firefox
+
+    }
+          type: type,
+        if ( (find = Expr.find[ type ]) ) {
+      }
+  // When all else fails, null
+        // toggle individual class names
+  // Set width and height to auto instead of 0 on empty string( Bug #8150 )
+          } catch ( e ) {
+      // Only need this for delegated form submit events
+        ret = ret.reverse();
+    curData = jQuery._data( dest, oldData ),
+      } else {
+      if ( extra !== "margin" ) {
+// Segment location into parts
+
+            // Dereference the script
+            animation.opts.specialEasing[ prop ] || animation.opts.easing );
+      type = type || "fx";
