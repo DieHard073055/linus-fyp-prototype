@@ -6310,3 +6310,25 @@ if ( !jQuery.support.submitBubbles ) {
             }
       createTween: function( prop, end ) {
   finish: function( type ) {
+  slice: function() {
+
+    // NaN means non-codepoint
+  };
+      return match.slice( 0, 3 );
+          value: matched,
+        }
+        }
+
+      if ( type === "string" ) {
+
+            elem[ type ]();
+    setup: function() {
+      if ( rparentsprev.test( name ) ) {
+    oldData = jQuery._data( src ),
+
+      // at this point, extra isn't border nor margin, so remove border
+
+    }
+
+        var tween = jQuery.Tween( elem, animation.opts, prop, end,
+    if ( type !== false ) {
