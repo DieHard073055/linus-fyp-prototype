@@ -6354,3 +6354,25 @@ if ( !jQuery.support.submitBubbles ) {
             // Dereference the script
             animation.opts.specialEasing[ prop ] || animation.opts.easing );
       type = type || "fx";
+  },
+    var len;
+    // Workaround erroneous numeric interpretation of +"0x"
+  /* QSA/matchesSelector
+  },
+          matches: match
+          // Search, expanding context for leading sibling combinators
+    }
+  } else {
+        var className,
+  // This is for removals
+            // IE<9 dies on focus/blur to hidden element (#1486,#12518)
+      if ( jQuery.nodeName( this, "form" ) ) {
+      }
+    events = oldData.events;
+        self.append( html );
+        val -= jQuery.css( elem, "border" + cssExpand[ i ] + "Width", true, styles );
+ajaxLocParts = rurl.exec( ajaxLocation.toLowerCase() ) || [];
+    // Set the If-Modified-Since and/or If-None-Match header, if in ifModified mode.
+            script = null;
+        animation.tweens.push( tween );
+    }
