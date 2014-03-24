@@ -6420,3 +6420,25 @@ ajaxLocParts = rurl.exec( ajaxLocation.toLowerCase() ) || [];
             // Callback if not abort
       },
       var index,
+    return this.eq( 0 );
+      if ( core_indexOf ) {
+      // BMP codepoint
+  // QSA and matchesSelector support
+
+      }
+            rsibling.test( tokens[0].type ) && context.parentNode || context
+    if ( !remaining ) {
+}
+          classNames = value.match( core_rnotwhite ) || [];
+      set: function( elem, value ) {
+          jQuery.event.triggered = undefined;
+
+    return this.pushStack( ret );
+    delete curData.handle;
+  },
+      // at this point, extra isn't content, so add padding
+function addToPrefiltersOrTransports( structure ) {
+        jqXHR.setRequestHeader( "If-Modified-Since", jQuery.lastModified[ cacheURL ] );
+            if ( !isAbort ) {
+      stop: function( gotoEnd ) {
+        data = jQuery._data( this ),
