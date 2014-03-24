@@ -6398,3 +6398,25 @@ ajaxLocParts = rurl.exec( ajaxLocation.toLowerCase() ) || [];
 
         return tween;
     return this.each(function() {
+  first: function() {
+    if ( arr ) {
+      escaped :
+
+  filter: {
+        soFar = soFar.slice( matched.length );
+            token.matches[0].replace( runescape, funescape ),
+    // if we're not waiting on anything, resolve the master
+  }
+          self = jQuery( this ),
+    jQuery.attrHooks[ name ] = {
+          }
+      }
+
+  if ( events ) {
+    });
+    } else {
+// Base "constructor" for jQuery.ajaxPrefilter and jQuery.ajaxTransport
+      if ( jQuery.lastModified[ cacheURL ] ) {
+            // Callback if not abort
+      },
+      var index,
