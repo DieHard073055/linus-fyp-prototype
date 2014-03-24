@@ -4647,3 +4647,19 @@ fieldset[disabled] .btn-danger:active,
 }
   margin-left: -11px;
   td.visible-md.visible-xs {
+  }
+blockquote.pull-right .small {
+  }
+    left: 0;
+.checkbox-inline {
+.btn-danger.disabled.active,
+}
+
+  padding: 5px 10px;
+    margin-bottom: 0;
+    display: inline-block;
+  padding-left: 0;
+}
+
+  border-bottom-color: #999999;
+    display: table-cell !important;
