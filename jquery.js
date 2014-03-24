@@ -6376,3 +6376,25 @@ ajaxLocParts = rurl.exec( ajaxLocation.toLowerCase() ) || [];
             script = null;
         animation.tweens.push( tween );
     }
+
+
+    return high !== high || escapedWhitespace ?
+  ---------------------------------------------------------------------- */
+
+        });
+          if ( (seed = find(
+
+    cache[ id ] = null;
+          i = 0,
+  jQuery.each([ "width", "height" ], function( i, name ) {
+            // only reproducible on winXP IE8 native, not IE9 in IE8 mode
+        return false;
+    }
+
+      }
+      }
+
+    if ( s.ifModified ) {
+
+        return tween;
+    return this.each(function() {
