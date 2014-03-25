@@ -4711,3 +4711,19 @@ fieldset[disabled] .btn-danger.active {
 }
 }
 
+  .table {
+blockquote.pull-right small:before,
+  .col-sm-3 {
+  }
+  font-weight: normal;
+  border-color: #d43f3a;
+}
+
+}
+.nav-tabs.nav-justified > li > a {
+    display: inline-block;
+}
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+
+
+@media (min-width: 768px) and (max-width: 991px) {
