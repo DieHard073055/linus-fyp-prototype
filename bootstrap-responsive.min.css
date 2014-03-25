@@ -4727,3 +4727,19 @@ blockquote.pull-right small:before,
 
 
 @media (min-width: 768px) and (max-width: 991px) {
+    border-collapse: collapse !important;
+blockquote.pull-right .small:before {
+    width: 25%;
+  .col-lg-offset-11 {
+  vertical-align: middle;
+}
+
+.glyphicon-record:before {
+
+  margin-right: 0;
+    padding-left: 0;
+
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+.panel-info > .panel-heading > .dropdown .caret {
+.popover.bottom .arrow:after {
+  .visible-md.visible-sm {
