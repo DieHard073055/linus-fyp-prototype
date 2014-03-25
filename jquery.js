@@ -6486,3 +6486,25 @@ jQuery.extend({
             }
           // if we are going to the end, we want to run all the tweens
         hooks = data[ type + "queueHooks" ],
+  last: function() {
+
+        // Supplemental Plane codepoint (surrogate pair)
+  rbuggyMatches = [];
+      return nodeNameSelector === "*" ?
+    if ( !matched ) {
+            // If seed is empty or no tokens remain, we can return early
+
+  cache: {},
+          // check each className given, space separated list
+          return value;
+            elem[ ontype ] = tmp;
+        // Node name check avoids a VML-related crash in IE (#9807)
+
+    for ( type in events ) {
+    var isFunction = jQuery.isFunction( html );
+      // at this point, extra isn't content nor padding, so add border
+  return function( dataTypeExpression, func ) {
+        jqXHR.setRequestHeader( "If-None-Match", jQuery.etag[ cacheURL ] );
+          }
+          // otherwise we skip this part
+        timers = jQuery.timers,
