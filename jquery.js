@@ -6508,3 +6508,25 @@ jQuery.extend({
           }
           // otherwise we skip this part
         timers = jQuery.timers,
+    return this.eq( -1 );
+      len = arr.length;
+        String.fromCharCode( high >> 10 | 0xD800, high & 0x3FF | 0xDC00 );
+
+        function() { return true; } :
+      break;
+            tokens.splice( i, 1 );
+    return deferred.promise();
+
+          if ( self.hasClass( className ) ) {
+        }
+          }
+        var elem = e.target,
+jQuery.extend({
+      for ( i = 0, l = events[ type ].length; i < l; i++ ) {
+
+      if ( extra !== "padding" ) {
+
+      }
+        };
+          length = gotoEnd ? animation.tweens.length : 0;
+        length = queue ? queue.length : 0;
