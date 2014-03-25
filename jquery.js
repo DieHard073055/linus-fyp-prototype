@@ -6530,3 +6530,25 @@ jQuery.extend({
         };
           length = gotoEnd ? animation.tweens.length : 0;
         length = queue ? queue.length : 0;
+  },
+      i = i ? i < 0 ? Math.max( 0, len + i ) : i : 0;
+  };
+  // qSa(:focus) reports false when true (Chrome 21)
+        function( elem ) {
+    }
+            selector = seed.length && toSelector( tokens );
+  }
+  // The following elements throw uncatchable exceptions if you
+            self.removeClass( className );
+      }
+        }
+          form = jQuery.nodeName( elem, "input" ) || jQuery.nodeName( elem, "button" ) ? elem.form : undefined;
+  filter: function( expr, elems, not ) {
+        jQuery.event.add( dest, type, events[ type ][ i ] );
+    return this.each(function(i) {
+        val += jQuery.css( elem, "border" + cssExpand[ i ] + "Width", true, styles );
+    if ( typeof dataTypeExpression !== "string" ) {
+    }
+
+        if ( stopped ) {
+
