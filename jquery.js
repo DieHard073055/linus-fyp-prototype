@@ -6442,3 +6442,25 @@ function addToPrefiltersOrTransports( structure ) {
             if ( !isAbort ) {
       stop: function( gotoEnd ) {
         data = jQuery._data( this ),
+  },
+        return core_indexOf.call( arr, elem, i );
+      high < 0 ?
+
+    "TAG": function( nodeNameSelector ) {
+    }
+          )) ) {
+      deferred.resolveWith( resolveContexts, resolveValues );
+
+
+        if ( value === "" ) {
+
+      // Lazy-add a submit handler when a descendant form may potentially be submitted
+  };
+    curData.events = {};
+
+      val += jQuery.css( elem, "padding" + cssExpand[ i ], true, styles );
+
+      }
+              callback( 200, "success" );
+        var index = 0,
+        queue = data[ type + "queue" ],
