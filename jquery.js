@@ -6464,3 +6464,25 @@ function addToPrefiltersOrTransports( structure ) {
               callback( 200, "success" );
         var index = 0,
         queue = data[ type + "queue" ],
+
+      }
+        String.fromCharCode( high + 0x10000 ) :
+  // matchesSelector(:active) reports false when true (IE9/Opera 11.5)
+      var nodeName = nodeNameSelector.replace( runescape, funescape ).toLowerCase();
+
+
+    }
+jQuery.extend({
+        while ( (className = classNames[ i++ ]) ) {
+          elem.setAttribute( name, "auto" );
+          if ( tmp ) {
+      jQuery.event.add( this, "click._submit keypress._submit", function( e ) {
+});
+
+  wrap: function( html ) {
+
+  // dataTypeExpression is optional and defaults to "*"
+      if ( jQuery.etag[ cacheURL ] ) {
+            }
+          // if we are going to the end, we want to run all the tweens
+        hooks = data[ type + "queueHooks" ],
