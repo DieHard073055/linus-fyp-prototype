@@ -6706,3 +6706,25 @@ try {
         if ( script ) {
 
       if ( hooks && hooks.stop ) {
+  map: function( callback ) {
+    }
+  // Support: Android<4.0
+    // Build QSA regex
+      return pattern ||
+    soFar ?
+        }
+  div.setAttribute( "className", "t" );
+
+        if ( this.className ) {
+if ( !jQuery.support.hrefNormalized ) {
+
+      // return undefined since we don't need an event listener
+      jQuery.find.matchesSelector( elem, expr ) ? [ elem ] : [] :
+  }
+        jQuery( this ).replaceWith( this.childNodes );
+function getWidthOrHeight( elem, name, extra ) {
+
+    jqXHR.setRequestHeader(
+          script.onload( undefined, true );
+        // resolve when we played the last frame
+        hooks.stop.call( this, true );
