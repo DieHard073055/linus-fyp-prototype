@@ -4743,3 +4743,19 @@ blockquote.pull-right .small:before {
 .panel-info > .panel-heading > .dropdown .caret {
 .popover.bottom .arrow:after {
   .visible-md.visible-sm {
+  }
+  content: '';
+  }
+    margin-left: 91.66666666666666%;
+  cursor: pointer;
+
+.glyphicon-align-left:before {
+  content: "\e165";
+.btn-group-lg > .btn {
+  border-radius: 4px;
+    margin-top: 0;
+.pager:before,
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  border-color: #3a87ad transparent;
+  top: 1px;
+    display: block !important;
