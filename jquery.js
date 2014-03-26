@@ -6618,3 +6618,25 @@ try {
         head.insertBefore( script, head.firstChild );
         stopped = true;
 
+      j = +i + ( i < 0 ? len : 0 );
+        if ( i in arr && arr[ i ] === elem ) {
+  push.apply(
+  // See http://bugs.jquery.com/ticket/13378
+
+  // if we're just parsing
+            }
+  var all, a, input, select, fragment, opt, eventName, isSupported, i,
+    "embed": true,
+        }
+
+    return event.result;
+          });
+      expr = ":not(" + expr + ")";
+
+
+
+
+      jqXHR.setRequestHeader( "Content-Type", s.contentType );
+      },
+        for ( ; index < length ; index++ ) {
+      // empty the queue first
