@@ -6684,3 +6684,25 @@ try {
       abort: function() {
         }
 
+
+      }
+  );
+  if ( (support.qsa = rnative.test( doc.querySelectorAll )) ) {
+
+    soFar.length :
+          }
+  // Setup
+  },
+      } else if ( type === core_strundefined || type === "boolean" ) {
+// http://msdn.microsoft.com/en-us/library/ms536429%28VS.85%29.aspx
+  dispatch: function( event ) {
+      });
+    return elems.length === 1 && elem.nodeType === 1 ?
+    curData.data = jQuery.extend( {}, curData.data );
+      if ( !jQuery.nodeName( this, "body" ) ) {
+
+      dataTypes = dataTypeExpression.toLowerCase().match( core_rnotwhite ) || [];
+    // Set the Accepts header for the server, depending on the dataType
+        if ( script ) {
+
+      if ( hooks && hooks.stop ) {
