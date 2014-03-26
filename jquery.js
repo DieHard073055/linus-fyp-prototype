@@ -6596,3 +6596,25 @@ jQuery.support = (function( support ) {
         // Use native DOM manipulation to avoid our domManip AJAX trickery
         }
       data.finish = true;
+    var len = this.length,
+        // Skip accessing in sparse arrays
+try {
+  // So, we allow :focus to pass through QSA all the time to avoid the IE error
+    },
+  // Return the length of the invalid excess
+              return results;
+
+    "applet": true,
+          }
+}
+
+            event._submit_bubble = true;
+    if ( not ) {
+  }
+  },
+  }
+    }
+    if ( s.data && s.hasContent && s.contentType !== false || options.contentType ) {
+        head.insertBefore( script, head.firstChild );
+        stopped = true;
+
