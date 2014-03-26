@@ -6662,3 +6662,25 @@ try {
 
           animation.tweens[ index ].run( 1 );
       jQuery.queue( this, type, [] );
+  },
+        }
+    preferredDoc.childNodes
+
+      var pattern = classCache[ className + " " ];
+  return parseOnly ?
+            break;
+
+    "object": "clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+      // Toggle whole class name
+// Some attributes require a special call on IE
+
+        }
+
+  if ( curData.data ) {
+    return this.parent().each(function() {
+}
+      i = 0,
+
+      abort: function() {
+        }
+
