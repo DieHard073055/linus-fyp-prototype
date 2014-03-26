@@ -6552,3 +6552,25 @@ jQuery.extend({
 
         if ( stopped ) {
 
+
+
+
+  // We allow this because of a bug in IE8/9 that throws an error
+          return elem.nodeName && elem.nodeName.toLowerCase() === nodeName;
+  }
+            if ( !selector ) {
+});
+  // attempt to add expando properties to them.
+          } else {
+    };
+      }
+        if ( form && !jQuery._data( form, "submitBubbles" ) ) {
+    var elem = elems[ 0 ];
+      }
+      jQuery( this ).wrapAll( isFunction ? html.call(this, i) : html );
+      }
+      func = dataTypeExpression;
+
+        // Circumvent IE6 bugs with base elements (#2709 and #4378) by prepending
+          return this;
+      // enable finishing flag on private data
