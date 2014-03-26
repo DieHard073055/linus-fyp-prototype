@@ -4823,3 +4823,19 @@ blockquote.pull-right .small:after {
   border-bottom-color: #bce8f1;
   content: " ";
   }
+}
+  content: '\00A0 \2014';
+    width: 8.333333333333332%;
+  .col-lg-offset-9 {
+  margin-top: 0;
+}
+  content: "\e053";
+}
+}
+.nav-tabs.nav-justified > .active > a:focus {
+    float: none;
+
+}
+}
+}
+  th.visible-md.visible-sm,
