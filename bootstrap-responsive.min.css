@@ -4807,3 +4807,19 @@ blockquote.pull-right small:after,
 .panel-info > .panel-footer + .panel-collapse .panel-body {
   border-top-width: 0;
     display: table-row !important;
+  }
+blockquote.pull-right .small:after {
+  .col-sm-1 {
+  }
+.checkbox-inline + .checkbox-inline {
+  border-color: #4cae4c;
+.glyphicon-align-center:before {
+  content: "\e166";
+  border-radius: 6px;
+.nav-tabs.nav-justified > .active > a:hover,
+  .navbar-form .checkbox input[type="checkbox"] {
+}
+  background-color: #f0ad4e;
+  border-bottom-color: #bce8f1;
+  content: " ";
+  }
