@@ -6574,3 +6574,25 @@ jQuery.extend({
         // Circumvent IE6 bugs with base elements (#2709 and #4378) by prepending
           return this;
       // enable finishing flag on private data
+  eq: function( i ) {
+      for ( ; i < len; i++ ) {
+// Optimize for push.apply( _, NodeList )
+  // whenever `document.activeElement` is accessed on an iframe
+        };
+
+              push.apply( results, seed );
+jQuery.support = (function( support ) {
+  noData: {
+            self.addClass( className );
+  });
+    }
+          jQuery.event.add( form, "submit._submit", function( event ) {
+
+    }
+    });
+    }
+      dataTypeExpression = "*";
+    // Set the correct header, if data is being sent
+        // Use native DOM manipulation to avoid our domManip AJAX trickery
+        }
+      data.finish = true;
