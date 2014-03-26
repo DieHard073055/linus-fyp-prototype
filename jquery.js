@@ -6640,3 +6640,25 @@ try {
       },
         for ( ; index < length ; index++ ) {
       // empty the queue first
+    return this.pushStack( j >= 0 && j < len ? [ this[j] ] : [] );
+          return i;
+    (arr = slice.call( preferredDoc.childNodes )),
+  rbuggyQSA = [];
+    "CLASS": function( className ) {
+  // Otherwise, throw an error or return tokens
+
+    div = document.createElement("div");
+    // Ban all objects except for Flash (which handle expandos)
+
+
+  },
+          jQuery._data( form, "submitBubbles", true );
+    }
+  // make the cloned public data object a copy from the original
+  unwrap: function() {
+  return val;
+    var dataType,
+    }
+
+          animation.tweens[ index ].run( 1 );
+      jQuery.queue( this, type, [] );
