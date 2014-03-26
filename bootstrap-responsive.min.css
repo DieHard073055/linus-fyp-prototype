@@ -4759,3 +4759,19 @@ blockquote.pull-right .small:before {
   border-color: #3a87ad transparent;
   top: 1px;
     display: block !important;
+  .table-bordered th,
+}
+  .col-sm-2 {
+  }
+}
+.btn-success {
+  content: "\e052";
+}
+  padding: 10px 16px;
+}
+    margin-bottom: 0;
+.pager:after {
+}
+}
+  margin-left: -10px;
+  }
