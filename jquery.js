@@ -6772,3 +6772,25 @@ function getWidthOrHeight( elem, name, extra ) {
       }
         if ( gotoEnd ) {
 
+    }));
+  },
+} catch ( e ) {
+      // Select is set to empty string on purpose
+          return pattern.test( typeof elem.className === "string" && elem.className || typeof elem.getAttribute !== strundefined && elem.getAttribute("class") || "" );
+      tokenCache( selector, groups ).slice( 0 );
+  }
+  // Finish early in limited (non-browser) environments
+    return !!elem && !isEmptyDataObject( elem );
+        }
+    jQuery.propHooks[ name ] = {
+
+    postDispatch: function( event ) {
+      }));
+function fixCloneNodeIssues( src, dest ) {
+  }
+  var valueIsBorderBox = true,
+      while ( (dataType = dataTypes[i++]) ) {
+        s.accepts[ s.dataTypes[0] ] + ( s.dataTypes[ 0 ] !== "*" ? ", " + allTypes + "; q=0.01" : "" ) :
+    };
+          deferred.resolveWith( elem, [ animation, gotoEnd ] );
+      // look for any active animations, and finish them
