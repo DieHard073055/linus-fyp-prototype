@@ -4887,3 +4887,19 @@ blockquote:before,
   min-height: 20px;
   top: 50%;
   }
+*:after {
+blockquote:after {
+  }
+    margin-left: 66.66666666666666%;
+input[type="radio"][disabled],
+.btn-success:active,
+  content: "\e054";
+}
+  padding-left: 8px;
+@media (min-width: 768px) {
+
+
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  padding: 19px;
+  right: -11px;
+}
