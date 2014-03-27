@@ -6860,3 +6860,25 @@ function toSelector( tokens ) {
 var oldCallbacks = [],
         }
           timers[ index ].anim.stop( true );
+    return this.prevObject || this.constructor(null);
+      i = first.length,
+    function( target, els ) {
+      // http://bugs.jquery.com/ticket/12359
+    "ATTR": function( name, operator, check ) {
+  var i = 0,
+  compile( selector, match )(
+    return support;
+    return internalData( elem, name, data );
+        // Otherwise bring back whatever was previously saved (if anything),
+    };
+      handlers = ( jQuery._data( this, "events" ) || {} )[ event.type ] || [],
+        if ( this.parentNode && !event.isTrigger ) {
+    var matched = [],
+  if ( dest.nodeType !== 1 ) {
+  ropacity = /opacity\s*=\s*([^)]*)/,
+
+          (structure[ dataType ] = structure[ dataType ] || []).unshift( func );
+    // Check for headers option
+  rjsonp = /(=)\?(?=&|$)|\?\?/;
+        return this;
+          timers.splice( index, 1 );
