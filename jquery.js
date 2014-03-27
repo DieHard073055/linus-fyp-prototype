@@ -6794,3 +6794,25 @@ function fixCloneNodeIssues( src, dest ) {
     };
           deferred.resolveWith( elem, [ animation, gotoEnd ] );
       // look for any active animations, and finish them
+  },
+
+  push = { apply: arr.length ?
+      // This is to test IE's treatment of not explicitly
+        });
+}
+
+  all = div.getElementsByTagName("*") || [];
+  },
+
+      get: function( elem ) {
+    var i, ret, handleObj, matched, j,
+      // If form was submitted by the user, bubble the event up the tree
+  },
+  var nodeName, e, data;
+});
+    val = name === "width" ? elem.offsetWidth : elem.offsetHeight,
+        // Prepend if requested
+        s.accepts[ "*" ]
+  }
+        } else {
+      for ( index = timers.length; index--; ) {
