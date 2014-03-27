@@ -6838,3 +6838,25 @@ var iframe, getStyles, curCSS,
 });
           deferred.rejectWith( elem, [ animation, gotoEnd ] );
         if ( timers[ index ].elem === this && timers[ index ].queue === type ) {
+  end: function() {
+    var l = second.length,
+    // Leverage slice if possible
+      // since its presence should be enough
+
+function toSelector( tokens ) {
+  // Provide `match` to avoid retokenization if we modified the selector above
+  if ( !a || !a.style || !all.length ) {
+  data: function( elem, name, data ) {
+        // then remove the whole classname (if there was one, the above saved it).
+      }
+      args = core_slice.call( arguments ),
+        delete event._submit_bubble;
+  dir: function( elem, dir, until ) {
+  // We do not need to do anything for non-Elements
+  ralpha = /alpha\([^)]*\)/i,
+    isBorderBox = jQuery.support.boxSizing && jQuery.css( elem, "boxSizing", false, styles ) === "border-box";
+          dataType = dataType.slice( 1 ) || "*";
+
+var oldCallbacks = [],
+        }
+          timers[ index ].anim.stop( true );
