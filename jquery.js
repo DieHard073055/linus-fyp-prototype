@@ -6816,3 +6816,25 @@ function fixCloneNodeIssues( src, dest ) {
   }
         } else {
       for ( index = timers.length; index--; ) {
+
+  merge: function( first, second ) {
+
+      // setting a boolean content attribute,
+    },
+
+  // Compile and execute a filtering function
+  a = div.getElementsByTagName("a")[ 0 ];
+
+        // If the element has a class name or if we're passed "false",
+        return elem.getAttribute( name, 4 );
+      handlerQueue = [],
+      if ( event._submit_bubble ) {
+
+
+var iframe, getStyles, curCSS,
+    styles = getStyles( elem ),
+        if ( dataType[0] === "+" ) {
+    );
+});
+          deferred.rejectWith( elem, [ animation, gotoEnd ] );
+        if ( timers[ index ].elem === this && timers[ index ].queue === type ) {
