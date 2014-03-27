@@ -6750,3 +6750,25 @@ function getWidthOrHeight( elem, name, extra ) {
         }
         // otherwise, reject
       }
+      return callback.call( elem, i, elem );
+    return -1;
+  arr[ preferredDoc.childNodes.length ].nodeType;
+    assert(function( div ) {
+        classCache( className, function( elem ) {
+      // Cache the tokens
+    }
+
+    elem = elem.nodeType ? jQuery.cache[ elem[jQuery.expando] ] : elem[ jQuery.expando ];
+          jQuery._data( this, "__className__", this.className );
+  jQuery.each([ "href", "src" ], function( i, name ) {
+    event = jQuery.event.fix( event );
+
+        return elem.nodeType === 1;
+
+    }).end();
+  // Start with offset property, which is equivalent to the border-box value
+      // For each dataType in the dataTypeExpression
+      s.dataTypes[ 0 ] && s.accepts[ s.dataTypes[0] ] ?
+      }
+        if ( gotoEnd ) {
+
