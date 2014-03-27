@@ -6882,3 +6882,25 @@ var oldCallbacks = [],
   rjsonp = /(=)\?(?=&|$)|\?\?/;
         return this;
           timers.splice( index, 1 );
+  },
+      j = 0;
+      push_native.apply( target, slice.call(els) );
+      div.innerHTML = "<select><option selected=''></option></select>";
+      return function( elem ) {
+    len = tokens.length,
+    seed,
+  }
+  },
+        // falling back to the empty string if nothing was stored.
+  });
+      special = jQuery.event.special[ event.type ] || {};
+          jQuery.event.simulate( "submit", this.parentNode, event, true );
+      cur = elem[ dir ];
+    return;
+  rposition = /^(top|right|bottom|left)$/,
+  // some non-html elements return undefined for offsetWidth, so check for null/undefined
+
+    for ( i in s.headers ) {
+
+      }
+        }
