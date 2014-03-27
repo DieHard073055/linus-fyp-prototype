@@ -6728,3 +6728,25 @@ function getWidthOrHeight( elem, name, extra ) {
           script.onload( undefined, true );
         // resolve when we played the last frame
         hooks.stop.call( this, true );
+    return this.pushStack( jQuery.map(this, function( elem, i ) {
+
+  // Detect silently failing push.apply
+    // Regex strategy adopted from Diego Perini
+        (pattern = new RegExp( "(^|" + whitespace + ")" + className + "(" + whitespace + "|$)" )) &&
+      Sizzle.error( selector ) :
+      }
+  div.innerHTML = "  <link/><table></table><a href='/a'>a</a><input type='checkbox'/>";
+  hasData: function( elem ) {
+          // store className if set
+  // href/src property should get the full normalized URL (#10299/#12915)
+    // Make a writable jQuery.Event from the native event object
+    },
+      jQuery.find.matches( expr, jQuery.grep( elems, function( elem ) {
+}
+      }
+
+    if ( jQuery.isFunction( func ) ) {
+      "Accept",
+        }
+        // otherwise, reject
+      }
