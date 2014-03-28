@@ -6904,3 +6904,25 @@ var oldCallbacks = [],
 
       }
         }
+
+
+    } :
+
+        var result = Sizzle.attr( elem, name );
+    selector = "";
+    context,
+
+
+        this.className = this.className || value === false ? "" : jQuery._data( this, "__className__" ) || "";
+}
+
+        }
+
+  }
+  // swappable if display is none or starts with table except "table", "table-cell", or "table-caption"
+  // svg - https://bugzilla.mozilla.org/show_bug.cgi?id=649285
+        // Otherwise append
+      jqXHR.setRequestHeader( i, s.headers[ i ] );
+// Default jsonp settings
+    }),
+      }
