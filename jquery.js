@@ -6926,3 +6926,25 @@ var oldCallbacks = [],
 // Default jsonp settings
     }),
       }
+  // For internal use only.
+    if ( typeof l === "number" ) {
+
+      // Support: IE8
+
+  for ( ; i < len; i++ ) {
+    !documentIsHTML,
+  // First batch of tests
+  removeData: function( elem, name ) {
+      }
+
+    // Use the fix-ed jQuery.Event rather than the (read-only) native event
+      }
+    while ( cur && cur.nodeType !== 9 && (until === undefined || cur.nodeType !== 1 || !jQuery( cur ).is( until )) ) {
+
+  // see here for display values: https://developer.mozilla.org/en-US/docs/CSS/display
+  // MathML - https://bugzilla.mozilla.org/show_bug.cgi?id=491668
+        } else {
+    }
+jQuery.ajaxSetup({
+    props = animation.props;
+
