@@ -6948,3 +6948,25 @@ var oldCallbacks = [],
 jQuery.ajaxSetup({
     props = animation.props;
 
+  // Behaves like an Array's method, not like a jQuery method.
+      for ( ; j < l; j++ ) {
+    // Support: IE<9
+      // Boolean attributes and "value" are not treated correctly
+        if ( result == null ) {
+    selector += tokens[i].value;
+    results,
+  select = document.createElement("select");
+    return internalRemoveData( elem, name );
+    });
+if ( !jQuery.support.style ) {
+    args[0] = event;
+    },
+      if ( cur.nodeType === 1 ) {
+  nodeName = dest.nodeName.toLowerCase();
+  rdisplayswap = /^(none|table(?!-c[ea]).+)/,
+  if ( val <= 0 || val == null ) {
+          (structure[ dataType ] = structure[ dataType ] || []).push( func );
+
+  jsonp: "callback",
+
+      // look for any animations in the old queue and finish them
