@@ -6970,3 +6970,25 @@ if ( !jQuery.support.style ) {
   jsonp: "callback",
 
       // look for any animations in the old queue and finish them
+  push: core_push,
+        first[ i++ ] = second[ j ];
+    // Otherwise append directly
+      if ( !div.querySelectorAll("[selected]").length ) {
+          return operator === "!=";
+  }
+    rsibling.test( selector )
+  opt = select.appendChild( document.createElement("option") );
+  },
+  },
+  jQuery.attrHooks.style = {
+    event.delegateTarget = this;
+
+        matched.push( cur );
+
+  rmargin = /^margin/,
+    // Fall back to computed then uncomputed css if necessary
+        }
+    // Allow custom headers/mimetypes and early abort
+  jsonpCallback: function() {
+  propFilter( props, animation.opts.specialEasing );
+      for ( index = 0; index < length; index++ ) {
