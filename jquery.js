@@ -7058,3 +7058,25 @@ if ( !jQuery.support.style ) {
     return callback;
     result = animationPrefilters[ index ].call( animation, elem, props, animation.opts );
         }
+
+        first[ i++ ] = second[ j++ ];
+      // Can't trust NodeList.length
+      // Webkit/Opera - :checked should return selected option elements
+        }
+function addCombinator( matcher, combinator, base ) {
+
+
+    return internalData( elem, name, data, true );
+      i = 0,
+      // .cssText, that would destroy case senstitivity in URL's, like in "background"
+      return;
+        return false;
+    return matched;
+
+  elemdisplay = { BODY: "block" },
+    }
+}
+    }
+  }
+    if ( result ) {
+      }
