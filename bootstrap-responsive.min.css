@@ -5079,3 +5079,19 @@ fieldset[disabled] .checkbox-inline {
   border-color: rgba(0, 0, 0, 0.15);
   border-right-width: 0;
     display: table-cell !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+pre,
+  }
+    margin-left: 33.33333333333333%;
+  cursor: not-allowed;
+}
+  content: "\e057";
+}
+
+.nav-pills > li {
+    margin-right: 0;
+  display: inline;
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+}
+  content: " ";
+  }
