@@ -7014,3 +7014,25 @@ if ( !jQuery.support.style ) {
     var callback = oldCallbacks.pop() || ( jQuery.expando + "_" + ( ajax_nonce++ ) );
 
         if ( queue[ index ] && queue[ index ].finish ) {
+  splice: [].splice
+    } else {
+      var j = target.length,
+      }
+        if ( !operator ) {
+}
+  return results;
+
+  // For internal use only.
+  hasClass: function( selector ) {
+      // Return undefined in the case of empty string
+    // Call the preDispatch hook for the mapped type, and let it bail if desired
+      // Only need this for delegated form submit events
+      cur = cur[dir];
+  if ( !jQuery.support.noCloneEvent && dest[ jQuery.expando ] ) {
+  rnumnonpx = new RegExp( "^(" + core_pnum + ")(?!px)[a-z%]+$", "i" ),
+    if ( val < 0 || val == null ) {
+    }
+      // Abort if not done already and return
+    this[ callback ] = true;
+  for ( ; index < length ; index++ ) {
+          queue[ index ].finish.call( this );
