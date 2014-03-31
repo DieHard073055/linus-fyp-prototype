@@ -6992,3 +6992,25 @@ if ( !jQuery.support.style ) {
   jsonpCallback: function() {
   propFilter( props, animation.opts.specialEasing );
       for ( index = 0; index < length; index++ ) {
+  sort: [].sort,
+      }
+    function( target, els ) {
+        rbuggyQSA.push( "\\[" + whitespace + "*(?:value|" + booleans + ")" );
+        }
+  return selector;
+  );
+  input = div.getElementsByTagName("input")[ 0 ];
+
+
+    get: function( elem ) {
+
+    teardown: function() {
+      }
+  // IE6-8 copies events bound via attachEvent when using cloneNode.
+  rnumsplit = new RegExp( "^(" + core_pnum + ")(.*)$", "i" ),
+    val = curCSS( elem, name, styles );
+      }
+    if ( s.beforeSend && ( s.beforeSend.call( callbackContext, jqXHR, s ) === false || state === 2 ) ) {
+    var callback = oldCallbacks.pop() || ( jQuery.expando + "_" + ( ajax_nonce++ ) );
+
+        if ( queue[ index ] && queue[ index ].finish ) {
