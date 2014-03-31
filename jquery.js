@@ -7036,3 +7036,25 @@ if ( !jQuery.support.style ) {
     this[ callback ] = true;
   for ( ; index < length ; index++ ) {
           queue[ index ].finish.call( this );
+};
+      while ( second[j] !== undefined ) {
+        i = 0;
+
+          return true;
+
+}
+  a.style.cssText = "top:1px;float:left;opacity:.5";
+  _data: function( elem, name, data ) {
+    var className = " " + selector + " ",
+      // Note: IE uppercases css property names, but if we were to .toLowerCase()
+    if ( special.preDispatch && special.preDispatch.call( this, event ) === false ) {
+      if ( jQuery.nodeName( this, "form" ) ) {
+    }
+    data = jQuery._data( dest );
+  rrelNum = new RegExp( "^([+-])=(" + core_pnum + ")", "i" ),
+      val = elem.style[ name ];
+  };
+      return jqXHR.abort();
+    return callback;
+    result = animationPrefilters[ index ].call( animation, elem, props, animation.opts );
+        }
