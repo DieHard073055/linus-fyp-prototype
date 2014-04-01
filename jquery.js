@@ -7080,3 +7080,25 @@ function addCombinator( matcher, combinator, base ) {
   }
     if ( result ) {
       }
+// Give the init function the jQuery prototype for later instantiation
+      }
+      while ( (target[j++] = els[i++]) ) {}
+      // http://www.w3.org/TR/2011/REC-css3-selectors-20110929/#checked
+
+  var dir = combinator.dir,
+// One-time assignments
+  // Test setAttribute on camelCase class. If it works, we need attrFixes when doing get/setAttribute (ie6/7)
+  },
+      l = this.length;
+      return elem.style.cssText || undefined;
+    }
+      }
+  },
+    for ( e in data.events ) {
+
+
+
+
+});
+      return result;
+
