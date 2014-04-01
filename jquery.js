@@ -7102,3 +7102,25 @@ function addCombinator( matcher, combinator, base ) {
 });
       return result;
 
+jQuery.fn.init.prototype = jQuery.fn;
+    }
+      target.length = j - 1;
+      // IE8 throws error here and will not see later tests
+        result += "";
+    checkNonElements = base && dir === "parentNode",
+
+  support.getSetAttribute = div.className !== "t";
+
+    for ( ; i < l; i++ ) {
+    },
+
+
+
+      jQuery.removeEvent( dest, e, data.handle );
+  cssShow = { position: "absolute", visibility: "hidden", display: "block" },
+    // Computed unit is not pixels. Stop here and return.
+// Base inspection function for prefilters and transports
+    // aborting is no longer a cancellation
+
+    }
+      // turn off finishing flag
