@@ -7168,3 +7168,25 @@ support.sortStable = expando.split("").sort( sortOrder ).join("") === expando;
 jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 
     });
+  var src, copyIsArray, copy, name, options, clone,
+
+}
+      }
+          operator === "!=" ? result !== check :
+  return combinator.first ?
+
+  support.leadingWhitespace = div.firstChild.nodeType === 3;
+  },
+      }
+    }
+
+    }
+
+    // Event data gets referenced instead of copied if the expando gets copied too
+    fontWeight: 400
+    }
+  var inspected = {},
+    // Install callbacks on deferreds
+
+  jQuery.map( props, createTween, animation );
+  }
