@@ -7256,3 +7256,25 @@ support.detectDuplicates = hasDuplicate;
       "url" :
     animation.opts.start.call( elem, animation );
 // Generate parameters to create a standard animation
+    deep = false;
+  grep: function( elems, callback, inv ) {
+    // QSA vars
+
+          operator === "~=" ? ( " " + result + " " ).indexOf( check ) > -1 :
+        if ( elem.nodeType === 1 || checkNonElements ) {
+
+  support.tbody = !div.getElementsByTagName("tbody").length;
+    // Do not set data on non-element because it will not be cleared (#8335).
+  },
+// Safari mis-reports the default selected property of an option
+      event.currentTarget = matched.elem;
+// IE change delegation and checkbox/radio fix
+      }
+  // IE blanks contents when cloning scripts, and tries to evaluate newly-set text
+  cssPrefixes = [ "Webkit", "O", "Moz", "ms" ];
+    valueIsBorderBox = isBorderBox && ( jQuery.support.boxSizingReliable || val === elem.style[ name ] );
+    var selected;
+
+      typeof s.data === "string" && !( s.contentType || "" ).indexOf("application/x-www-form-urlencoded") && rjsonp.test( s.data ) && "data"
+  }
+function genFx( type, includeWidth ) {
