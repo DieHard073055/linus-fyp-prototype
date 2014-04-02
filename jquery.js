@@ -7124,3 +7124,25 @@ jQuery.fn.init.prototype = jQuery.fn;
 
     }
       // turn off finishing flag
+
+
+    }
+      if ( !div.querySelectorAll(":checked").length ) {
+
+    doneName = done++;
+// Sort stability
+
+  _removeData: function( elem, name ) {
+      if ( this[i].nodeType === 1 && (" " + this[i].className + " ").replace(rclass, " ").indexOf( className ) >= 0 ) {
+    set: function( elem, value ) {
+    // Determine handlers
+      // Remove delegated handlers; cleanData eventually reaps submit handlers attached above
+  sibling: function( n, elem ) {
+    }
+  cssNormalTransform = {
+    if ( rnumnonpx.test(val) ) {
+function inspectPrefiltersOrTransports( structure, options, originalOptions, jqXHR ) {
+    strAbort = "abort";
+// Detect, normalize options and install callbacks for jsonp requests
+  }
+      delete data.finish;
