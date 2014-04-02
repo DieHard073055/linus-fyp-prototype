@@ -7300,3 +7300,25 @@ if ( !jQuery.support.changeBubbles ) {
     );
 
   var which,
+  // Handle a deep copy situation
+      ret = [],
+
+      // ^= $= *= and empty values
+          false;
+        }
+setDocument();
+  // Make sure that link elements get serialized correctly by innerHTML
+      return false;
+  val: function( value ) {
+if ( !jQuery.support.optSelected ) {
+      j = 0;
+
+
+    disableScript( dest ).text = src.text;
+// return a css property mapped to a potentially vendor prefixed property
+    // Normalize "", auto, and prepare for extra
+    jQuery.each( structure[ dataType ] || [], function( _, prefilterOrFactory ) {
+    transport = inspectPrefiltersOrTransports( transports, s, options, jqXHR );
+
+  jQuery.fx.timer(
+    attrs = { height: type },
