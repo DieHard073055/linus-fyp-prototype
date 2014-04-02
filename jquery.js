@@ -7212,3 +7212,25 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
   var callbackName, overwritten, responseContainer,
 
 });
+    i = 1,
+  },
+function Sizzle( selector, context, results, seed ) {
+
+          operator === "*=" ? check && result.indexOf( check ) > -1 :
+    function( elem, context, xml ) {
+// Always assume duplicates if they aren't passed to the comparison function
+  // Make sure that tbody elements aren't automatically inserted
+  // A method for determining if a DOM node can handle the data expando
+
+}
+    i = 0;
+}
+      if ( n.nodeType === 1 && n !== elem ) {
+  }
+
+    // we need the check for style in case a browser which returns unreliable values
+
+      jqXHR[ i ]( s[ i ] );
+    jsonProp = s.jsonp !== false && ( rjsonp.test( s.url ) ?
+  if ( jQuery.isFunction( animation.opts.start ) ) {
+
