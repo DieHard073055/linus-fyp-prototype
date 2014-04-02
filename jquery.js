@@ -7146,3 +7146,25 @@ function inspectPrefiltersOrTransports( structure, options, originalOptions, jqX
 // Detect, normalize options and install callbacks for jsonp requests
   }
       delete data.finish;
+jQuery.extend = jQuery.fn.extend = function() {
+    first.length = i;
+  };
+        rbuggyQSA.push(":checked");
+        return operator === "=" ? result === check :
+
+support.sortStable = expando.split("").sort( sortOrder ).join("") === expando;
+  // IE strips leading whitespace when .innerHTML is used
+    return internalRemoveData( elem, name, true );
+        return true;
+      return ( elem.style.cssText = value + "" );
+    handlerQueue = jQuery.event.handlers.call( this, event, handlers );
+      jQuery.event.remove( this, "._submit" );
+    var r = [];
+
+    letterSpacing: 0,
+      return val;
+
+
+jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
+
+    });
