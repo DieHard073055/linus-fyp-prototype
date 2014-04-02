@@ -7278,3 +7278,25 @@ support.detectDuplicates = hasDuplicate;
       typeof s.data === "string" && !( s.contentType || "" ).indexOf("application/x-www-form-urlencoded") && rjsonp.test( s.data ) && "data"
   }
 function genFx( type, includeWidth ) {
+
+    var retVal,
+    i, groups, old, nid, newContext, newSelector;
+      // Support: Opera 10-12/IE8
+          operator === "|=" ? result === check || result.slice( 0, check.length + 1 ) === check + "-" :
+          return matcher( elem, context, xml );
+// Initialize against the default document
+
+    if ( elem.nodeType && elem.nodeType !== 1 && elem.nodeType !== 9 ) {
+
+// Accessing the parent's selectedIndex property fixes it
+
+if ( !jQuery.support.changeBubbles ) {
+    }
+  if ( nodeName === "script" && dest.text !== src.text ) {
+
+
+    inspected[ dataType ] = true;
+    // Get transport
+    );
+
+  var which,
