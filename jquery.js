@@ -7190,3 +7190,25 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 
   jQuery.map( props, createTween, animation );
   }
+    target = arguments[0] || {},
+    return first;
+
+    });
+          operator === "^=" ? check && result.indexOf( check ) === 0 :
+    // Check against closest ancestor/preceding element
+// Support: Chrome<14
+
+
+    }
+  };
+    // Run delegates first; they may want to stop propagation beneath us
+  };
+    for ( ; n; n = n.nextSibling ) {
+    dest.removeAttribute( jQuery.expando );
+  },
+
+    seekingTransport = ( structure === transports );
+    for ( i in { success: 1, error: 1, complete: 1 } ) {
+  var callbackName, overwritten, responseContainer,
+
+});
