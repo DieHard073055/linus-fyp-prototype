@@ -7234,3 +7234,25 @@ function Sizzle( selector, context, results, seed ) {
     jsonProp = s.jsonp !== false && ( rjsonp.test( s.url ) ?
   if ( jQuery.isFunction( animation.opts.start ) ) {
 
+    length = arguments.length,
+
+  var match, elem, m, nodeType,
+    assert(function( div ) {
+          operator === "$=" ? check && result.slice( -check.length ) === check :
+      while ( (elem = elem[ dir ]) ) {
+support.detectDuplicates = hasDuplicate;
+  // IE will insert them into empty tables
+  acceptData: function( elem ) {
+    return false;
+
+    while ( (matched = handlerQueue[ i++ ]) && !event.isPropagationStopped() ) {
+
+        r.push( n );
+
+  cssExpand = [ "Top", "Right", "Bottom", "Left" ],
+    // for getComputedStyle silently falls back to the reliable elem.style
+  function inspect( dataType ) {
+    }
+      "url" :
+    animation.opts.start.call( elem, animation );
+// Generate parameters to create a standard animation
