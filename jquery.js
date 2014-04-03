@@ -7322,3 +7322,25 @@ if ( !jQuery.support.optSelected ) {
 
   jQuery.fx.timer(
     attrs = { height: type },
+  if ( typeof target === "boolean" ) {
+      i = 0,
+  if ( ( context ? context.ownerDocument || context : preferredDoc ) !== document ) {
+      // Should not select anything
+      };
+      }
+
+  // This requires a wrapper element in IE
+    }
+    var ret, hooks, isFunction,
+  jQuery.propHooks.selected = {
+      while ( (handleObj = matched.handlers[ j++ ]) && !event.isImmediatePropagationStopped() ) {
+  jQuery.event.special.change = {
+    return r;
+    restoreScript( dest );
+function vendorPropName( style, name ) {
+    val = parseFloat( val ) || 0;
+      var dataTypeOrTransport = prefilterOrFactory( options, originalOptions, jqXHR );
+
+  // Handle iff the expected data type is "jsonp" or we have a parameter to set
+    jQuery.extend( tick, {
+    i = 0;
