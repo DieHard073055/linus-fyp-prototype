@@ -7388,3 +7388,25 @@ function vendorPropName( style, name ) {
 
       anim: animation,
   // if we include width, step value is 1 to do all cssExpand values,
+    // skip the boolean and the target
+
+
+      var input = doc.createElement("input");
+    "CHILD": function( type, what, argument, first, last ) {
+    // Check against all ancestor/preceding elements
+support.sortDetached = assert(function( div1 ) {
+  // Get the style information from getAttribute
+
+    if ( !arguments.length ) {
+
+        // 2) have namespace(s) a subset or equal to those in the bound event (both can have no namespace).
+
+
+  // IE10 throws NoModificationAllowedError if parent is null, #12132.
+  if ( name in style ) {
+  // use the active box-sizing model to add/subtract irrelevant styles
+        inspect( dataTypeOrTransport );
+      done( -1, "No Transport" );
+    // Get callback name, remembering preexisting value associated with it
+      queue: animation.opts.queue
+  // if we don't include width, step value is 2 to skip over Left and Right
