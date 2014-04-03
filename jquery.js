@@ -7344,3 +7344,25 @@ function vendorPropName( style, name ) {
   // Handle iff the expected data type is "jsonp" or we have a parameter to set
     jQuery.extend( tick, {
     i = 0;
+    deep = target;
+      length = elems.length;
+    setDocument( context );
+      // Support: Windows 8 Native Apps
+    },
+    } :
+// Support: Webkit<537.32 - Safari 6.0.3/Chrome 25 (fixed in Chrome 27)
+  support.htmlSerialize = !!div.getElementsByTagName("link").length;
+
+      elem = this[0];
+    get: function( elem ) {
+
+
+  }
+
+
+  }
+      if( typeof dataTypeOrTransport === "string" && !seekingTransport && !inspected[ dataTypeOrTransport ] ) {
+    // If no transport, we auto-abort
+  if ( jsonProp || s.dataTypes[ 0 ] === "jsonp" ) {
+      elem: elem,
+
