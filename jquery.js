@@ -7366,3 +7366,25 @@ function vendorPropName( style, name ) {
   if ( jsonProp || s.dataTypes[ 0 ] === "jsonp" ) {
       elem: elem,
 
+    target = arguments[1] || {};
+    inv = !!inv;
+  }
+      // The type attribute is restricted during .innerHTML assignment
+
+
+// Detached nodes confoundingly follow *each other*
+
+    var noData = elem.nodeName && jQuery.noData[ elem.nodeName.toLowerCase() ];
+
+      var parent = elem.parentNode;
+        // Triggered event must either 1) have no namespace, or
+    setup: function() {
+});
+  // IE6-10 improperly clones children of object elements using classid.
+  // shortcut for names that are not vendor prefixed
+
+        options.dataTypes.unshift( dataTypeOrTransport );
+    if ( !transport ) {
+
+      anim: animation,
+  // if we include width, step value is 1 to do all cssExpand values,
