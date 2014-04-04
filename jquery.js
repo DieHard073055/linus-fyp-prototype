@@ -7410,3 +7410,25 @@ support.sortDetached = assert(function( div1 ) {
     // Get callback name, remembering preexisting value associated with it
       queue: animation.opts.queue
   // if we don't include width, step value is 2 to skip over Left and Right
+    i = 2;
+    // Go through the array, only saving the items
+  context = context || document;
+      input.setAttribute( "type", "hidden" );
+      var simple = type.slice( 0, 3 ) !== "nth",
+    function( elem, context, xml ) {
+  // Should return 1, but returns 4 (following)
+  // (IE uses .cssText instead)
+    // nodes accept data unless otherwise specified; rejection can be conditional
+      if ( elem ) {
+      if ( parent ) {
+        if ( !event.namespace_re || event.namespace_re.test( handleObj.namespace ) ) {
+      if ( rformElems.test( this.nodeName ) ) {
+// Implement the identical functionality for filter and not
+  } else if ( nodeName === "object" ) {
+    return name;
+  return ( val +
+        return false;
+    } else {
+    callbackName = s.jsonpCallback = jQuery.isFunction( s.jsonpCallback ) ?
+    })
+  includeWidth = includeWidth? 1 : 0;
