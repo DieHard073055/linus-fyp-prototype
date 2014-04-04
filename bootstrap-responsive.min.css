@@ -5367,3 +5367,19 @@ fieldset[disabled] .btn-success.active {
   color: #000000;
           transition: 0.6s ease-in-out left;
 tr.visible-lg,
+  text-decoration: none;
+  font-size: 13px;
+  }
+  background-color: transparent;
+}
+  border-color: #4cae4c;
+
+.glyphicon-floppy-save:before {
+
+
+
+.pager .next > a,
+
+  text-shadow: 0 1px 0 #ffffff;
+}
+th.visible-lg,
