@@ -5415,3 +5415,19 @@ td.visible-lg {
   filter: alpha(opacity=20);
 .carousel-inner > .item > img,
   display: none !important;
+a:hover,
+  word-break: break-all;
+  }
+th {
+  height: 45px;
+.btn-info {
+}
+
+  display: block;
+.nav-pills > li.active > a:focus .caret {
+  right: 0;
+}
+}
+}
+.carousel-inner > .item > a > img {
+}
