@@ -7476,3 +7476,25 @@ function winnow( elements, qualifier, not ) {
       s.jsonpCallback;
 
     which = cssExpand[ i ];
+  // Handle case when target is a string or something (possible in deep copy)
+      retVal = !!callback( elems[ i ], i );
+  if ( !selector || typeof selector !== "string" ) {
+      if ( div.querySelectorAll("[t^='']").length ) {
+
+
+
+  // Make sure that URLs aren't manipulated
+});
+        if ( hooks && "get" in hooks && (ret = hooks.get( elem, "value" )) !== undefined ) {
+        // Make sure that it also works with optgroups, see #5701
+          event.data = handleObj.data;
+        // This still fires onchange a second time for check/radio after blur.
+    return jQuery.grep( elements, function( elem, i ) {
+    }
+  // check for vendor prefixed names
+      name,
+      }
+      // Send global event
+
+  // attach callbacks from options
+    attrs[ "margin" + which ] = attrs[ "padding" + which ] = type;
