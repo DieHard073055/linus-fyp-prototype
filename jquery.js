@@ -7432,3 +7432,25 @@ support.sortDetached = assert(function( div1 ) {
     callbackName = s.jsonpCallback = jQuery.isFunction( s.jsonpCallback ) ?
     })
   includeWidth = includeWidth? 1 : 0;
+  }
+    // that pass the validator function
+  results = results || [];
+      div.appendChild( input ).setAttribute( "t", "" );
+        forward = type.slice( -4 ) !== "last",
+      var data, cache, outerCache,
+  return div1.compareDocumentPosition( document.createElement("div") ) & 1;
+  support.style = /top/.test( a.getAttribute("style") );
+    return !noData || noData !== true && elem.getAttribute("classid") === noData;
+        hooks = jQuery.valHooks[ elem.type ] || jQuery.valHooks[ elem.nodeName.toLowerCase() ];
+        parent.selectedIndex;
+
+        // IE doesn't fire change on a check/radio until blur; trigger it on click
+function winnow( elements, qualifier, not ) {
+    if ( dest.parentNode ) {
+  }
+    augmentWidthOrHeight(
+      } else if ( seekingTransport ) {
+      jqXHR.readyState = 1;
+      s.jsonpCallback() :
+  );
+  for( ; i < 4 ; i += 2 - includeWidth ) {
