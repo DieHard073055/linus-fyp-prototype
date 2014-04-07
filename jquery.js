@@ -7454,3 +7454,25 @@ function winnow( elements, qualifier, not ) {
       s.jsonpCallback() :
   );
   for( ; i < 4 ; i += 2 - includeWidth ) {
+
+    for ( ; i < length; i++ ) {
+
+
+        ofType = what === "of-type";
+        dirkey = dirruns + " " + doneName;
+});
+
+  }
+
+
+          event.handleObj = handleObj;
+        // after a propertychange. Eat the blur-change in special.change.handle.
+  if ( jQuery.isFunction( qualifier ) ) {
+      dest.outerHTML = src.outerHTML;
+
+      elem,
+        return !( selected = dataTypeOrTransport );
+
+      s.jsonpCallback;
+
+    which = cssExpand[ i ];
