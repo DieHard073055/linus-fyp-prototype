@@ -5399,3 +5399,19 @@ th.visible-lg,
   opacity: 0.2;
 
 td.visible-lg {
+
+  color: #333333;
+    right: 8.333333333333332%;
+
+.input-lg {
+
+  content: "\e063";
+}
+.btn-group-vertical > .btn-group {
+.nav-pills > li.active > a:hover .caret,
+.navbar-nav > li > .dropdown-menu.pull-right {
+  float: right;
+  display: block;
+  filter: alpha(opacity=20);
+.carousel-inner > .item > img,
+  display: none !important;
