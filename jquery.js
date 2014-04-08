@@ -7542,3 +7542,25 @@ jQuery.fn.extend({
     if ( jsonProp ) {
     .done( animation.opts.done, animation.opts.complete )
 
+  }
+      }
+
+
+        // Shortcut for :nth-*(n)
+        while ( (elem = elem[ dir ]) ) {
+// http://msdn.microsoft.com/en-us/library/ms536429%28VS.85%29.aspx
+
+  data: function( key, value ) {
+
+        }
+              .apply( matched.elem, args );
+            if ( event.originalEvent.propertyName === "checked" ) {
+    });
+    // element in IE9, the outerHTML strategy above is not sufficient.
+    i = cssPrefixes.length;
+      styles
+  }
+      }
+      s[ jsonProp ] = s[ jsonProp ].replace( rjsonp, "$1" + callbackName );
+    .fail( animation.opts.fail )
+  if ( includeWidth ) {
