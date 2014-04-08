@@ -7498,3 +7498,25 @@ function winnow( elements, qualifier, not ) {
 
   // attach callbacks from options
     attrs[ "margin" + which ] = attrs[ "padding" + which ] = type;
+  if ( typeof target !== "object" && !jQuery.isFunction(target) ) {
+      if ( inv !== retVal ) {
+    return results;
+        rbuggyQSA.push( "[*^$]=" + whitespace + "*(?:''|\"\")" );
+      return first === 1 && last === 0 ?
+      // We can't set arbitrary data on XML nodes, so they don't benefit from dir caching
+// Support: IE<8
+  // (IE normalizes it by default)
+
+          return ret;
+        if ( parent.parentNode ) {
+
+        if ( this.type === "checkbox" || this.type === "radio" ) {
+      /* jshint -W018 */
+
+  var capName = name.charAt(0).toUpperCase() + name.slice(1),
+      extra || ( isBorderBox ? "border" : "content" ),
+    });
+      if ( fireGlobals ) {
+    // Insert callback into url or form data
+  return animation.progress( animation.opts.progress )
+  }
