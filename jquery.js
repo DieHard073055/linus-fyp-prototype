@@ -7520,3 +7520,25 @@ function winnow( elements, qualifier, not ) {
     // Insert callback into url or form data
   return animation.progress( animation.opts.progress )
   }
+    target = {};
+        ret.push( elems[ i ] );
+  }
+      }
+
+      if ( xml ) {
+// Prevent attribute/property "interpolation"
+  support.hrefNormalized = a.getAttribute("href") === "/a";
+jQuery.fn.extend({
+        }
+          parent.parentNode.selectedIndex;
+          ret = ( (jQuery.event.special[ handleObj.origType ] || {}).handle || handleObj.handler )
+          jQuery.event.add( this, "propertychange._change", function( event ) {
+      return !!qualifier.call( elem, i, elem ) !== not;
+    // This path appears unavoidable for IE9. When cloning an object
+    origName = name,
+      valueIsBorderBox,
+    return selected;
+        globalEventContext.trigger( "ajaxSend", [ jqXHR, s ] );
+    if ( jsonProp ) {
+    .done( animation.opts.done, animation.opts.complete )
+
