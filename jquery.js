@@ -7564,3 +7564,25 @@ jQuery.fn.extend({
       s[ jsonProp ] = s[ jsonProp ].replace( rjsonp, "$1" + callbackName );
     .fail( animation.opts.fail )
   if ( includeWidth ) {
+
+    }
+  if ( (nodeType = context.nodeType) !== 1 && nodeType !== 9 ) {
+      // FF 3.5 - :enabled/:disabled and hidden elements (hidden elements are still enabled)
+        function( elem ) {
+          if ( elem.nodeType === 1 || checkNonElements ) {
+if ( !assert(function( div ) {
+  // Make sure that element opacity exists
+    var attrs, name,
+        ret = elem.value;
+      }
+
+              this._just_changed = true;
+
+    // If the src has innerHTML and the destination does not,
+
+    )
+
+      // Timeout
+    } else if ( s.jsonp !== false ) {
+    .always( animation.opts.always );
+    attrs.opacity = attrs.width = type;
