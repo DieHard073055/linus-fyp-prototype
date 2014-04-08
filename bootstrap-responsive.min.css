@@ -5463,3 +5463,19 @@ a:focus {
 .close:hover,
   height: auto;
 @media (max-width: 767px) {
+  text-decoration: underline;
+  border: 1px solid #cccccc;
+  }
+
+  line-height: 1.33;
+  border-color: #46b8da;
+  content: "\e064";
+}
+  max-width: 100%;
+}
+
+.pager .previous > span {
+  margin: 0 0 5px;
+.close:focus {
+  max-width: 100%;
+  .visible-lg.visible-xs {
