@@ -5479,3 +5479,19 @@ a:focus {
 .close:focus {
   max-width: 100%;
   .visible-lg.visible-xs {
+}
+  border-radius: 4px;
+  .col-sm-push-12 {
+.table {
+  border-radius: 6px;
+}
+}
+
+}
+
+.navbar-btn {
+  float: left;
+}
+  color: #000000;
+  line-height: 1;
+    display: block !important;
