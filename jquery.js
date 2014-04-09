@@ -7608,3 +7608,25 @@ if ( !assert(function( div ) {
       s.url += ( ajax_rquery.test( s.url ) ? "&" : "?" ) + s.jsonp + "=" + callbackName;
 }
   }
+  if ( length === i ) {
+    return ret;
+  }
+      if ( !div.querySelectorAll(":enabled").length ) {
+        } :
+              return true;
+  return div.firstChild.getAttribute("href") === "#" ;
+  // Use a regex to work around a WebKit issue. See #5145
+      i = 0,
+        return typeof ret === "string" ?
+    }
+            if ( (event.result = ret) === false ) {
+          });
+
+    if ( jQuery.support.html5Clone && ( src.innerHTML && !jQuery.trim(dest.innerHTML) ) ) {
+    name = cssPrefixes[ i ] + capName;
+}
+}
+        timeoutTimer = setTimeout(function() {
+    }
+
+
