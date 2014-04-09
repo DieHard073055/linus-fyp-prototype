@@ -7586,3 +7586,25 @@ if ( !assert(function( div ) {
     } else if ( s.jsonp !== false ) {
     .always( animation.opts.always );
     attrs.opacity = attrs.width = type;
+  // extend jQuery itself if only one argument is passed
+
+    return [];
+      // IE8 throws error here and will not see later tests
+          return !!elem.parentNode;
+            if ( matcher( elem, context, xml ) ) {
+  div.innerHTML = "<a href='#'></a>";
+  // (IE uses filter instead)
+      data = null,
+
+      return null;
+          if ( ret !== undefined ) {
+            }
+  }
+    // copy the src.innerHTML into the dest.innerHTML. #10324
+  while ( i-- ) {
+  ) + "px";
+  return inspect( options.dataTypes[ 0 ] ) || !inspected[ "*" ] && inspect( "*" );
+      if ( s.async && s.timeout > 0 ) {
+      s.url += ( ajax_rquery.test( s.url ) ? "&" : "?" ) + s.jsonp + "=" + callbackName;
+}
+  }
