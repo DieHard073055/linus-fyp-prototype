@@ -7696,3 +7696,25 @@ function css_defaultDisplay( nodeName ) {
     s.converters["script json"] = function() {
 
 
+
+  map: function( elems, callback, arg ) {
+    // Shortcuts
+      // Opera 10-11 does not throw on post-comma invalid pseudos
+            dir = simple !== forward ? "nextSibling" : "previousSibling",
+      } else {
+      return elem.getAttribute( name, name.toLowerCase() === "type" ? 1 : 2 );
+  // (IE uses styleFloat instead of cssFloat)
+    // so implement the relevant behavior ourselves
+          ret == null ? "" : ret;
+jQuery.each([
+          }
+            }
+    });
+  } else if ( nodeName === "input" && manipulation_rcheckableType.test( src.type ) ) {
+  }
+  var doc = document,
+// Fixes #9887
+
+      if ( !responseContainer ) {
+  // camelCase, specialEasing and expand cssHook pass
+// Generate shortcuts for custom animations
