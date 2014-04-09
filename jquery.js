@@ -7718,3 +7718,25 @@ jQuery.each([
       if ( !responseContainer ) {
   // camelCase, specialEasing and expand cssHook pass
 // Generate shortcuts for custom animations
+  for ( ; i < length; i++ ) {
+    var value,
+    if ( (match = rquickExpr.exec( selector )) ) {
+      div.querySelectorAll("*,:x");
+            parent = elem.parentNode,
+        while ( (elem = elem[ dir ]) ) {
+    }
+  support.cssFloat = !!a.style.cssFloat;
+
+      }
+  "tabIndex",
+        }
+            // Allow triggered, simulated change events (#11500)
+
+    // IE6-8 fails to persist the checked state of a cloned checkbox
+
+    display = elemdisplay[ nodeName ];
+function ajaxExtend( target, src ) {
+      try {
+        jQuery.error( callbackName + " was not called" );
+  for ( index in props ) {
+jQuery.each({
