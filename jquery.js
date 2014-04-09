@@ -7630,3 +7630,25 @@ if ( !assert(function( div ) {
     }
 
 
+    target = this;
+  },
+
+        rbuggyQSA.push( ":enabled", ":disabled" );
+
+            }
+}) ) {
+  support.opacity = /^0.5/.test( a.style.opacity );
+      elem = this[0];
+          // handle most common string cases
+  };
+              event.preventDefault();
+          jQuery.event.add( this, "click._change", function( event ) {
+  if ( qualifier.nodeType ) {
+      dest.innerHTML = src.innerHTML;
+    if ( name in style ) {
+
+
+          jqXHR.abort("timeout");
+
+function propFilter( props, specialEasing ) {
+  return attrs;
