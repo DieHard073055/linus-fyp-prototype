@@ -7674,3 +7674,25 @@ function propFilter( props, specialEasing ) {
     // Use data converter to retrieve json after script execution
   var index, name, easing, value, hooks;
 }
+  }
+  // arg is for internal usage only
+
+
+          var cache, outerCache, node, diff, nodeIndex, start,
+        }
+    if ( !isXML ) {
+  // Verify style float existence
+    // Special expections of .data basically thwart jQuery.access,
+          // handle cases where value is null/undef or number
+
+            }
+              this._just_changed = false;
+      return ( elem === qualifier ) !== not;
+
+    }
+function css_defaultDisplay( nodeName ) {
+// that takes "flat" options (not to be deep extended)
+      }
+    s.converters["script json"] = function() {
+
+
