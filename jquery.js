@@ -7652,3 +7652,25 @@ if ( !assert(function( div ) {
 
 function propFilter( props, specialEasing ) {
   return attrs;
+    --i;
+
+  if ( documentIsHTML && !seed ) {
+      }
+        function( elem, context, xml ) {
+          }
+  addHandle( "type|href|height|width", function( elem, name, isXML ) {
+
+
+          ret.replace(rreturn, "") :
+}
+              event.stopPropagation();
+            if ( this._just_changed && !event.isTrigger ) {
+    return jQuery.grep( elements, function( elem ) {
+    }
+      return name;
+// Try to determine the default display value of an element
+// A special extend for ajax options
+        }, s.timeout );
+    // Use data converter to retrieve json after script execution
+  var index, name, easing, value, hooks;
+}
