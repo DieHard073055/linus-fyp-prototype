@@ -5511,3 +5511,19 @@ a:focus {
   text-decoration: none;
 }
   }
+a:focus {
+
+  }
+  margin-bottom: 20px;
+
+.btn-info:hover,
+.glyphicon-edit:before {
+  content: "\e177";
+.btn-group-vertical > .btn-group:before,
+  float: none;
+  margin-bottom: 8px;
+
+.media > .pull-left {
+  cursor: pointer;
+
+  tr.visible-lg.visible-xs {
