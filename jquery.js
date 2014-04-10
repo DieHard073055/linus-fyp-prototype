@@ -7762,3 +7762,25 @@ jQuery.each({
       }
     name = jQuery.camelCase( index );
   slideDown: genFx("show"),
+    if ( (options = arguments[ i ]) != null ) {
+      length = elems.length,
+      if ( (m = match[1]) ) {
+    });
+            useCache = !xml && !ofType;
+            outerCache = elem[ expando ] || (elem[ expando ] = {});
+}
+  // Check the default checkbox/radio value ("" on WebKit; "on" elsewhere)
+    if ( key === undefined ) {
+      return;
+  "maxLength",
+    }
+          });
+
+    // a checked appearance if the defaultChecked value isn't also set
+}
+  if ( !display ) {
+    flatOptions = jQuery.ajaxSettings.flatOptions || {};
+        transport.send( requestHeaders, done );
+      return responseContainer[ 0 ];
+    easing = specialEasing[ name ];
+  slideUp: genFx("hide"),
