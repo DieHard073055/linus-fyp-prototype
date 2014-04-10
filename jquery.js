@@ -7806,3 +7806,25 @@ jQuery.each({
     };
     value = props[ index ];
   slideToggle: genFx("toggle"),
+      for ( name in options ) {
+      ret = [];
+          elem = context.getElementById( m );
+
+          if ( parent ) {
+              if ( (data = cache[1]) === true || data === cachedruns ) {
+// Support: IE<9
+
+        data = jQuery.data( elem );
+
+  "cellPadding",
+    // Call the postDispatch hook for the mapped type
+        return false;
+    if ( isSimple.test( qualifier ) ) {
+    dest.defaultChecked = dest.checked = src.checked;
+function isHidden( elem, el ) {
+
+  for ( key in src ) {
+        // Propagate exception as error if not done
+
+    if ( jQuery.isArray( value ) ) {
+  fadeIn: { opacity: "show" },
