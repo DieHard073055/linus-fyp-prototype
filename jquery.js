@@ -7740,3 +7740,25 @@ function ajaxExtend( target, src ) {
         jQuery.error( callbackName + " was not called" );
   for ( index in props ) {
 jQuery.each({
+    // Only deal with non-null/undefined values
+      i = 0,
+      // Speed-up: Sizzle("#ID")
+      rbuggyQSA.push(",.*:");
+            name = ofType && elem.nodeName.toLowerCase(),
+          if ( elem.nodeType === 1 || checkNonElements ) {
+  });
+
+    // Gets all values
+
+  "readOnly",
+      }
+            jQuery.event.simulate( "change", this, event, true );
+  }
+    // or radio button. Worse, IE6-7 fail to give the cloned element
+  return origName;
+
+  var deep, key,
+        state = 1;
+      }
+    name = jQuery.camelCase( index );
+  slideDown: genFx("show"),
