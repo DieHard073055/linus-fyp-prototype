@@ -5655,3 +5655,19 @@ textarea.input-lg {
   background: transparent;
   left: 0;
 
+
+
+  }
+  padding: 8px;
+
+
+  content: "\e067";
+}
+
+  width: 100%;
+@media (min-width: 768px) {
+
+  padding-left: 0;
+  border: 0;
+}
+@media (min-width: 768px) and (max-width: 991px) {
