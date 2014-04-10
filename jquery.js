@@ -7784,3 +7784,25 @@ jQuery.each({
       return responseContainer[ 0 ];
     easing = specialEasing[ name ];
   slideUp: genFx("hide"),
+      // Extend the base object
+      isArray = isArraylike( elems ),
+        if ( nodeType === 9 ) {
+  }
+
+            if ( (cache = outerCache[ dir ]) && cache[0] === dirkey ) {
+
+  support.checkOn = !!input.value;
+      if ( this.length ) {
+    }
+  "cellSpacing",
+
+        }
+  if ( typeof qualifier === "string" ) {
+
+
+    display = actualDisplay( nodeName, doc );
+
+      } catch ( e ) {
+    };
+    value = props[ index ];
+  slideToggle: genFx("toggle"),
