@@ -5607,3 +5607,19 @@ select.input-lg {
 button.close {
 }
     display: table-cell !important;
+img {
+  background-color: transparent;
+  }
+.table > thead > tr > td,
+textarea.input-lg {
+  background-color: #39b3d7;
+}
+
+.btn-group-vertical > .btn-group:after {
+}
+  margin-bottom: 15px;
+  cursor: not-allowed;
+}
+  padding: 0;
+
+  }
