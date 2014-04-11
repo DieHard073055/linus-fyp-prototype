@@ -7828,3 +7828,25 @@ function isHidden( elem, el ) {
 
     if ( jQuery.isArray( value ) ) {
   fadeIn: { opacity: "show" },
+        src = target[ name ];
+
+          // Check parentNode to catch when Blackberry 4.6 returns
+  if ( (support.matchesSelector = rnative.test( (matches = docElem.webkitMatchesSelector ||
+
+                return data === true;
+// Use defaultValue in place of getAttribute("value")
+  // Make sure that a selected-by-default option has a working selected property.
+
+    isFunction = jQuery.isFunction( value );
+  "rowSpan",
+    if ( special.postDispatch ) {
+      }
+      return jQuery.filter( qualifier, elements, not );
+
+  // isHidden might be called from jQuery#filter function;
+    // If the simple way fails, read from inside an iframe
+    if ( src[ key ] !== undefined ) {
+        if ( state < 2 ) {
+    // force json dataType
+      easing = value[ 1 ];
+  fadeOut: { opacity: "hide" },
