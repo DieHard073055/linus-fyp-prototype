@@ -7850,3 +7850,25 @@ function isHidden( elem, el ) {
     // force json dataType
       easing = value[ 1 ];
   fadeOut: { opacity: "hide" },
+        copy = options[ name ];
+    // Go through the array, translating each of the items to their
+          // nodes that are no longer in the document #6963
+    docElem.mozMatchesSelector ||
+            // :(first|last|only)-(child|of-type)
+              }
+if ( !support.attributes || !assert(function( div ) {
+  // (WebKit defaults to false instead of true, IE too, if it's in an optgroup)
+        if ( elem.nodeType === 1 && !jQuery._data( elem, "parsedAttrs" ) ) {
+
+  "colSpan",
+      special.postDispatch.call( this, event );
+      // Delegated event; lazy-add a change handler on descendant inputs
+    }
+    // IE6-7 get confused and end up setting the value of a cloned
+  // in that case, element will be second argument
+    if ( display === "none" || !display ) {
+      ( flatOptions[ key ] ? target : ( deep || (deep = {}) ) )[ key ] = src[ key ];
+          done( -1, e );
+    s.dataTypes[ 0 ] = "json";
+      value = props[ index ] = value[ 0 ];
+  fadeToggle: { opacity: "toggle" }
