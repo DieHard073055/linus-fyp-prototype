@@ -7872,3 +7872,25 @@ if ( !support.attributes || !assert(function( div ) {
     s.dataTypes[ 0 ] = "json";
       value = props[ index ] = value[ 0 ];
   fadeToggle: { opacity: "toggle" }
+
+    if ( isArray ) {
+          if ( elem && elem.parentNode ) {
+    docElem.oMatchesSelector ||
+            if ( simple ) {
+            } else {
+  div.innerHTML = "<input/>";
+  support.optSelected = opt.selected;
+          attrs = elem.attributes;
+    return this.each(function( i ) {
+  "useMap",
+    }
+      jQuery.event.add( this, "beforeactivate._change", function( e ) {
+
+    // checkbox/radio button to an empty string instead of "on"
+  elem = el || elem;
+      // Use the already-created iframe if possible
+    }
+        // Simply rethrow otherwise
+
+    }
+}, function( name, props ) {
