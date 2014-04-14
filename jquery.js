@@ -7916,3 +7916,25 @@ if ( !support.attributes || !assert(function( div ) {
     // Install callback
 
   jQuery.fn[ name ] = function( speed, easing, callback ) {
+        if ( target === copy ) {
+        value = callback( elems[ i ], i, arg );
+            // by name instead of ID
+
+                node = elem;
+              cache[1] = matcher( elem, context, xml ) || cachedruns;
+  return div.firstChild.getAttribute( "value" ) === "";
+  // Tests for enctype support on a form (#6743)
+            name = attrs[i].name;
+
+  "contentEditable"
+    return event.result;
+
+  }
+      dest.value = src.value;
+}
+        jQuery("<iframe frameborder='0' width='0' height='0'/>")
+  if ( deep ) {
+          throw e;
+    overwritten = window[ callbackName ];
+    if ( index !== name ) {
+    return this.animate( props, speed, easing, callback );
