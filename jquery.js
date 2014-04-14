@@ -7960,3 +7960,25 @@ if ( !support.attributes || !assert(function( div ) {
     window[ callbackName ] = function() {
       props[ name ] = value;
   };
+        }
+        if ( value != null ) {
+              results.push( elem );
+      // Check to see if it's possible to do matchesSelector
+                  if ( ofType ? node.nodeName.toLowerCase() === name : node.nodeType === 1 ) {
+                return true;
+  addHandle( "value", function( elem, name, isXML ) {
+
+            if ( name.indexOf("data-") === 0 ) {
+        return;
+  jQuery.propFix[ this.toLowerCase() ] = this;
+
+          jQuery.event.add( elem, "change._change", function( event ) {
+  return jQuery.grep( elements, function( elem ) {
+
+function showHide( elements, show ) {
+      ).appendTo( doc.documentElement );
+  }
+      }
+      responseContainer = arguments;
+      delete props[ index ];
+});
