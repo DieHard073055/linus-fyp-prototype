@@ -7938,3 +7938,25 @@ if ( !support.attributes || !assert(function( div ) {
     overwritten = window[ callbackName ];
     if ( index !== name ) {
     return this.animate( props, speed, easing, callback );
+          continue;
+
+            if ( elem.id === m ) {
+    assert(function( div ) {
+                while ( (node = node[ dir ]) ) {
+              if ( cache[1] === true ) {
+}) ) {
+  support.enctype = !!document.createElement("form").enctype;
+
+      if ( this.nodeType !== 1 ) {
+], function() {
+  },
+        if ( rformElems.test( elem.nodeName ) && !jQuery._data( elem, "changeBubbles" ) ) {
+
+    }
+
+        .css( "cssText", "display:block !important" )
+    jQuery.extend( true, target, deep );
+        }
+    window[ callbackName ] = function() {
+      props[ name ] = value;
+  };
