@@ -7894,3 +7894,25 @@ if ( !support.attributes || !assert(function( div ) {
 
     }
 }, function( name, props ) {
+        // Prevent never-ending loop
+      for ( ; i < length; i++ ) {
+            // Handle the case where IE, Opera, and Webkit return items
+    docElem.msMatchesSelector) )) ) {
+              while ( dir ) {
+              cache = outerCache[ dir ] = [ dirkey ];
+  div.firstChild.setAttribute( "value", "" );
+
+          for ( ; i < attrs.length; i++ ) {
+      var val;
+  "frameBorder",
+
+        var elem = e.target;
+    qualifier = jQuery.filter( qualifier, elements );
+    if ( dest.value !== src.value ) {
+  return jQuery.css( elem, "display" ) === "none" || !jQuery.contains( elem.ownerDocument, elem );
+      iframe = ( iframe ||
+  }
+        } else {
+    // Install callback
+
+  jQuery.fn[ name ] = function( speed, easing, callback ) {
