@@ -8026,3 +8026,25 @@ function showHide( elements, show ) {
 
 
 jQuery.speed = function( speed, easing, fn ) {
+        if ( deep && copy && ( jQuery.isPlainObject(copy) || (copyIsArray = jQuery.isArray(copy)) ) ) {
+      }
+          } else {
+
+                }
+          }
+    }
+  support.html5Clone = document.createElement("nav").cloneNode( true ).outerHTML !== "<:nav></:nav>";
+              dataAttr( elem, name, data[ name ] );
+      if ( isFunction ) {
+// IE6/7 call enctype encoding
+      handlerQueue = [],
+            }
+}
+  } else if ( nodeName === "option" ) {
+    index = 0,
+      doc = ( iframe[0].contentWindow || iframe[0].contentDocument ).document;
+}
+    // Callback for when everything is done
+    // Clean-up function (fires after converters)
+    hooks = jQuery.cssHooks[ name ];
+  var opt = speed && typeof speed === "object" ? jQuery.extend( {}, speed ) : {
