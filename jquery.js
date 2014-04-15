@@ -8004,3 +8004,25 @@ function showHide( elements, show ) {
     };
     }
 
+        // Recurse if we're merging plain objects or arrays
+        }
+            }
+      support.disconnectedMatch = matches.call( div, "div" );
+                  }
+            }
+      return elem.defaultValue;
+  // Where outerHTML is undefined, this still works
+
+
+
+    var sel, handleObj, matches, i,
+              jQuery.event.simulate( "change", this.parentNode, event, true );
+  });
+  // state when cloning options
+    values = [],
+      // Always write a new HTML skeleton so Webkit and Firefox don't choke on reuse
+  return target;
+
+
+
+jQuery.speed = function( speed, easing, fn ) {
