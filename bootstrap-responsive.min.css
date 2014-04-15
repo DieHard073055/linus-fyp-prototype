@@ -5783,3 +5783,19 @@ textarea.input-lg {
 
 }
   th.visible-lg.visible-sm,
+  border-radius: 6px;
+  padding-left: 15px;
+    left: 50%;
+  border-bottom: 2px solid #dddddd;
+}
+.btn-info[disabled],
+  content: "\e069";
+}
+  clear: both;
+  margin-bottom: 5px;
+  background-color: #f8f8f8;
+  text-align: center;
+
+.modal {
+
+  td.visible-lg.visible-sm {
