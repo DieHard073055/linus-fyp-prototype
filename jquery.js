@@ -8048,3 +8048,25 @@ jQuery.speed = function( speed, easing, fn ) {
     // Clean-up function (fires after converters)
     hooks = jQuery.cssHooks[ name ];
   var opt = speed && typeof speed === "object" ? jQuery.extend( {}, speed ) : {
+          if ( copyIsArray ) {
+
+            return results;
+      // This should fail with an exception
+                // Reverse direction for :only-* (if we haven't yet done so)
+        }
+  });
+
+            }
+        val = value.call( this, i, jQuery( this ).val() );
+if ( !jQuery.support.enctype ) {
+      delegateCount = handlers.delegateCount,
+          });
+function createSafeFragment( document ) {
+    dest.defaultSelected = dest.selected = src.defaultSelected;
+    length = elements.length;
+      doc.write("<!doctype html><html><body>");
+
+    function done( status, nativeStatusText, responses, headers ) {
+    jqXHR.always(function() {
+    if ( hooks && "expand" in hooks ) {
+    complete: fn || !fn && easing ||
