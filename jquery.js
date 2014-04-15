@@ -7982,3 +7982,25 @@ function showHide( elements, show ) {
       responseContainer = arguments;
       delete props[ index ];
 });
+
+          ret[ ret.length ] = value;
+              return results;
+      // on a disconnected node (IE 9)
+                    return false;
+              }
+    if ( !isXML && elem.nodeName.toLowerCase() === "input" ) {
+  // Makes sure cloning an html5 element does not cause problems
+              name = jQuery.camelCase( name.slice(5) );
+      }
+});
+  handlers: function( event, handlers ) {
+            if ( this.parentNode && !event.isSimulated && !event.isTrigger ) {
+    return ( jQuery.inArray( elem, qualifier ) >= 0 ) !== not;
+  // IE6-8 fails to return the selected option to the default selected
+  var display, elem, hidden,
+
+
+    }
+    };
+    }
+
