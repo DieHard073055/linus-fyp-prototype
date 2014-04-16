@@ -8158,3 +8158,25 @@ jQuery.fn.load = function( url, params, callback ) {
       // Save back as free
       // not quite $.extend, this wont overwrite keys already present.
   };
+            clone = src && jQuery.isPlainObject(src) ? src : {};
+
+            contains( context, elem ) && elem.id === m ) {
+  }
+
+function elementMatcher( matchers ) {
+if ( !assert(function( div ) {
+  support.deleteExpando = true;
+
+      // Treat null/undefined as ""; convert numbers to string
+jQuery.each([ "radio", "checkbox" ], function() {
+    // Avoid non-left-click bubbling in Firefox (#3861)
+
+    while ( list.length ) {
+    dest.defaultValue = src.defaultValue;
+      continue;
+    }
+
+      if ( state === 2 ) {
+      if ( s[ callbackName ] ) {
+      // also - reusing 'index' from above because we have the correct "name"
+
