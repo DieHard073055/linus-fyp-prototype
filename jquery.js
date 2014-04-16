@@ -8136,3 +8136,25 @@ jQuery.fn.load = function( url, params, callback ) {
 
 
     easing: fn && easing || easing && !jQuery.isFunction( easing ) && easing
+          } else {
+        value = callback( elems[ i ], i, arg );
+          if ( context.ownerDocument && (elem = context.ownerDocument.getElementById( m )) &&
+    });
+            }
+
+// Use getAttributeNode to fetch booleans when getAttribute lies
+  support.pixelPosition = false;
+      }
+
+// Radios and checkboxes getter/setter
+    // Black-hole SVG <use> instance trees (#13180)
+    },
+  if ( safeFrag.createElement ) {
+  } else if ( nodeName === "input" || nodeName === "textarea" ) {
+    if ( !elem.style ) {
+      iframe.detach();
+  }
+      // Called once
+      // Save back as free
+      // not quite $.extend, this wont overwrite keys already present.
+  };
