@@ -5879,3 +5879,19 @@ fieldset[disabled] .btn-info:hover,
   left: 0;
 .carousel-inner > .prev {
 @media (min-width: 992px) and (max-width: 1199px) {
+  max-width: 100%;
+.container:after {
+    left: 33.33333333333333%;
+.table > caption + thead > tr:first-child > td,
+}
+.btn-info[disabled]:focus,
+
+.glyphicon-phone-alt:before {
+
+  left: auto;
+}
+.label[href]:hover,
+  background-color: #ffffff;
+  z-index: 1040;
+  left: -100%;
+  .visible-lg.visible-md {
