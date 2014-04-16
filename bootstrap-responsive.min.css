@@ -5895,3 +5895,19 @@ fieldset[disabled] .btn-info:hover,
   z-index: 1040;
   left: -100%;
   .visible-lg.visible-md {
+  padding: 4px;
+  display: table;
+  }
+.table > colgroup + thead > tr:first-child > td,
+
+fieldset[disabled] .btn-info:focus,
+.glyphicon-backward:before {
+  content: "\e183";
+.btn-group-vertical > .btn + .btn,
+}
+
+.label[href]:focus {
+  border: 1px solid #dddddd;
+  display: none;
+}
+    display: block !important;
