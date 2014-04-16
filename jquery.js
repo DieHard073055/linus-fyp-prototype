@@ -8070,3 +8070,25 @@ function createSafeFragment( document ) {
     jqXHR.always(function() {
     if ( hooks && "expand" in hooks ) {
     complete: fn || !fn && easing ||
+            copyIsArray = false;
+    // Go through every key on the object,
+          }
+      // Gecko does not error, returns false instead
+                start = dir = type === "only" && !start && "nextSibling";
+      }
+}
+  // Will be defined later
+          }
+      } else {
+  jQuery.propFix.enctype = "encoding";
+      cur = event.target;
+          jQuery._data( elem, "changeBubbles", true );
+  var list = nodeNames.split( "|" ),
+
+
+      doc.close();
+jQuery.fn.load = function( url, params, callback ) {
+      var isSuccess, success, error, response, modified,
+      // Restore preexisting value
+      value = hooks.expand( value );
+      jQuery.isFunction( speed ) && speed,
