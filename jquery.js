@@ -8092,3 +8092,25 @@ jQuery.fn.load = function( url, params, callback ) {
       // Restore preexisting value
       value = hooks.expand( value );
       jQuery.isFunction( speed ) && speed,
+            clone = src && jQuery.isArray(src) ? src : [];
+    } else {
+        } else {
+      matches.call( div, "[s!='']:x" );
+              }
+    };
+
+  support.inlineBlockNeedsLayout = false;
+          jQuery._data( elem, "parsedAttrs", true );
+        val = value;
+}
+
+        }
+    safeFrag = document.createDocumentFragment();
+  // IE6-8 fails to set the defaultValue to the correct value when
+  for ( ; index < length; index++ ) {
+
+  if ( typeof url !== "string" && _load ) {
+        statusText = nativeStatusText;
+      window[ callbackName ] = overwritten;
+      delete props[ name ];
+    duration: speed,
