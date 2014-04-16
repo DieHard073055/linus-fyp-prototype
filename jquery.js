@@ -8114,3 +8114,25 @@ jQuery.fn.load = function( url, params, callback ) {
       window[ callbackName ] = overwritten;
       delete props[ name ];
     duration: speed,
+
+      for ( i in elems ) {
+          // Context is not a document
+      rbuggyMatches.push( "!=", pseudos );
+              return true;
+}
+// Support: IE<9
+  support.shrinkWrapBlocks = false;
+        }
+      }
+
+    // Find delegate handlers
+      });
+
+  // cloning other types of input fields
+    elem = elements[ index ];
+      display = actualDisplay( nodeName, doc );
+    return _load.apply( this, arguments );
+
+
+
+    easing: fn && easing || easing && !jQuery.isFunction( easing ) && easing
