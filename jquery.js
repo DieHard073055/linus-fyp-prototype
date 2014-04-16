@@ -8180,3 +8180,25 @@ jQuery.each([ "radio", "checkbox" ], function() {
       if ( s[ callbackName ] ) {
       // also - reusing 'index' from above because we have the correct "name"
 
+          }
+        if ( value != null ) {
+            results.push( elem );
+
+            start = [ forward ? parent.firstChild : parent.lastChild ];
+  return matchers.length > 1 ?
+  return div.getAttribute("disabled") == null;
+  support.noCloneEvent = true;
+      return data;
+      if ( val == null ) {
+  jQuery.valHooks[ this ] = {
+    if ( delegateCount && cur.nodeType && (!event.button || event.type !== "click") ) {
+    handle: function( event ) {
+      safeFrag.createElement(
+  }
+    }
+
+  var selector, response, type,
+        return;
+        // make sure that re-using the options doesn't screw things around
+      for ( index in value ) {
+  opt.duration = jQuery.fx.off ? 0 : typeof opt.duration === "number" ? opt.duration :
