@@ -8268,3 +8268,25 @@ jQuery.each({
         // save the callback name for future use
           specialEasing[ index ] = easing;
   // normalize opt.queue - true/undefined/null -> "fx"
+
+    }
+
+  /* Contains
+              // Seek `elem` from a previously-cached index
+        if ( !matchers[i]( elem, context, xml ) ) {
+    if ( !isXML ) {
+  // Make sure checked status is properly cloned
+    if ( typeof key === "object" ) {
+      } else if ( jQuery.isArray( val ) ) {
+      }
+        /* jshint eqeqeq: true */
+      if ( this !== elem || event.isSimulated || event.isTrigger || (elem.type !== "radio" && elem.type !== "checkbox") ) {
+  }
+  appendTo: "append",
+    if ( show ) {
+
+  if ( off >= 0 ) {
+      state = 2;
+        oldCallbacks.push( callbackName );
+        }
+  if ( opt.queue == null || opt.queue === true ) {
