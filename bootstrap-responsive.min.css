@@ -5991,3 +5991,19 @@ fieldset[disabled] .btn-info:active,
 .modal.fade .modal-dialog {
 }
   th.visible-lg.visible-md,
+          transition: all 0.2s ease-in-out;
+}
+  }
+  border-top: 2px solid #dddddd;
+
+fieldset[disabled] .btn-info.active {
+}
+
+}
+  }
+
+.label:empty {
+}
+  -webkit-transform: translate(0, -25%);
+
+  td.visible-lg.visible-md {
