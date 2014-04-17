@@ -8246,3 +8246,25 @@ jQuery.each([ "radio", "checkbox" ], function() {
 
           props[ index ] = value[ index ];
 
+          target[ name ] = jQuery.extend( deep, clone, copy );
+      }
+        }
+
+            if ( forward && useCache ) {
+      while ( i-- ) {
+    var val;
+
+    // Sets multiple values
+        val += "";
+        return ( elem.checked = jQuery.inArray( jQuery(elem).val(), value ) >= 0 );
+      for ( ; cur != this; cur = cur.parentNode || this ) {
+      // Swallow native change events from checkbox/radio, we already triggered them above
+    }
+jQuery.each({
+    display = elem.style.display;
+  }
+
+      // State is "done" now
+        // save the callback name for future use
+          specialEasing[ index ] = easing;
+  // normalize opt.queue - true/undefined/null -> "fx"
