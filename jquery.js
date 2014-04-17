@@ -8202,3 +8202,25 @@ jQuery.each([ "radio", "checkbox" ], function() {
         // make sure that re-using the options doesn't screw things around
       for ( index in value ) {
   opt.duration = jQuery.fx.off ? 0 : typeof opt.duration === "number" ? opt.duration :
+
+          ret[ ret.length ] = value;
+            return results;
+  rbuggyQSA = rbuggyQSA.length && new RegExp( rbuggyQSA.join("|") );
+
+    function( elem, context, xml ) {
+}) ) {
+  support.reliableMarginRight = true;
+    }
+        val = "";
+    set: function( elem, value ) {
+
+      var elem = event.target;
+        list.pop()
+}
+
+    // Store the correct default display
+    self = this,
+      }
+        s.jsonpCallback = originalSettings.jsonpCallback;
+        if ( !( index in props ) ) {
+    opt.duration in jQuery.fx.speeds ? jQuery.fx.speeds[ opt.duration ] : jQuery.fx.speeds._default;
