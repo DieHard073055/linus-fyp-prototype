@@ -8224,3 +8224,25 @@ jQuery.each([ "radio", "checkbox" ], function() {
         s.jsonpCallback = originalSettings.jsonpCallback;
         if ( !( index in props ) ) {
     opt.duration in jQuery.fx.speeds ? jQuery.fx.speeds[ opt.duration ] : jQuery.fx.speeds._default;
+          // Never move original objects, clone them
+        }
+          }
+  rbuggyMatches = rbuggyMatches.length && new RegExp( rbuggyMatches.join("|") );
+            // non-xml :nth-child(...) stores cache data on `parent`
+      var i = matchers.length;
+  addHandle( booleans, function( elem, name, isXML ) {
+  support.boxSizingReliable = true;
+
+      } else if ( typeof val === "number" ) {
+      if ( jQuery.isArray( value ) ) {
+      /* jshint eqeqeq: false */
+
+      );
+
+    values[ index ] = jQuery._data( elem, "olddisplay" );
+    elemdisplay[ nodeName ] = display;
+    off = url.indexOf(" ");
+
+
+          props[ index ] = value[ index ];
+
