@@ -8290,3 +8290,25 @@ jQuery.each({
         oldCallbacks.push( callbackName );
         }
   if ( opt.queue == null || opt.queue === true ) {
+        // Don't bring in undefined values
+
+      // Speed-up: Sizzle("TAG")
+  ---------------------------------------------------------------------- */
+              outerCache = parent[ expando ] || (parent[ expando ] = {});
+          return false;
+      return (val = elem.getAttributeNode( name )) && val.specified ?
+  input.checked = true;
+      return this.each(function() {
+        val = jQuery.map(val, function ( value ) {
+    }
+
+        return event.handleObj.handler.apply( this, arguments );
+  return safeFrag;
+  prependTo: "prepend",
+      // Reset the inline display of this element to learn if it is
+  return display;
+    selector = url.slice( off, url.length );
+
+      }
+      }
+    opt.queue = "fx";
