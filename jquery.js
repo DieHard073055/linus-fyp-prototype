@@ -8400,3 +8400,25 @@ function actualDisplay( name, doc ) {
         overwritten( responseContainer[ 0 ] );
   }
   opt.old = opt.complete;
+    }
+  // A global GUID counter for objects
+      // Speed-up: Sizzle(".CLASS")
+  contains = rnative.test( docElem.contains ) || docElem.compareDocumentPosition ?
+
+    matchers[0];
+}
+  select.disabled = true;
+    return arguments.length > 1 ?
+      hooks = jQuery.valHooks[ this.type ] || jQuery.valHooks[ this.nodeName.toLowerCase() ];
+      // "" is returned instead of "on" if a value isn't specified
+          for ( i = 0; i < delegateCount; i++ ) {
+      jQuery.event.remove( this, "._change" );
+  rinlinejQuery = / jQuery\d+="(?:null|\d+)"/g,
+  jQuery.fn[ name ] = function( selector ) {
+
+  var elem = jQuery( doc.createElement( name ) ).appendTo( doc.body ),
+  if ( jQuery.isFunction( params ) ) {
+
+      }
+}
+
