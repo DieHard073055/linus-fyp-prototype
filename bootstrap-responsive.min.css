@@ -6055,3 +6055,19 @@ fieldset[disabled] .btn-info.active {
   -webkit-transition: -webkit-transform 0.3s ease-out;
 }
 }
+  border-radius: 50%;
+  display: table;
+  .col-sm-push-0 {
+  background-color: #ffffff;
+  border-color: #c09853;
+
+}
+
+}
+}
+
+.label-default {
+  border-bottom-right-radius: 4px;
+     -moz-transition: -moz-transform 0.3s ease-out;
+
+
