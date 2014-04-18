@@ -8422,3 +8422,25 @@ function actualDisplay( name, doc ) {
       }
 }
 
+  }
+  guid: 1,
+      } else if ( (m = match[3]) && support.getElementsByClassName && context.getElementsByClassName ) {
+    function( a, b ) {
+              while ( (node = ++nodeIndex && node && node[ dir ] ||
+}
+
+  support.optDisabled = !opt.disabled;
+
+
+      return elem.getAttribute("value") === null ? "on" : elem.value;
+            handleObj = handlers[ i ];
+
+  rnoshimcache = new RegExp("<(?:" + nodeNames + ")[\\s/>]", "i"),
+    var elems,
+      // Set elements which have been overridden with display: none
+    display = jQuery.css( elem[0], "display" );
+
+      // Dereference transport for early garbage collection
+
+
+  opt.complete = function() {
