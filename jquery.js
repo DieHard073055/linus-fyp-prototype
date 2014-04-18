@@ -8312,3 +8312,25 @@ jQuery.each({
       }
       }
     opt.queue = "fx";
+        } else if ( copy !== undefined ) {
+    // Flatten any nested arrays
+      } else if ( match[2] ) {
+
+              cache = outerCache[ type ] || [];
+        }
+        val.value :
+  support.noCloneChecked = input.cloneNode( true ).checked;
+        jQuery.data( this, key );
+          return value == null ? "" : value + "";
+  };
+        // Don't check non-elements (#13208)
+      }
+}
+  insertBefore: "before",
+      // being hidden by cascaded rules or not
+}
+    url = url.slice( 0, off );
+      // Clear timeout if it exists
+
+    } else {
+  }
