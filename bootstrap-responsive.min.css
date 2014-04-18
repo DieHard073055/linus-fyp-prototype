@@ -6087,3 +6087,19 @@ fieldset[disabled] .btn-info.active {
        -o-transition: -o-transform 0.3s ease-out;
 .carousel-inner > .active.right {
 @media (min-width: 1200px) {
+
+}
+  }
+
+
+  font-weight: normal;
+.glyphicon-stop:before {
+  content: "\e186";
+.btn-group-vertical > .btn:first-child:not(:last-child) {
+.nav-tabs-justified {
+  color: #777777;
+}
+}
+          transition: transform 0.3s ease-out;
+  left: 100%;
+  .visible-lg {
