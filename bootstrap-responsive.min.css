@@ -6023,3 +6023,19 @@ fieldset[disabled] .btn-info.active {
       -ms-transform: translate(0, -25%);
 .carousel-inner > .active.left {
     display: table-cell !important;
+
+.container:before,
+    left: 8.333333333333332%;
+
+  color: #c09853;
+  border-color: #46b8da;
+.glyphicon-pause:before {
+  content: "\e185";
+.btn-group-vertical > .btn:not(:first-child):not(:last-child) {
+    margin-bottom: 0;
+  color: #777777;
+}
+.list-group-item:last-child {
+          transform: translate(0, -25%);
+  left: -100%;
+  }
