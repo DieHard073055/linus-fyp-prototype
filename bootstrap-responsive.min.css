@@ -6119,3 +6119,19 @@ hr {
 }
 }
     display: block !important;
+  margin-top: 20px;
+.container:after {
+    margin-left: 100%;
+.table-condensed > tbody > tr > th,
+.has-error .control-label,
+  cursor: pointer;
+}
+
+  border-bottom-right-radius: 0;
+}
+
+.label-default[href]:hover,
+.list-group-item > .badge {
+
+
+  }
