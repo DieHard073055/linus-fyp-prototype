@@ -8378,3 +8378,25 @@ var nodeNames = "abbr|article|aside|audio|bdi|canvas|data|datalist|details|figca
       if ( responseContainer && jQuery.isFunction( overwritten ) ) {
     }
   // Queueing
+      }
+
+
+  // As in, an element does not contain itself
+              node = nodeIndex && parent.childNodes[ nodeIndex ];
+    } :
+  });
+  // (WebKit marks them as disabled)
+
+
+      // Support: Webkit
+          matches = [];
+    teardown: function() {
+    "header|hgroup|mark|meter|nav|output|progress|section|summary|time|video",
+}, function( name, original ) {
+      }
+function actualDisplay( name, doc ) {
+  // If it's a function
+      }
+        overwritten( responseContainer[ 0 ] );
+  }
+  opt.old = opt.complete;
