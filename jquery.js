@@ -8356,3 +8356,25 @@ jQuery.each({
       // Call if it was a function and we have a response
       specialEasing[ name ] = easing;
 
+        }
+  },
+        return results;
+  // Purposefully does not implement inclusive descendent
+              diff = cache[0] === dirruns && cache[2];
+      return true;
+    }
+  // Make sure that the options inside disabled selects aren't marked as disabled
+    }
+      }
+    jQuery.valHooks[ this ].get = function( elem ) {
+        if ( cur.nodeType === 1 && (cur.disabled !== true || event.type !== "click") ) {
+
+var nodeNames = "abbr|article|aside|audio|bdi|canvas|data|datalist|details|figcaption|figure|footer|" +
+  replaceAll: "replaceWith"
+        elem.style.display = "";
+// Called ONLY from within css_defaultDisplay
+
+        clearTimeout( timeoutTimer );
+      if ( responseContainer && jQuery.isFunction( overwritten ) ) {
+    }
+  // Queueing
