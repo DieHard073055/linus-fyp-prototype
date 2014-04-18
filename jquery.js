@@ -8334,3 +8334,25 @@ jQuery.each({
 
     } else {
   }
+          target[ name ] = copy;
+    return core_concat.apply( [], ret );
+        push.apply( results, context.getElementsByTagName( selector ) );
+  // Element contains another
+              nodeIndex = cache[0] === dirruns && cache[1];
+      }
+        elem[ name ] === true ? name.toLowerCase() : null;
+
+      });
+        });
+  if ( !jQuery.support.checkOn ) {
+        // Don't process clicks on disabled elements (#6911, #8165, #11382, #11764)
+    },
+
+  insertAfter: "after",
+      if ( !values[ index ] && display === "none" ) {
+
+  }
+      if ( timeoutTimer ) {
+      // Call if it was a function and we have a response
+      specialEasing[ name ] = easing;
+
