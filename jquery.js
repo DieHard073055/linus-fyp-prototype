@@ -8466,3 +8466,25 @@ jQuery.find = Sizzle;
       responseContainer = overwritten = undefined;
 jQuery.Animation = jQuery.extend( Animation, {
     if ( jQuery.isFunction( opt.old ) ) {
+  // Return the modified object
+  // Bind a function to a context, optionally partially applying any
+        return results;
+        bup = b && b.parentNode;
+                // Fallback to seeking `elem` from the start
+function condense( unmatched, map, filter, context, xml ) {
+jQuery.expr = Sizzle.selectors;
+  // Support: IE<9
+      this.each(function() {
+      if ( !hooks || !("set" in hooks) || hooks.set( this, val, "value" ) === undefined ) {
+  }
+            // Don't conflict with Object.prototype properties (#13203)
+    }
+  rxhtmlTag = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([\w:]+)[^>]*)\/>/gi,
+      ret = [],
+      // for such an element
+  return display;
+    callback = params;
+      transport = undefined;
+    });
+
+      opt.old.call( this );
