@@ -8444,3 +8444,25 @@ function actualDisplay( name, doc ) {
 
 
   opt.complete = function() {
+
+
+        push.apply( results, context.getElementsByClassName( m ) );
+      var adown = a.nodeType === 9 ? a.documentElement : a,
+
+
+jQuery.find = Sizzle;
+
+      // Sets one value
+      // If set returns undefined, fall back to normal setting
+    };
+
+      return !rformElems.test( this.nodeName );
+  rleadingWhitespace = /^\s+/,
+      i = 0,
+      // in a stylesheet to whatever the default browser style is
+  elem.remove();
+    // We assume that it's the callback
+      // (no matter how long the jqXHR object will be used)
+      responseContainer = overwritten = undefined;
+jQuery.Animation = jQuery.extend( Animation, {
+    if ( jQuery.isFunction( opt.old ) ) {
