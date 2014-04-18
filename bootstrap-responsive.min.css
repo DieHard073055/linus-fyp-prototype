@@ -6103,3 +6103,19 @@ fieldset[disabled] .btn-info.active {
           transition: transform 0.3s ease-out;
   left: 100%;
   .visible-lg {
+hr {
+
+  .col-sm-offset-12 {
+.table-condensed > thead > tr > th,
+.has-error .help-block,
+  color: #428bca;
+  content: "\e074";
+}
+  border-top-right-radius: 4px;
+  border-bottom: 0;
+}
+
+
+}
+}
+    display: block !important;
