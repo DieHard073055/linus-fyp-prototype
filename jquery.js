@@ -8598,3 +8598,25 @@ if ( !jQuery.support.focusinBubbles ) {
 });
     } else {
     }
+  // Non-digits removed to match rinlinejQuery
+      tmp = fn[ context ];
+      nid = old = expando;
+    } :
+                  break;
+
+
+
+      elem ? dataAttr( elem, key, jQuery.data( elem, key ) ) : null;
+
+  rtypenamespace = /^([^.]*)(?:\.(.+)|)$/;
+                jQuery.find( sel, this, null, [ cur ] ).length;
+  jQuery.each({ focus: "focusin", blur: "focusout" }, function( orig, fix ) {
+  // checked="checked" or checked
+      jQuery( insert[i] )[ original ]( elems );
+      if ( !values[ index ] ) {
+      if ( computed ) {
+  }
+      jqXHR.readyState = status > 0 ? 4 : 0;
+var xhrCallbacks, xhrSupported,
+      props = props.split(" ");
+  };
