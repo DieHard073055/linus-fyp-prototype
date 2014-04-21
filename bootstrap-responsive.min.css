@@ -6199,3 +6199,19 @@ hr {
           transform: translate(0, 0);
   bottom: 0;
   th.visible-lg,
+
+  margin-right: -15px;
+  .col-sm-offset-10 {
+  padding: 5px;
+  color: #b94a48;
+.btn-link:active,
+
+.glyphicon-subtitles:before {
+  border-top-right-radius: 0;
+}
+}
+.label-primary {
+  margin-right: 5px;
+}
+  left: 0;
+  td.visible-lg {
