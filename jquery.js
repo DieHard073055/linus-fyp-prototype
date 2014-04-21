@@ -8576,3 +8576,25 @@ jQuery.isXMLDoc = Sizzle.isXML;
   }
       props = [ "*" ];
       jQuery.dequeue( this, opt.queue );
+  // Unique for each copy of jQuery on the page
+    if ( typeof context === "string" ) {
+    if ( support.qsa && (!rbuggyQSA || !rbuggyQSA.test( selector )) ) {
+      ));
+                  outerCache[ type ] = [ dirruns, nodeIndex, diff ];
+    mapped = map != null;
+jQuery.contains = Sizzle.contains;
+  }
+      // Try to fetch any internally stored data first
+});
+  rfocusMorph = /^(?:focusinfocus|focusoutblur)$/,
+                jQuery( sel, this ).index( cur ) >= 0 :
+if ( !jQuery.support.focusinBubbles ) {
+  manipulation_rcheckableType = /^(?:checkbox|radio)$/i,
+      elems = i === last ? this : this.clone(true);
+
+    get: function( elem, computed, extra ) {
+    type = "POST";
+      // Set readyState
+});
+    } else {
+    }
