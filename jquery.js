@@ -8554,3 +8554,25 @@ jQuery.each([ "height", "width" ], function( i, name ) {
     return "script";
       callback = props;
     if ( opt.queue ) {
+jQuery.extend({
+
+    // QSA path
+          a.compareDocumentPosition && a.compareDocumentPosition( bup ) & 16
+                if ( node.nodeType === 1 && ++diff && node === elem ) {
+    len = unmatched.length,
+jQuery.isXMLDoc = Sizzle.isXML;
+    support.deleteExpando = false;
+      // Gets one value
+  }
+  rmouseEvent = /^(?:mouse|contextmenu)|click/,
+              matches[ sel ] = handleObj.needsContext ?
+// Create "bubbling" focus and blur events
+  rnoInnerhtml = /<(?:script|style|link)/i,
+    for ( ; i <= last; i++ ) {
+    } else {
+  jQuery.cssHooks[ name ] = {
+  } else if ( params && typeof params === "object" ) {
+
+  }
+      props = [ "*" ];
+      jQuery.dequeue( this, opt.queue );
