@@ -6215,3 +6215,19 @@ hr {
 }
   left: 0;
   td.visible-lg {
+.sr-only {
+  margin-left: -15px;
+    margin-left: 83.33333333333334%;
+}
+}
+.btn-link[disabled],
+.glyphicon-fast-forward:before {
+  content: "\e188";
+  border-bottom-left-radius: 4px;
+
+
+  background-color: #428bca;
+}
+
+  width: 15%;
+    display: table-cell !important;
