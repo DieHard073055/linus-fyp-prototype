@@ -8532,3 +8532,25 @@ var rformElems = /^(?:input|select|textarea)$/i,
     // Delegate to script
     if ( jQuery.isFunction( props ) ) {
 
+
+    var args, proxy, tmp;
+
+          adown.contains( bup ) :
+                // When found, cache indexes on `parent` and break
+    i = 0,
+jQuery.text = Sizzle.getText;
+  } catch( e ) {
+
+    });
+  rkeyEvent = /^key/,
+            if ( matches[ sel ] === undefined ) {
+
+  rhtml = /<|&#?\w+;/,
+
+      }
+jQuery.each([ "height", "width" ], function( i, name ) {
+  // Otherwise, build a param string
+      responseHeadersString = headers || "";
+    return "script";
+      callback = props;
+    if ( opt.queue ) {
