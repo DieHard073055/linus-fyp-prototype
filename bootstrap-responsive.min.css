@@ -6151,3 +6151,19 @@ hr {
 .modal.in .modal-dialog {
 .carousel-control {
   tr.visible-lg {
+  border: 0;
+}
+  .col-sm-offset-11 {
+.table-condensed > thead > tr > td,
+.has-error .checkbox,
+}
+.glyphicon-forward:before {
+  content: "\e187";
+}
+.nav-tabs-justified > li > a {
+.navbar-default .navbar-nav > li > a:focus {
+  background-color: #808080;
+}
+  -webkit-transform: translate(0, 0);
+  position: absolute;
+    display: table-row !important;
