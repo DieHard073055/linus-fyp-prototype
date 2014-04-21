@@ -6167,3 +6167,19 @@ hr {
   -webkit-transform: translate(0, 0);
   position: absolute;
     display: table-row !important;
+  border-top: 1px solid #eeeeee;
+
+    margin-left: 91.66666666666666%;
+.table-condensed > tbody > tr > td,
+.has-error .radio-inline,
+
+  content: "\e075";
+}
+
+  margin-right: 0;
+  color: #333333;
+}
+
+      -ms-transform: translate(0, 0);
+  top: 0;
+  }
