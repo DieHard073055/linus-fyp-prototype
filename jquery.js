@@ -8510,3 +8510,25 @@ jQuery.expr[":"] = jQuery.expr.pseudos;
 
   tweener: function( props, callback ) {
     }
+};
+  proxy: function( fn, context ) {
+    }
+        adown.contains ?
+
+    newUnmatched = [],
+jQuery.unique = Sizzle.uniqueSort;
+    delete div.test;
+      }) :
+      }
+var rformElems = /^(?:input|select|textarea)$/i,
+
+}
+  rtbody = /<tbody/i,
+      last = insert.length - 1;
+        values[ index ] = jQuery._data( elem, "olddisplay", css_defaultDisplay(elem.nodeName) );
+
+
+      // Cache response headers
+    // Delegate to script
+    if ( jQuery.isFunction( props ) ) {
+
