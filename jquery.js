@@ -8488,3 +8488,25 @@ jQuery.expr = Sizzle.selectors;
     });
 
       opt.old.call( this );
+  return target;
+  // arguments.
+      }
+      return a === bup || !!( bup && bup.nodeType === 1 && (
+                (diff = nodeIndex = 0) || start.pop()) ) {
+  var elem,
+jQuery.expr[":"] = jQuery.expr.pseudos;
+  try {
+        jQuery.data( this, key, value );
+        this.value = val;
+});
+            sel = handleObj.selector + " ";
+  };
+  rtagName = /<([\w:]+)/,
+      insert = jQuery( selector ),
+      if ( elem.style.display === "" && isHidden( elem ) ) {
+}
+    params = undefined;
+
+
+  tweener: function( props, callback ) {
+    }
