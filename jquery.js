@@ -8664,3 +8664,25 @@ function returnTrue() {
   // #5280: Internet Explorer will keep connections alive if we don't abort on unload
 
   return opt;
+  noConflict: function( deep ) {
+    }
+
+        while ( (b = b.parentNode) ) {
+
+      if ( !filter || filter( elem, context, xml ) ) {
+// String to Object options format cache
+  input.setAttribute( "value", "" );
+  removeData: function( key ) {
+    option: {
+  return true;
+              matches.push( handleObj );
+    var attaches = 0,
+  rscriptTypeMasked = /^true\/(.*)/,
+      core_push.apply( ret, elems.get() );
+        if ( display && display !== "none" || !hidden ) {
+        return elem.offsetWidth === 0 && rdisplayswap.test( jQuery.css( elem, "display" ) ) ?
+  if ( self.length > 0 ) {
+      isSuccess = status >= 200 && status < 300 || status === 304;
+  xhrOnUnloadAbort = window.ActiveXObject && function() {
+    var prop,
+};
