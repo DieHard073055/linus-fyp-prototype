@@ -8708,3 +8708,25 @@ var optionsCache = {};
     // Abort all pending requests
       index = 0,
 
+      window.$ = _$;
+    // Quick check to determine if target is callable, in the spec
+      // We can work around this by specifying an extra ID on the root
+            return true;
+            } else if ( useCache && (cache = (elem[ expando ] || (elem[ expando ] = {}))[ type ]) && cache[0] === dirruns ) {
+        if ( mapped ) {
+
+
+      jQuery.removeData( this, key );
+        // Use proper attribute retrieval(#6932, #12072)
+
+          }
+        jQuery.event.simulate( fix, event.target, jQuery.event.fix( event ), true );
+
+
+        }
+            return getWidthOrHeight( elem, name, extra );
+      url: url,
+      // Get response data
+    var key;
+      length = props.length;
+jQuery.easing = {
