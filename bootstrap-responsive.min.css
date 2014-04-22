@@ -6279,3 +6279,19 @@ a.list-group-item {
   z-index: 1050;
   text-align: center;
 
+  padding: 0;
+.row:after {
+  }
+}
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: none;
+.glyphicon-step-forward:before {
+  content: "\e189";
+.btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn {
+  border: 1px solid #dddddd;
+  color: #555555;
+.label-primary[href]:focus {
+}
+  width: auto;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+.hidden-xs {
