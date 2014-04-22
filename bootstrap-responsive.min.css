@@ -6327,3 +6327,19 @@ a.list-group-item .list-group-item-heading {
   margin-right: auto;
   filter: alpha(opacity=50);
 }
+  clip: rect(0, 0, 0, 0);
+}
+  }
+.table-bordered > tbody > tr > th,
+
+.btn-link,
+
+.glyphicon-sound-dolby:before {
+
+@media (min-width: 768px) {
+
+
+  color: #333333;
+  margin-left: auto;
+}
+
