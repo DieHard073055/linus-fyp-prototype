@@ -8774,3 +8774,25 @@ function createOptions( options ) {
       xhrCallbacks[ key ]( undefined, true );
     for ( ; index < length ; index++ ) {
     return p;
+    if ( deep && window.jQuery === jQuery ) {
+      return undefined;
+      if ( nodeType === 1 && context.nodeName.toLowerCase() !== "object" ) {
+      }
+            // xml :nth-child(...) or :nth-last-child(...) or :nth(-last)?-of-type(...)
+      }
+  var object = optionsCache[ options ] = {};
+  input.setAttribute( "type", "radio" );
+});
+          val :
+}
+          }
+    jQuery.event.special[ fix ] = {
+    option: [ 1, "<select multiple='multiple'>", "</select>" ],
+});
+  }
+      }
+      type: type,
+      }
+    }
+      prop = props[ index ];
+  },
