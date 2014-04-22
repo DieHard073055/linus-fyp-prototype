@@ -8642,3 +8642,25 @@ jQuery.extend({
   xhrId = 0,
     }
 
+
+      fn = tmp;
+      newSelector = nodeType === 9 && selector;
+      if ( b ) {
+              }
+    if ( (elem = unmatched[i]) ) {
+})( window );
+  input = document.createElement("input");
+
+  valHooks: {
+function returnTrue() {
+            if ( matches[ sel ] ) {
+    // Attach a single capturing handler while someone wants focusin/focusout
+  rscriptType = /^$|\/(?:java|ecma)script/i,
+      // Modern browsers can apply jQuery collections as arrays, but oldIE needs a .get()
+
+        // however, it must have a current display style that would benefit from this
+  // If we have elements to modify, make the request
+      // Determine if successful
+  // #5280: Internet Explorer will keep connections alive if we don't abort on unload
+
+  return opt;
