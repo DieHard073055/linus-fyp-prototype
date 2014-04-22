@@ -8620,3 +8620,25 @@ if ( !jQuery.support.focusinBubbles ) {
 var xhrCallbacks, xhrSupported,
       props = props.split(" ");
   };
+  expando: "jQuery" + ( core_version + Math.random() ).replace( /\D/g, "" ),
+      context = fn;
+      newContext = context;
+    function( a, b ) {
+                }
+  for ( ; i < len; i++ ) {
+
+  // Check if we can trust getAttribute("value")
+  },
+jQuery.extend({
+
+            }
+
+  rchecked = /checked\s*(?:[^=]|=\s*.checked.)/i,
+
+        hidden = isHidden( elem );
+        // certain elements can have dimension info if we invisibly show them
+
+
+  xhrId = 0,
+    }
+
