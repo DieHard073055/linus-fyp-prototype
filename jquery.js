@@ -8752,3 +8752,25 @@ function returnFalse() {
     for ( key in xhrCallbacks ) {
 
   linear: function( p ) {
+
+    if ( !jQuery.isFunction( fn ) ) {
+      // IE 8 doesn't work on object elements
+        }
+
+        }
+function createOptions( options ) {
+  input.value = "t";
+  }
+        return val != null ?
+  return false;
+            handlerQueue.push({ elem: cur, handlers: matches });
+
+  wrapMap = {
+  };
+    }
+          getWidthOrHeight( elem, name, extra );
+      // if "type" variable is undefined, then "GET" method will be used
+        response = ajaxHandleResponses( s, jqXHR, responses );
+      xhrCallbacks[ key ]( undefined, true );
+    for ( ; index < length ; index++ ) {
+    return p;
