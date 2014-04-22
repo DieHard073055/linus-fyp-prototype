@@ -8730,3 +8730,25 @@ var optionsCache = {};
     var key;
       length = props.length;
 jQuery.easing = {
+    }
+    // this throws a TypeError, but we will just return undefined.
+      // and working up from there (Thanks to Andrew Dupont for the technique)
+          }
+              diff = cache[1];
+          map.push( i );
+// Convert String-formatted options into Object-formatted ones and store in cache
+  // Check if an input maintains its value after becoming a radio
+    });
+        var val = jQuery.find.attr( elem, "value" );
+function returnFalse() {
+          if ( matches.length ) {
+      };
+  // We have to close these tags to support XHTML (#13200)
+    return this.pushStack( ret );
+      }
+          }) :
+
+      if ( responses ) {
+    for ( key in xhrCallbacks ) {
+
+  linear: function( p ) {
