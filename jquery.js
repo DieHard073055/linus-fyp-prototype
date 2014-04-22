@@ -8686,3 +8686,25 @@ function returnTrue() {
   xhrOnUnloadAbort = window.ActiveXObject && function() {
     var prop,
 };
+    if ( window.$ === jQuery ) {
+
+      // qSA works strangely on Element-rooted queries
+          if ( b === a ) {
+            // Use previously-cached element index if available
+        newUnmatched.push( elem );
+var optionsCache = {};
+  support.input = input.getAttribute( "value" ) === "";
+    return this.each(function() {
+      get: function( elem ) {
+}
+            }
+      handler = function( event ) {
+  rcleanScript = /^\s*<!(?:\[CDATA\[|--)|(?:\]\]|--)>\s*$/g,
+    }
+          jQuery._data( elem, "olddisplay", hidden ? display : jQuery.css( elem, "display" ) );
+          jQuery.swap( elem, cssShow, function() {
+    jQuery.ajax({
+
+    // Abort all pending requests
+      index = 0,
+
