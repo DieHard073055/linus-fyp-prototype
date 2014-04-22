@@ -6359,3 +6359,19 @@ a.list-group-item .list-group-item-heading {
 }
 
 tr.hidden-xs {
+}
+.row:after {
+    margin-left: 58.333333333333336%;
+.table-bordered > thead > tr > td,
+  border-color: #953b39;
+.btn-link:focus,
+  content: "\e078";
+}
+.btn-group-vertical > .btn-group:first-child > .dropdown-toggle {
+    border-bottom: 1px solid #dddddd;
+.navbar-default .navbar-nav > .disabled > a:hover,
+  background-color: #5cb85c;
+
+
+.carousel-control.left {
+  display: table-row !important;
