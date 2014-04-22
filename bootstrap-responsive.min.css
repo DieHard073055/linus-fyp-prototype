@@ -6311,3 +6311,19 @@ a.list-group-item {
   padding: 10px;
   opacity: 0.5;
   display: block !important;
+  overflow: hidden;
+  content: " ";
+    margin-left: 66.66666666666666%;
+.table-bordered > thead > tr > th,
+}
+
+}
+
+}
+
+}
+}
+a.list-group-item .list-group-item-heading {
+  margin-right: auto;
+  filter: alpha(opacity=50);
+}
