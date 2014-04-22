@@ -6295,3 +6295,19 @@ a.list-group-item {
   width: auto;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 .hidden-xs {
+  margin: -1px;
+  display: table;
+  .col-sm-offset-8 {
+
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+  content: "\e077";
+}
+  border-radius: 0;
+}
+  background-color: #e7e7e7;
+  background-color: #3071a9;
+
+  padding: 10px;
+  opacity: 0.5;
+  display: block !important;
