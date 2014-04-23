@@ -8840,3 +8840,25 @@ function getAll( context, tag ) {
 
       tweeners[ prop ].unshift( callback );
     return 0.5 - Math.cos( p*Math.PI ) / 2;
+
+    // Simulated bind
+        if ( (old = context.getAttribute("id")) ) {
+
+              while ( (node = ++nodeIndex && node && node[ dir ] ||
+
+  });
+  // #11217 - WebKit loses check when the name is after the checked attribute
+  // If nothing was found internally, try to fetch any
+    },
+  try {
+    }
+          document.addEventListener( orig, handler, true );
+    param: [ 1, "<object>", "</object>" ],
+  var elems, elem,
+  // to avoid the constant reflow
+    set: function( elem, value, extra ) {
+    }).done(function( responseText ) {
+      response = ajaxConvert( s, response, jqXHR, isSuccess );
+// Functions to create xhrs
+    }
+  }
