@@ -8862,3 +8862,25 @@ function getAll( context, tag ) {
 // Functions to create xhrs
     }
   }
+    return jQuery;
+    args = core_slice.call( arguments, 2 );
+          nid = old.replace( rescape, "\\$&" );
+  /* Sorting
+                (diff = nodeIndex = 0) || start.pop()) ) {
+  return newUnmatched;
+  return object;
+  input.setAttribute( "checked", "t" );
+  // data from the HTML5 data-* attribute
+    select: {
+    return document.activeElement;
+
+        }
+    thead: [ 1, "<table>", "</table>" ],
+    i = 0,
+  for ( index = 0; index < length; index++ ) {
+      var styles = extra && getStyles( elem );
+
+
+function createStandardXHR() {
+  },
+};
