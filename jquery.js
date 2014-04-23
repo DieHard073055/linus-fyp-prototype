@@ -8906,3 +8906,25 @@ function createStandardXHR() {
   try {
 
 
+
+      return fn.apply( context || this, args.concat( core_slice.call( arguments ) ) );
+          context.setAttribute( "id", nid );
+
+                if ( ( ofType ? node.nodeName.toLowerCase() === name : node.nodeType === 1 ) && ++diff ) {
+
+
+
+
+        var value, option,
+}
+    if ( delegateCount < handlers.length ) {
+      teardown: function() {
+    col: [ 2, "<table><tbody></tbody><colgroup>", "</colgroup></table>" ],
+      typeof context.querySelectorAll !== core_strundefined ? context.querySelectorAll( tag || "*" ) :
+    if ( !elem.style ) {
+        augmentWidthOrHeight(
+      response = arguments;
+      if ( isSuccess ) {
+    return new window.XMLHttpRequest();
+  prefilter: function( callback, prepend ) {
+jQuery.timers = [];
