@@ -8994,3 +8994,25 @@ jQuery.fx.tick = function() {
 
     } else {
   var timer,
+  // A counter to track how many items to wait for before
+    proxy.guid = fn.guid = fn.guid || jQuery.guid++;
+        i = groups.length;
+
+                  }
+  }
+ *  options: an optional list of space-separated options that will change how
+  // Check if a disconnected checkbox will retain its checked
+
+          values = one ? null : [],
+ * Props to Dean Edwards' addEvent library for many of the ideas.
+    return handlerQueue;
+      }
+    // unless wrapped in a div with non-breaking characters in front of it.
+    for ( found = [], elems = context.childNodes || context; (elem = elems[i]) != null; i++ ) {
+      elem.style.display = show ? values[ index ] || "" : "none";
+          jQuery.support.boxSizing && jQuery.css( elem, "boxSizing", false, styles ) === "border-box",
+        // If a selector was specified, locate the right elements in a dummy div
+          modified = jqXHR.getResponseHeader("Last-Modified");
+function createActiveXHR() {
+      animationPrefilters.push( callback );
+    timers = jQuery.timers,
