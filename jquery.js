@@ -8950,3 +8950,25 @@ function setMatcher( preFilter, selector, matcher, postFilter, postFinder, postS
   } catch( e ) {}
     if ( prepend ) {
 jQuery.fx = Tween.prototype.init;
+  isReady: false,
+
+        nid = "[id='" + nid + "'] ";
+  sortOrder = docElem.compareDocumentPosition ?
+                  if ( useCache ) {
+  if ( postFilter && !postFilter[ expando ] ) {
+ * Create a callback list using the following parameters:
+  fragment.appendChild( input );
+
+          index = elem.selectedIndex,
+/*
+    }
+          document.removeEventListener( orig, handler, true );
+
+
+    }
+          name,
+      self.html( selector ?
+        // Set the If-Modified-Since and/or If-None-Match header, if in ifModified mode.
+}
+      animationPrefilters.unshift( callback );
+jQuery.fx.tick = function() {
