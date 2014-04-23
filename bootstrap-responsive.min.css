@@ -6407,3 +6407,19 @@ a.list-group-item:focus {
   position: relative;
   background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.5) 0), color-stop(rgba(0, 0, 0, 0.0001) 100%));
 
+  margin: 0 0 10px;
+
+    margin-left: 50%;
+  border: 1px solid #dddddd;
+}
+}
+.glyphicon-chevron-left:before {
+  content: "\e191";
+}
+  .nav-tabs-justified > .active > a,
+  background-color: transparent;
+.label-success[href]:hover,
+  text-decoration: none;
+  background-color: #ffffff;
+  background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
+th.hidden-xs,
