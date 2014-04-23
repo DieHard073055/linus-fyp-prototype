@@ -6471,3 +6471,19 @@ td.hidden-xs {
   border-radius: 6px;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
 }
+  margin-bottom: 20px;
+  content: " ";
+  }
+.table-bordered > thead > tr > td {
+  background-color: #f2dede;
+  color: #2a6496;
+.glyphicon-chevron-right:before {
+  content: "\e192";
+  border-top-left-radius: 0;
+  }
+  border-color: #dddddd;
+
+a.list-group-item.active,
+  outline: none;
+}
+
