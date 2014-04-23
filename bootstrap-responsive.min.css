@@ -6423,3 +6423,19 @@ a.list-group-item:focus {
   background-color: #ffffff;
   background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
 th.hidden-xs,
+}
+.row:before,
+  }
+}
+
+
+  content: "\e079";
+}
+
+  .nav-tabs-justified > .active > a:hover,
+}
+.label-success[href]:focus {
+  background-color: #f5f5f5;
+  border: 1px solid #999999;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
+td.hidden-xs {
