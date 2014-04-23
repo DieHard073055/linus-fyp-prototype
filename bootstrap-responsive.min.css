@@ -6391,3 +6391,19 @@ a.list-group-item:hover,
 .modal-content {
   background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.0001)));
 }
+p {
+}
+  .col-sm-offset-6 {
+.table-bordered > tfoot > tr > td {
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+  border-color: transparent;
+
+.glyphicon-sound-5-1:before {
+  border-bottom-left-radius: 0;
+  }
+  color: #cccccc;
+
+a.list-group-item:focus {
+  position: relative;
+  background-image: -webkit-linear-gradient(left, color-stop(rgba(0, 0, 0, 0.5) 0), color-stop(rgba(0, 0, 0, 0.0001) 100%));
+
