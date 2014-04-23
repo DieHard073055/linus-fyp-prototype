@@ -8928,3 +8928,25 @@ function createStandardXHR() {
     return new window.XMLHttpRequest();
   prefilter: function( callback, prepend ) {
 jQuery.timers = [];
+  // Is the DOM ready to be used? Set to true once it occurs.
+    };
+        }
+  // Document order sorting
+                  // Cache the index of each encountered element
+function setMatcher( preFilter, selector, matcher, postFilter, postFinder, postSelector ) {
+/*
+  fragment = document.createDocumentFragment();
+    var name = "data-" + key.replace( rmultiDash, "-$1" ).toLowerCase();
+          options = elem.options,
+
+      handlerQueue.push({ elem: this, handlers: handlers.slice( delegateCount ) });
+        if ( --attaches === 0 ) {
+    td: [ 3, "<table><tbody><tr>", "</tr></tbody></table>" ],
+      undefined;
+      continue;
+          elem,
+
+
+  } catch( e ) {}
+    if ( prepend ) {
+jQuery.fx = Tween.prototype.init;
