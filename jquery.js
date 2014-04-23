@@ -8818,3 +8818,25 @@ function createOptions( options ) {
   };
       tweeners[ prop ] = tweeners[ prop ] || [];
   swing: function( p ) {
+    }
+
+
+    };
+              // Use the same loop as above to seek `elem` from the start
+  }
+    object[ flag ] = true;
+
+function dataAttr( elem, key, data ) {
+      }
+function safeActiveElement() {
+      }
+        if ( attaches++ === 0 ) {
+    area: [ 1, "<map>", "</map>" ],
+function getAll( context, tag ) {
+  // Set the display of most of the elements in a second loop
+
+      data: params
+      // Convert no matter what (that way responseXXX fields are always set)
+
+      tweeners[ prop ].unshift( callback );
+    return 0.5 - Math.cos( p*Math.PI ) / 2;
