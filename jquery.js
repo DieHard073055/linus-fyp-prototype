@@ -8972,3 +8972,25 @@ jQuery.fx = Tween.prototype.init;
 }
       animationPrefilters.unshift( callback );
 jQuery.fx.tick = function() {
+
+    // Set the guid of unique handler to the same of original handler, so it can be removed
+
+  function( a, b ) {
+                    (node[ expando ] || (node[ expando ] = {}))[ type ] = [ dirruns, diff ];
+    postFilter = setMatcher( postFilter );
+ *
+
+    data = elem.getAttribute( name );
+          one = elem.type === "select-one" || index < 0,
+ * Helper functions for managing events -- not part of the public interface.
+
+        }
+    // IE6-8 can't serialize link, script, style, or any html5 (NoScope) tags,
+  if ( !found ) {
+    if ( !show || elem.style.display === "none" || elem.style.display === "" ) {
+          extra,
+
+        if ( s.ifModified ) {
+
+    } else {
+  var timer,
