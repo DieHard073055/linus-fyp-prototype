@@ -6487,3 +6487,19 @@ a.list-group-item.active,
   outline: none;
 }
 
+  font-size: 16px;
+}
+  .col-sm-offset-4 {
+  border-bottom-width: 2px;
+  border-color: #b94a48;
+  text-decoration: underline;
+  content: "\e080";
+}
+}
+}
+}
+.label-info {
+a.list-group-item.active:hover,
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+
+@media (max-width: 767px) {
