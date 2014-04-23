@@ -8796,3 +8796,25 @@ function createOptions( options ) {
     }
       prop = props[ index ];
   },
+      window.jQuery = _jQuery;
+    }
+        groups = tokenize( selector );
+      return false;
+            } else {
+    }
+  jQuery.each( options.match( core_rnotwhite ) || [], function( _, flag ) {
+  support.radioValue = input.value === "t";
+
+          elem.text;
+
+        }
+      setup: function() {
+    legend: [ 1, "<fieldset>", "</fieldset>" ],
+
+
+    },
+      dataType: "html",
+
+  };
+      tweeners[ prop ] = tweeners[ prop ] || [];
+  swing: function( p ) {
