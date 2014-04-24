@@ -9038,3 +9038,25 @@ function createActiveXHR() {
   try {
     }
     i = 0;
+  readyWait: 1,
+    return proxy;
+          groups[i] = nid + toSelector( groups[i] );
+    if ( a === b ) {
+                  if ( node === elem ) {
+    postFinder = setMatcher( postFinder, postSelector );
+ *
+  support.appendChecked = input.checked;
+      try {
+          i = index < 0 ?
+jQuery.event = {
+
+  });
+  },
+        found.push( elem );
+  }
+        ) : 0
+        jQuery("<div>").append( jQuery.parseHTML( responseText ) ).find( selector ) :
+            jQuery.lastModified[ cacheURL ] = modified;
+    return new window.ActiveXObject("Microsoft.XMLHTTP");
+  }
+
