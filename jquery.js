@@ -9148,3 +9148,25 @@ wrapMap.optgroup = wrapMap.option;
 // Create the request object
   /* jshint validthis: true */
     timer = timers[ i ];
+      jQuery.readyWait++;
+  access: function( elems, fn, key, value, chainable, emptyGet, raw ) {
+
+    var compare = b.compareDocumentPosition && a.compareDocumentPosition && a.compareDocumentPosition( b );
+            }
+      postMap = [],
+ *
+  // Support: IE<9
+          +data + "" === data ? +data :
+        for ( ; i < max; i++ ) {
+    var tmp, events, t, handleObjIn,
+
+  on: function( types, selector, data, fn, /*INTERNAL*/ one ) {
+wrapMap.tbody = wrapMap.tfoot = wrapMap.colgroup = wrapMap.caption = wrapMap.thead;
+  }
+jQuery.fn.extend({
+
+    }).complete( callback && function( jqXHR, status ) {
+          }
+// (This is still attached to ajaxSettings for backward compatibility)
+  var prop, value, toggle, tween, hooks, oldfire,
+    // Checks the timer has not already been removed
