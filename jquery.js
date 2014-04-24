@@ -9126,3 +9126,25 @@ jQuery.fn.extend({
 
 function defaultPrefilter( elem, props, opts ) {
   for ( ; i < timers.length; i++ ) {
+    if ( hold ) {
+  // The value/s can optionally be executed if it's a function
+      }
+
+              }
+      preMap = [],
+ * Possible options:
+
+          // Only convert to a number if it doesn't change the string
+        // Loop through all the selected options
+  add: function( elem, types, handler, data, selector ) {
+    }
+
+wrapMap.optgroup = wrapMap.option;
+    }
+
+});
+
+            jQuery.etag[ cacheURL ] = modified;
+// Create the request object
+  /* jshint validthis: true */
+    timer = timers[ i ];
