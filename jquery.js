@@ -9016,3 +9016,25 @@ jQuery.fx.tick = function() {
 function createActiveXHR() {
       animationPrefilters.push( callback );
     timers = jQuery.timers,
+  // the ready event fires. See #6781
+
+        while ( i-- ) {
+    // Flag for duplicate removal
+
+  if ( postFinder && !postFinder[ expando ] ) {
+ *      the callback list behaves or a more traditional option object
+  // value of true after appended to the DOM (IE6/7)
+    if ( typeof data === "string" ) {
+          max = one ? index + 1 : options.length,
+ */
+  },
+    };
+    _default: jQuery.support.htmlSerialize ? [ 0, "", "" ] : [ 1, "X<div>", "</div>"  ]
+      if ( !tag || jQuery.nodeName( elem, tag ) ) {
+    }
+          styles
+        // Exclude scripts to avoid IE 'Permission Denied' errors
+          if ( modified ) {
+  try {
+    }
+    i = 0;
