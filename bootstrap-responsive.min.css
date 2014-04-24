@@ -6599,3 +6599,19 @@ fieldset[disabled] .btn-link:hover,
   position: fixed;
   background-image: -moz-linear-gradient(left, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
   }
+    font-size: 21px;
+.col-sm-1,
+    margin-left: 16.666666666666664%;
+
+.has-success .radio-inline,
+fieldset[disabled] .btn-link:focus {
+.glyphicon-minus-sign:before {
+  content: "\e194";
+}
+  display: block;
+.navbar-default .navbar-toggle .icon-bar {
+}
+
+  top: 0;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
+}
