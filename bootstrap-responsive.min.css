@@ -6631,3 +6631,19 @@ a.list-group-item.active .list-group-item-heading,
   right: 0;
   background-repeat: repeat-x;
 
+}
+.col-lg-1,
+  .col-sm-offset-1 {
+.table-hover > tbody > tr:hover > th {
+  color: #468847;
+  text-decoration: none;
+}
+
+.btn-group-justified .btn {
+
+}
+.label-warning {
+a.list-group-item.active:hover .list-group-item-heading,
+  bottom: 0;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+@media (min-width: 768px) and (max-width: 991px) {
