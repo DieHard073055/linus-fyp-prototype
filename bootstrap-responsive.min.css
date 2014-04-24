@@ -6535,3 +6535,19 @@ a.list-group-item.active:focus {
   background-clip: padding-box;
   right: 0;
   tr.hidden-xs,
+}
+  clear: both;
+  .col-sm-offset-3 {
+.table-striped > tbody > tr:nth-child(odd) > td,
+.has-success .help-block,
+
+.glyphicon-plus-sign:before {
+  content: "\e193";
+  display: table;
+  display: none;
+.navbar-default .navbar-toggle:focus {
+
+  color: #ffffff;
+}
+  left: auto;
+  th.hidden-xs,
