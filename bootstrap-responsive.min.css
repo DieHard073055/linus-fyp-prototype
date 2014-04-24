@@ -6551,3 +6551,19 @@ a.list-group-item.active:focus {
 }
   left: auto;
   th.hidden-xs,
+
+}
+    margin-left: 25%;
+.table-striped > tbody > tr:nth-child(odd) > th {
+.has-success .control-label,
+.btn-link[disabled]:hover,
+  content: "\e081";
+}
+  width: 100%;
+}
+  background-color: #dddddd;
+.label-info[href]:hover,
+  background-color: #428bca;
+
+  background-image: -webkit-gradient(linear, 0 top, 100% top, from(rgba(0, 0, 0, 0.0001)), to(rgba(0, 0, 0, 0.5)));
+  td.hidden-xs {
