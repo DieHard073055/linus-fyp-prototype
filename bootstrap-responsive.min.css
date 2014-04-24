@@ -6615,3 +6615,19 @@ fieldset[disabled] .btn-link:focus {
   top: 0;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
 }
+  }
+.col-md-1,
+  }
+.table-hover > tbody > tr:hover > td,
+.has-success .checkbox-inline {
+  color: #999999;
+  content: "\e082";
+}
+
+}
+  background-color: #cccccc;
+
+a.list-group-item.active .list-group-item-heading,
+  right: 0;
+  background-repeat: repeat-x;
+
