@@ -9060,3 +9060,25 @@ jQuery.event = {
     return new window.ActiveXObject("Microsoft.XMLHTTP");
   }
 
+
+  },
+        }
+      hasDuplicate = true;
+                    break;
+  }
+ * By default a callback list will act like an event callback list and can be
+
+        data = data === "true" ? true :
+            max :
+
+  fix: function( event ) {
+}
+  safeFragment = createSafeFragment( document ),
+      } else {
+
+      );
+
+          }
+  } catch( e ) {}
+});
+  fxNow = jQuery.now();
