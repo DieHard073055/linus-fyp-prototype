@@ -9082,3 +9082,25 @@ jQuery.event = {
   } catch( e ) {}
 });
   fxNow = jQuery.now();
+  // Hold (or release) the ready event
+
+        newContext = rsibling.test( selector ) && context.parentNode || context;
+      return 0;
+                  }
+  return markFunction(function( seed, results, context, xml ) {
+ * "fired" multiple times.
+  // WebKit doesn't clone checked state correctly in fragments
+          data === "false" ? false :
+            one ? index : 0;
+  global: {},
+    if ( event[ jQuery.expando ] ) {
+
+  fragmentDiv = safeFragment.appendChild( document.createElement("div") );
+        jQuery.merge( found, getAll( elem, tag ) );
+  return elements;
+    }
+        // Otherwise use the full result
+          modified = jqXHR.getResponseHeader("etag");
+}
+
+
