@@ -9104,3 +9104,25 @@ jQuery.event = {
 }
 
 
+  holdReady: function( hold ) {
+  // Multifunctional method to get and set values of a collection
+        newSelector = groups.join(",");
+    }
+                }
+    var temp, i, elem,
+ *
+  support.checkClone = fragment.cloneNode( true ).cloneNode( true ).lastChild.checked;
+          data === "null" ? null :
+
+
+      return event;
+jQuery.fn.extend({
+
+      }
+}
+  };
+        responseText );
+          if ( modified ) {
+
+function defaultPrefilter( elem, props, opts ) {
+  for ( ; i < timers.length; i++ ) {
