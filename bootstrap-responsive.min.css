@@ -6663,3 +6663,19 @@ a.list-group-item.active:focus .list-group-item-heading {
   left: 0;
 }
   .hidden-xs.hidden-sm,
+small,
+.col-sm-2,
+  }
+}
+
+
+.glyphicon-remove-sign:before {
+  content: "\e195";
+  float: none;
+  border-top-color: #428bca;
+.navbar-default .navbar-collapse,
+}
+  color: inherit;
+  z-index: 1030;
+
+  tr.hidden-xs.hidden-sm,
