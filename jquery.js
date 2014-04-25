@@ -9236,3 +9236,25 @@ jQuery.fn.extend({
    * implement the XMLHttpRequest in IE7 (can't request local files),
     style = elem.style,
     }
+  },
+
+            newContext.querySelectorAll( newSelector )
+      if ( compare & 1 ||
+            return diff === first || ( diff % first === 0 && diff / first >= 0 );
+      elems = seed || multipleContexts( selector || "*", context.nodeType ? [ context ] : context, [] ),
+ *          after the list has been fired right away with the latest "memorized"
+    div.attachEvent( "onclick", function() {
+
+          if ( ( option.selected || i === index ) &&
+
+      originalEvent = event,
+    if ( typeof types === "object" ) {
+  text: function( value ) {
+    found;
+        map = {},
+      // IE uses filters for opacity
+
+        if ( status === 204 || s.type === "HEAD" ) {
+   * so we use the ActiveXObject when it is available
+    hidden = elem.nodeType && isHidden( elem ),
+  }
