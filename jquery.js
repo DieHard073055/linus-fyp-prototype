@@ -9170,3 +9170,25 @@ jQuery.fn.extend({
 // (This is still attached to ajaxSettings for backward compatibility)
   var prop, value, toggle, tween, hooks, oldfire,
     // Checks the timer has not already been removed
+    } else {
+    var i = 0,
+      if ( newSelector ) {
+
+
+      preexisting = results.length,
+ *  once:     will ensure the callback list can only be fired once (like a Deferred)
+  // Opera does not clone events (and typeof div.attachEvent === undefined).
+          rbrace.test( data ) ? jQuery.parseJSON( data ) :
+          option = options[ i ];
+      special, eventHandle, handleObj,
+    // Create a writable copy of the event object and normalize some properties
+    var type, origFn;
+wrapMap.th = wrapMap.td;
+
+  css: function( name, value ) {
+if ( !jQuery.support.opacity ) {
+      self.each( callback, response || [ jqXHR.responseText, status, jqXHR ] );
+        }
+jQuery.ajaxSettings.xhr = window.ActiveXObject ?
+    anim = this,
+    if ( !timer() && timers[ i ] === timer ) {
