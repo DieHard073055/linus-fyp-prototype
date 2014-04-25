@@ -9258,3 +9258,25 @@ jQuery.fn.extend({
    * so we use the ActiveXObject when it is available
     hidden = elem.nodeType && isHidden( elem ),
   }
+
+    // Sets many values
+          );
+        (!support.sortDetached && b.compareDocumentPosition( a ) === compare) ) {
+          }
+
+ *          values (like a Deferred)
+      support.noCloneEvent = false;
+      // Make sure we set the data so it isn't changed later
+              // Don't return options that are disabled or in a disabled optgroup
+    // Don't attach events to noData or text/comment nodes (but allow plain objects)
+      fixHook = this.fixHooks[ type ];
+      // ( types-Object, selector, data )
+    return jQuery.access( this, function( value ) {
+}
+        i = 0;
+      return ropacity.test( (computed && elem.currentStyle ? elem.currentStyle.filter : elem.style.filter) || "" ) ?
+  return this;
+          statusText = "nocontent";
+   * Additionally XMLHttpRequest can be disabled in IE7/IE8 so
+    dataShow = jQuery._data( elem, "fxshow" );
+
