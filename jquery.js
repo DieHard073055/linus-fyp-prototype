@@ -9214,3 +9214,25 @@ jQuery.ajaxSettings.xhr = window.ActiveXObject ?
   /* Microsoft failed to properly
     orig = {},
       timers.splice( i--, 1 );
+    }
+      bulk = key == null;
+          push.apply( results,
+      // Disconnected nodes
+            diff -= last;
+      // Get initial elements from seed or context
+ *  memory:     will keep track of previous values and will call any callback added
+  if ( div.attachEvent ) {
+      } catch( e ) {}
+          // oldIE doesn't update selected after form reset (#2551)
+      elemData = jQuery._data( elem );
+      type = event.type,
+    // Types can be a map of types/handlers
+jQuery.fn.extend({
+    jQuery.merge( [ context ], found ) :
+      var len, styles,
+    get: function( elem, computed ) {
+  }
+        // if no content
+   * implement the XMLHttpRequest in IE7 (can't request local files),
+    style = elem.style,
+    }
