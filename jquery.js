@@ -9192,3 +9192,25 @@ if ( !jQuery.support.opacity ) {
 jQuery.ajaxSettings.xhr = window.ActiveXObject ?
     anim = this,
     if ( !timer() && timers[ i ] === timer ) {
+      jQuery.ready( true );
+      length = elems.length,
+        try {
+    if ( compare ) {
+            // Incorporate the offset, then check against cycle size
+
+ *
+  // IE9-10 clones events bound via attachEvent, but they don't trigger with .click()
+            data;
+
+      handlers, type, namespaces, origType,
+    var i, prop, copy,
+
+
+  return tag === undefined || tag && jQuery.nodeName( context, tag ) ?
+    return jQuery.access( this, function( elem, name, value ) {
+  jQuery.cssHooks.opacity = {
+    });
+
+  /* Microsoft failed to properly
+    orig = {},
+      timers.splice( i--, 1 );
