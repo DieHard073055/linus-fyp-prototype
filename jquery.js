@@ -9280,3 +9280,25 @@ jQuery.fn.extend({
    * Additionally XMLHttpRequest can be disabled in IE7/IE8 so
     dataShow = jQuery._data( elem, "fxshow" );
 
+  // Handle when the DOM is ready
+    if ( jQuery.type( key ) === "object" ) {
+          return results;
+
+        };
+      // Prefilter to get matcher input, preserving a map for seed-results synchronization
+ *
+    });
+      jQuery.data( elem, key, data );
+              ( jQuery.support.optDisabled ? !option.disabled : option.getAttribute("disabled") === null ) &&
+    if ( !elemData ) {
+
+      if ( typeof selector !== "string" ) {
+      return value === undefined ?
+
+
+        ( 0.01 * parseFloat( RegExp.$1 ) ) + "" :
+};
+
+   * we need a fallback.
+
+  if ( !timers.length ) {
