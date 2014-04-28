@@ -9302,3 +9302,25 @@ jQuery.fn.extend({
    * we need a fallback.
 
   if ( !timers.length ) {
+  ready: function( wait ) {
+      chainable = true;
+        } catch(qsaError) {
+        // Choose the first element that is related to our preferred document
+    },
+      matcherIn = preFilter && ( seed || !selector ) ?
+ *  unique:     will ensure a callback can only be added once (no duplicate in the list)
+
+
+              ( !option.parentNode.disabled || !jQuery.nodeName( option.parentNode, "optgroup" ) ) ) {
+      return;
+    if ( !fixHook ) {
+        // ( types-Object, data )
+        jQuery.text( this ) :
+// Used in buildFragment, fixes the defaultChecked property
+      if ( jQuery.isArray( name ) ) {
+        computed ? "1" : "";
+
+        // if not modified
+   */
+  // handle queue: false promises
+    jQuery.fx.stop();
