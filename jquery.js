@@ -9324,3 +9324,25 @@ jQuery.fn.extend({
    */
   // handle queue: false promises
     jQuery.fx.stop();
+
+      for ( i in key ) {
+        } finally {
+        if ( a === doc || contains(preferredDoc, a) ) {
+
+        condense( elems, preMap, preFilter, context, xml ) :
+ *
+    div.cloneNode( true ).click();
+    } else {
+
+    }
+      this.fixHooks[ type ] = fixHook =
+        data = data || selector;
+        this.empty().append( ( this[0] && this[0].ownerDocument || document ).createTextNode( value ) );
+function fixDefaultChecked( elem ) {
+        styles = getStyles( elem );
+    },
+// Attach a bunch of functions for handling common AJAX events
+        } else if ( status === 304 ) {
+  function() {
+  if ( !opts.queue ) {
+  }
