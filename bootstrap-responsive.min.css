@@ -6759,3 +6759,19 @@ a.list-group-item.active:focus .list-group-item-text {
   opacity: 0;
   opacity: 0.9;
 }
+  font-style: normal;
+.col-lg-3,
+@media (min-width: 992px) {
+
+
+}
+}
+
+  display: none;
+  border-bottom-color: #2a6496;
+.navbar-default .navbar-nav > .dropdown > a:focus .caret {
+
+  color: #e1edf7;
+  filter: alpha(opacity=0);
+  filter: alpha(opacity=90);
+
