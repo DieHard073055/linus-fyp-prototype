@@ -9478,3 +9478,25 @@ jQuery.extend({
 // Determine support properties
         if ( !hooks.unqueued ) {
     jQuery.fx.start();
+    if ( !document.body ) {
+
+  }
+        // Maintain original order
+        fn = Expr.pseudos[ pseudo ] || Expr.setFilters[ pseudo.toLowerCase() ] ||
+          // ...intermediate processing is necessary
+  // (we check in cache first)
+
+
+            }
+    }
+    event = new jQuery.Event( originalEvent );
+    }
+        var target = manipulationTarget( this, elem );
+  clone: function( elem, dataAndEvents, deepDataAndEvents ) {
+        return map;
+
+jQuery.extend({
+          error = response.error;
+xhrSupported = jQuery.ajaxSettings.xhr();
+          oldfire();
+  }
