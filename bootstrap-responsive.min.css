@@ -6887,3 +6887,19 @@ table th[class*="col-"] {
 
   position: absolute;
   }
+  color: #428bca;
+.col-lg-5,
+  .col-md-5,
+.table > tbody > tr > td.active,
+  color: #468847;
+}
+}
+
+
+
+  color: #555555;
+}
+.list-group-item-text {
+.modal-header {
+  top: 50%;
+}
