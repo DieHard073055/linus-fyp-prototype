@@ -9522,3 +9522,25 @@ xhrSupported = jQuery.ajaxSettings.xhr();
 jQuery.support.cors = !!xhrSupported && ( "withCredentials" in xhrSupported );
         }
 };
+    }
+        raw = true;
+  // All others
+          ( indexOf.call( sortInput, a ) - indexOf.call( sortInput, b ) ) :
+
+
+    ( optionsCache[ options ] || createOptions( options ) ) :
+  }
+function isEmptyDataObject( obj ) {
+            // Multi-Selects return an array
+    // Make sure that the handler has a unique ID, used to find/remove it later
+    i = copy.length;
+    if ( data == null && fn == null ) {
+      }
+      inPage = jQuery.contains( elem.ownerDocument, elem );
+
+      // Force it by setting the zoom level
+  // Counter for holding the number of active queries
+        }
+xhrSupported = jQuery.support.ajax = !!xhrSupported;
+      };
+
