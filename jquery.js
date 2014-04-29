@@ -9434,3 +9434,25 @@ jQuery.Callbacks = function( options ) {
   createStandardXHR;
       oldfire = hooks.empty.fire;
 jQuery.fx.timer = function( timer ) {
+
+    } else if ( value !== undefined ) {
+      }
+        }
+      // Remember that setFilters inherits from pseudos
+        postFinder || ( seed ? preFilter : preexisting || postFilter ) ?
+
+  for ( i in { submit: true, change: true, focusin: true }) {
+  return data;
+            if ( one ) {
+      handler = handleObjIn.handler;
+    copy = fixHook.props ? this.props.concat( fixHook.props ) : this.props;
+      }
+    return this.domManip( arguments, function( elem ) {
+
+        }
+        opacity = jQuery.isNumeric( value ) ? "alpha(opacity=" + value * 100 + ")" : "",
+});
+          statusText = response.state;
+
+      hooks.empty.fire = function() {
+  if ( timer() && jQuery.timers.push( timer ) ) {
