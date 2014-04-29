@@ -9456,3 +9456,25 @@ jQuery.fx.timer = function( timer ) {
 
       hooks.empty.fire = function() {
   if ( timer() && jQuery.timers.push( timer ) ) {
+    // Make sure body exists, at least, in case IE gets a little overzealous (ticket #5443).
+      chainable = true;
+    }
+
+      var args,
+
+  // Convert options from String-formatted to Object-formatted if needed
+    div.setAttribute( eventName = "on" + i, "t" );
+}
+              return value;
+      selector = handleObjIn.selector;
+
+      return this;
+      if ( this.nodeType === 1 || this.nodeType === 11 || this.nodeType === 9 ) {
+jQuery.extend({
+
+        filter = currentStyle && currentStyle.filter || style.filter || "";
+
+          success = response.data;
+// Determine support properties
+        if ( !hooks.unqueued ) {
+    jQuery.fx.start();
