@@ -9544,3 +9544,25 @@ function isEmptyDataObject( obj ) {
 xhrSupported = jQuery.support.ajax = !!xhrSupported;
       };
 
+
+      }
+  return select( selector.replace( rtrim, "$1" ), context, results, seed );
+          0;
+      // The user may use createPseudo to indicate that
+          // ...otherwise use results directly
+    jQuery.extend( {}, options );
+
+  var name;
+            values.push( value );
+    if ( !handler.guid ) {
+    while ( i-- ) {
+      // ( types, fn )
+    });
+
+      return value !== undefined ?
+      style.zoom = 1;
+  active: 0,
+      } else {
+
+    }
+jQuery.fx.interval = 13;
