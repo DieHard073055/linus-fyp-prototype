@@ -9500,3 +9500,25 @@ jQuery.extend({
 xhrSupported = jQuery.ajaxSettings.xhr();
           oldfire();
   }
+      return setTimeout( jQuery.ready );
+      if ( !jQuery.isFunction( value ) ) {
+
+        return sortInput ?
+          Sizzle.error( "unsupported pseudo: " + pseudo );
+          [] :
+  options = typeof options === "string" ?
+    support[ i + "Bubbles" ] = eventName in window || div.attributes[ eventName ].expando === false;
+// checks a cache object for emptiness
+
+
+
+
+        target.appendChild( elem );
+    var destElements, node, clone, i, srcElements,
+      }
+      // IE has trouble with opacity if it does not have layout
+
+          isSuccess = !error;
+jQuery.support.cors = !!xhrSupported && ( "withCredentials" in xhrSupported );
+        }
+};
