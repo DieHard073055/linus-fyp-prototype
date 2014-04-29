@@ -6871,3 +6871,19 @@ table th[class*="col-"] {
 }
 .carousel-control .glyphicon-chevron-right {
     display: none !important;
+.text-primary {
+.col-md-5,
+  .col-md-4,
+.table > thead > tr > td.active,
+.has-success .input-group-addon {
+  border-radius: 3px;
+  content: "\e086";
+}
+}
+}
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: #c9302c;
+
+
+  position: absolute;
+  }
