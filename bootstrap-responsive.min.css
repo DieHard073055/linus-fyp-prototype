@@ -6855,3 +6855,19 @@ table th[class*="col-"] {
   filter: alpha(opacity=50);
 .carousel-control .glyphicon-chevron-left,
   td.hidden-xs.hidden-md {
+
+.col-sm-5,
+  .col-md-3,
+
+
+  line-height: 1.5;
+.glyphicon-info-sign:before {
+  content: "\e199";
+  border-collapse: separate;
+  border-top-left-radius: 0;
+.navbar-default .navbar-nav > .open > a:hover,
+.label-danger[href]:focus {
+}
+}
+.carousel-control .glyphicon-chevron-right {
+    display: none !important;
