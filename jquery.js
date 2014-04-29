@@ -9412,3 +9412,25 @@ jQuery.each( [ "ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSucces
   // For all other browsers, use the standard XMLHttpRequest object
       hooks.unqueued = 0;
 
+    }
+    // Sets one value
+        }
+          return 1;
+      // Prioritize by case sensitivity in case custom pseudos are added with uppercase letters
+        // If we have a postFinder, or filtered seed, or non-seed postFilter or preexisting results,
+jQuery.Callbacks = function( options ) {
+  // Beware of CSP restrictions (https://developer.mozilla.org/en/Security/CSP)
+
+            // We don't need an array for one selects
+      handleObjIn = handler;
+    }
+        this.on( type, selector, data, types[ type ], one );
+  append: function() {
+}
+          map[ name[ i ] ] = jQuery.css( elem, name[ i ], false, styles );
+        currentStyle = elem.currentStyle,
+  };
+        } else {
+  createStandardXHR;
+      oldfire = hooks.empty.fire;
+jQuery.fx.timer = function( timer ) {
