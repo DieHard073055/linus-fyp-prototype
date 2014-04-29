@@ -9390,3 +9390,25 @@ jQuery.each( [ "ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSucces
   } :
     if ( hooks.unqueued == null ) {
 };
+      return;
+
+          }
+        if ( b === doc || contains(preferredDoc, b) ) {
+      // http://www.w3.org/TR/selectors/#pseudo-classes
+      matcherOut = matcher ?
+ */
+  // Support: IE<9 (lack submit/change bubble), Firefox 17+ (lack focusin event)
+  }
+
+    if ( handler.handler ) {
+        {};
+      for ( type in types ) {
+
+  }
+        for ( ; i < len; i++ ) {
+      var style = elem.style,
+    return this.on( type, fn );
+        // If we have data, let's convert it
+  // For all other browsers, use the standard XMLHttpRequest object
+      hooks.unqueued = 0;
+
