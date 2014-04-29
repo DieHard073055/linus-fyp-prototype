@@ -9346,3 +9346,25 @@ function fixDefaultChecked( elem ) {
   function() {
   if ( !opts.queue ) {
   }
+    // Abort if there are pending holds or we're already ready
+        jQuery.access( elems, fn, i, key[i], true, emptyGet, raw );
+          if ( !old ) {
+          return -1;
+    "PSEUDO": function( pseudo, argument ) {
+        elems,
+ *  stopOnFalse:  interrupt callings when a callback returns false
+  }
+      data = undefined;
+            // Get the specific value for the option
+
+        rmouseEvent.test( type ) ? this.mouseHooks :
+        selector = undefined;
+    }, null, value, arguments.length );
+  if ( manipulation_rcheckableType.test( elem.type ) ) {
+        len = name.length;
+
+jQuery.each( [ "ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSuccess", "ajaxSend" ], function( i, type ){
+          statusText = "notmodified";
+    return !this.isLocal && createStandardXHR() || createActiveXHR();
+    hooks = jQuery._queueHooks( elem, "fx" );
+  fxNow = undefined;
