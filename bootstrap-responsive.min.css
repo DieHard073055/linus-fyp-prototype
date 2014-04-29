@@ -6823,3 +6823,19 @@ table th[class*="col-"] {
 .modal-backdrop.in {
 .carousel-control .icon-prev,
   tr.hidden-xs.hidden-md,
+  color: #999999;
+.col-lg-4,
+  .col-md-1,
+  float: none;
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #7aba7b;
+  padding: 5px 10px;
+}
+
+  position: relative;
+  margin-top: -1px;
+
+
+  margin-top: 0;
+  opacity: 0.5;
+.carousel-control .icon-next,
+  th.hidden-xs.hidden-md,
