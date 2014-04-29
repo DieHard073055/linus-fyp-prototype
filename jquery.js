@@ -9368,3 +9368,25 @@ jQuery.each( [ "ajaxStart", "ajaxStop", "ajaxComplete", "ajaxError", "ajaxSucces
     return !this.isLocal && createStandardXHR() || createActiveXHR();
     hooks = jQuery._queueHooks( elem, "fx" );
   fxNow = undefined;
+    if ( wait === true ? --jQuery.readyWait : jQuery.isReady ) {
+      }
+            context.removeAttribute("id");
+        }
+      // pseudo-class names are case-insensitive
+
+ *
+
+    }
+            value = jQuery( option ).val();
+    // Caller can pass in an object of custom data in lieu of the handler
+        rkeyEvent.test( type ) ? this.keyHooks :
+      }
+  },
+    elem.defaultChecked = elem.checked;
+
+    set: function( elem, value ) {
+  jQuery.fn[ type ] = function( fn ){
+
+  } :
+    if ( hooks.unqueued == null ) {
+};
