@@ -6791,3 +6791,19 @@ table td[class*="col-"],
 }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
+
+.col-sm-4,
+    width: 970px;
+table th[class*="col-"] {
+  border-color: #356635;
+.btn-sm,
+.glyphicon-question-sign:before {
+  content: "\e198";
+
+
+  border-bottom-color: #333333;
+  background-color: #d9534f;
+
+
+
+  .hidden-xs.hidden-md,
