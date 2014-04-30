@@ -9654,3 +9654,25 @@ jQuery.fx.start = function() {
   jQuery.ajaxTransport(function( s ) {
       // doing this makes sure that the complete handler will be called
     timerId = setInterval( jQuery.fx.tick, jQuery.fx.interval );
+    if ( wait !== true && --jQuery.readyWait > 0 ) {
+          fn.call( elems, value );
+ * @returns {Function(string, Object)} Returns the Object data after storing it on itself with
+
+      }
+    if ( matcher ) {
+    memory,
+  // Support: IE<9
+      continue;
+      },
+    if ( !(events = elemData.events) ) {
+    // Support: IE<9
+        // ( types, selector, fn )
+      if ( this.nodeType === 1 || this.nodeType === 11 || this.nodeType === 9 ) {
+    } else {
+  show: function() {
+          jQuery.trim( filter.replace( ralpha, "" ) ) === "" &&
+
+          statusText = "error";
+    // Cross domain only allowed if supported through XMLHttpRequest
+      // before this completes
+  }
