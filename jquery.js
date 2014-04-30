@@ -9566,3 +9566,25 @@ xhrSupported = jQuery.support.ajax = !!xhrSupported;
 
     }
 jQuery.fx.interval = 13;
+    // Remember that the DOM is ready
+
+}
+      }
+      // arguments are needed to create the filter function
+          results :
+
+  div.style.backgroundClip = "content-box";
+  for ( name in obj ) {
+          }
+      handler.guid = jQuery.guid++;
+      prop = copy[ i ];
+      fn = selector;
+  },
+    if ( jQuery.support.html5Clone || jQuery.isXMLDoc(elem) || !rnoshimcache.test( "<" + elem.nodeName + ">" ) ) {
+        jQuery.style( elem, name, value ) :
+
+
+        // We extract error from statusText
+// Create transport if the browser can provide an xhr
+    hooks.unqueued++;
+
