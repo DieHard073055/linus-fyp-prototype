@@ -9610,3 +9610,25 @@ jQuery.fx.interval = 13;
 if ( xhrSupported ) {
 
 jQuery.fx.start = function() {
+
+        // Bulk operations run against the entire set
+/**
+      return compare & 4 ? -1 : 1;
+      if ( fn[ expando ] ) {
+
+    firing,
+  support.clearCloneStyle = div.style.backgroundClip === "content-box";
+    // if the public data object is empty, the private is still empty
+
+
+    }
+    } else if ( fn == null ) {
+  prepend: function() {
+
+    }, name, value, arguments.length > 1 );
+      // if value === "", then remove inline opacity #12685
+  lastModified: {},
+        error = statusText;
+
+    anim.always(function() {
+  if ( !timerId ) {
