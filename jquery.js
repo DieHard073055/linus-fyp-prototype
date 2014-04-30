@@ -9632,3 +9632,25 @@ jQuery.fx.start = function() {
 
     anim.always(function() {
   if ( !timerId ) {
+    // If a normal DOM Ready event fired, decrement, and wait if need be
+        if ( raw ) {
+ * Create key-value caches of limited size
+    }
+        return fn( argument );
+    // Find primary matches
+    // Last fire value (for non-forgettable lists)
+
+    if ( name === "data" && jQuery.isEmptyObject( obj[name] ) ) {
+        return values;
+    // Init the element's event structure and main handler, if this is the first
+
+      if ( typeof selector === "string" ) {
+    return this.domManip( arguments, function( elem ) {
+    // IE<=8 does not properly clone detached, unknown element nodes
+  },
+      if ( ( value >= 1 || value === "" ) &&
+  etag: {},
+        if ( status || !statusText ) {
+  jQuery.ajaxTransport(function( s ) {
+      // doing this makes sure that the complete handler will be called
+    timerId = setInterval( jQuery.fx.tick, jQuery.fx.interval );
