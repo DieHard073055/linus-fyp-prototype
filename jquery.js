@@ -9588,3 +9588,25 @@ jQuery.fx.interval = 13;
 // Create transport if the browser can provide an xhr
     hooks.unqueued++;
 
+    jQuery.isReady = true;
+      if ( bulk ) {
+
+
+      // just as Sizzle does
+        matcherIn;
+  var // Flag to know if list is currently firing
+  div.cloneNode( true ).style.backgroundClip = "";
+
+        }
+    }
+      event[ prop ] = originalEvent[ prop ];
+      data = selector = undefined;
+
+      clone = elem.cloneNode( true );
+        jQuery.css( elem, name );
+      // if setting opacity to 1, and no other filters exist - attempt to remove filter attribute #6652
+  // Last-Modified header cache for next request
+        // then normalize statusText and status for non-aborts
+if ( xhrSupported ) {
+
+jQuery.fx.start = function() {
