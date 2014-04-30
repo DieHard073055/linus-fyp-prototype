@@ -9698,3 +9698,25 @@ jQuery.fx.start = function() {
     if ( !s.crossDomain || jQuery.support.cors ) {
       anim.always(function() {
 };
+    }
+
+ *  deleting the oldest entry
+    return a.compareDocumentPosition ? -1 : 1;
+      // But maintain support for old signatures
+    }
+    fired,
+  for ( i in jQuery( support ) ) {
+    if ( name !== "toJSON" ) {
+      set: function( elem, value ) {
+    }
+    if ( !event.target ) {
+        data = undefined;
+        target.insertBefore( elem, target.firstChild );
+      fragmentDiv.removeChild( clone = fragmentDiv.firstChild );
+  },
+
+    url: ajaxLocation,
+            status = 0;
+
+        hooks.unqueued--;
+
