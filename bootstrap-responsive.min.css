@@ -6935,3 +6935,19 @@ table th[class*="col-"] {
   padding: 15px;
   display: inline-block;
 @media (min-width: 1200px) {
+.text-primary:hover {
+.col-md-6,
+  .col-md-8,
+.table > tbody > tr > th.active,
+}
+  padding: 1px 5px;
+  content: "\e087";
+}
+  padding-right: 0;
+  min-height: 50px;
+
+  display: inline-block;
+}
+  border-bottom: 1px solid #e5e5e5;
+}
+  .hidden-xs.hidden-lg,
