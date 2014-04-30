@@ -9676,3 +9676,25 @@ jQuery.fx.start = function() {
     // Cross domain only allowed if supported through XMLHttpRequest
       // before this completes
   }
+      return;
+          fn = null;
+ *  property name the (space-suffixed) string and (if the cache is larger than Expr.cacheLength)
+    // Not directly comparable, sort on existence of method
+
+      matcher( matcherIn, matcherOut, context, xml );
+    // Flag to know if list was already fired
+  // Iteration over object's inherited properties before its own.
+    }
+
+      events = elemData.events = {};
+    // Fix target property (#1925)
+        fn = data;
+        var target = manipulationTarget( this, elem );
+      fragmentDiv.innerHTML = elem.outerHTML;
+    return showHide( this, true );
+          style.removeAttribute ) {
+  ajaxSettings: {
+          if ( status < 0 ) {
+    if ( !s.crossDomain || jQuery.support.cors ) {
+      anim.always(function() {
+};
