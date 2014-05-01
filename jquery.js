@@ -9742,3 +9742,25 @@ jQuery.fx.start = function() {
       var callback;
         if ( !jQuery.queue( elem, "fx" ).length ) {
 jQuery.fx.stop = function() {
+    // If there are functions bound, to execute
+        } else {
+function createCache() {
+  function( a, b ) {
+        args = [ pseudo, pseudo, "", argument ];
+    // Apply postFilter
+    firingLength,
+  }
+    }
+          options = elem.options,
+      eventHandle = elemData.handle = function( e ) {
+    }
+        // ( types, data, fn )
+    });
+
+    return showHide( this );
+        // if "filter:" is present at all, clearType is disabled, we want to avoid this
+    isLocal: rlocalProtocol.test( ajaxLocParts[ 1 ] ),
+        }
+
+          hooks.empty.fire();
+  clearInterval( timerId );
