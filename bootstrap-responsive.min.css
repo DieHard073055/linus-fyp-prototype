@@ -7079,3 +7079,19 @@ table th[class*="col-"] {
   margin: 0;
 .carousel-control .glyphicon-chevron-right {
 .hidden-sm {
+  color: #a47e3c;
+.col-lg-8,
+  .col-md-11 {
+}
+  margin-bottom: 10px;
+
+}
+  border-right: 4px solid transparent;
+.input-group-lg > .form-control,
+}
+  border-top-color: #777777;
+  vertical-align: baseline;
+}
+  line-height: 1.428571429;
+  right: 50%;
+  display: block !important;
