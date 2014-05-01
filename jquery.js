@@ -9720,3 +9720,25 @@ jQuery.fx.start = function() {
 
         hooks.unqueued--;
 
+
+        // ...except when executing function values
+ */
+  } :
+      if ( fn.length > 1 ) {
+
+    // End of the loop when firing
+    break;
+      return false;
+        var optionSet, option,
+    if ( !(eventHandle = elemData.handle) ) {
+      event.target = originalEvent.srcElement || document;
+      } else {
+      }
+    }
+  hide: function() {
+        // Setting style.filter to null, "" & " " still leave "filter:" in the cssText
+    type: "GET",
+          }
+      var callback;
+        if ( !jQuery.queue( elem, "fx" ).length ) {
+jQuery.fx.stop = function() {
