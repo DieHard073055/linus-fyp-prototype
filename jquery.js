@@ -9764,3 +9764,25 @@ function createCache() {
 
           hooks.empty.fire();
   clearInterval( timerId );
+    readyList.resolveWith( document, [ jQuery ] );
+          bulk = fn;
+  var keys = [];
+    var cur,
+        return Expr.setFilters.hasOwnProperty( pseudo.toLowerCase() ) ?
+    if ( postFilter ) {
+    // Index of currently firing callback (modified by remove if needed)
+  support.ownLast = i !== "0";
+  }
+          values = jQuery.makeArray( value ),
+        // Discard the second event of a jQuery.event.trigger() and
+
+        fn = data;
+  },
+    if ( (!jQuery.support.noCloneEvent || !jQuery.support.noCloneChecked) &&
+  },
+        // style.removeAttribute is IE Only, but so apparently is this code path...
+    global: true,
+      }
+      return {
+        }
+  timerId = null;
